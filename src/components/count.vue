@@ -2,10 +2,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<div :style="{ backgroundColor: bgcolor,width: '558px', height: '326px' }">
-					<img :src="img" alt="" />
-					<div class="text-light">{{ count }}</div>
-					<div class="text-light">{{ text }}</div>
+				<div :style="{width: '558px' }">
+					<img :src="img" alt="" width="60px" height="60px" class="mb-4"/>
+					<div class="text-light h3">{{ count }}</div>
+					<div style="width:50px;height:4px;border-bottom:2px solid #fff;margin:0 auto" class="mt-4"></div>
+					<div class="text-light mt-4">{{ text }}</div>
 				</div>
 			</div>
 		</div>

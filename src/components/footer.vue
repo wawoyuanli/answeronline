@@ -1,6 +1,6 @@
 <template>
-	<div class="footer-box">
-		<div class="container">
+	<div class="footer-box pt-5">
+		<div class="container mt-5 mb-5">
 			<div class="row">
 				<div class="col-md-3 text-light text-left">
 					<img
@@ -27,7 +27,7 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">FAQ</a>
+						<a href="#/faq" class="text-light text-decoration-none">FAQ</a>
 					</li>
 					<li style="display: flex">
 						<img
@@ -36,7 +36,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Security</a>
+						<a href="#/security" class="text-light text-decoration-none"
+							>Security</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -45,7 +47,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Consumer Rights</a>
+						<a href="#/consumerrights" class="text-light text-decoration-none"
+							>Consumer Rights</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -54,7 +58,7 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Terms</a>
+						<a href="#/terms" class="text-light text-decoration-none">Terms</a>
 					</li>
 					<li style="display: flex">
 						<img
@@ -63,7 +67,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Privacy Policy</a>
+						<a href="#/privacyPolicy" class="text-light text-decoration-none"
+							>Privacy Policy</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -72,7 +78,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Contact Us</a>
+						<a href="#/contactUs" class="text-light text-decoration-none"
+							>Contact Us</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -81,7 +89,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Language</a>
+						<a href="#/language" class="text-light text-decoration-none"
+							>Language</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -90,7 +100,9 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Affiliate </a>
+						<a href="#/affiliate" class="text-light text-decoration-none"
+							>Affiliate
+						</a>
 					</li>
 					<li style="display: flex">
 						<img
@@ -99,7 +111,11 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light">Personal Information Requests</a>
+						<a
+							href="#/personalInfoRequest"
+							class="text-light text-decoration-none"
+							>Personal Information Requests</a
+						>
 					</li>
 					<li style="display: flex">
 						<img
@@ -108,7 +124,7 @@
 							width="40px"
 							height="40px"
 						/>
-						<a href="#" class="text-light"
+						<a href="#/statement" class="text-light text-decoration-none"
 							>Do Not Sell My Personal Information</a
 						>
 					</li>
@@ -121,92 +137,100 @@
 							margin: 0px;
 							padding: 0px;
 							background: #292929;
+							border: 1px solid gray;
 						"
-						class="border"
 					>
-						<li
-							class="border-bottom m-auto"
+						<a
+							href="http://www.facebook.com"
+							class="text-decoration-none border-bottom"
 							style="display: flex; justify-content: center"
 						>
 							<img
 								src="@/assets/images/facebook.png"
 								alt=""
-								width="46px"
-								height="46px"
+								width="40px"
+								height="40px"
 								class="mt-1 mb-1"
 							/>
-							<div>
-								<div class="ml-3 text-left">ACOP</div>
-								<div class="ml-3 text-left">on Facebook</div>
+							<div style="width: 160px">
+								<div class="ml-3 text-left text-light">ACOP</div>
+								<div class="ml-3 text-left text-light">on Facebook</div>
 							</div>
-						</li>
-						<li
-							class="border-bottom"
+						</a>
+						<a
+							href="http://www.twitter.com"
+							class="text-decoration-none border-bottom"
 							style="display: flex; justify-content: center"
 						>
 							<img
 								src="@/assets/images/Twitter.png"
 								alt=""
-								width="46px"
-								height="46px"
-								class="mt-1 mb-1 mr-3"
+								width="40px"
+								height="40px"
 							/>
-							<div>
-								<div class="ml-3 text-left">ACOP</div>
-								<div class="ml-3 text-left">on Twitter</div>
+							<div style="width: 160px" class="">
+								<div class="ml-3 text-left text-light">ACOP</div>
+								<div class="ml-3 text-left text-light">on Twitter</div>
 							</div>
-						</li>
-						<li
-							class="border-bottom m-auto"
+						</a>
+						<a
+							href="http://www.pinterest.com"
+							class="text-decoration-none border-bottom"
 							style="display: flex; justify-content: center"
 						>
 							<img
 								src="@/assets/images/pinterest.png"
 								alt=""
-								width="46px"
-								height="46px"
+								width="40px"
+								height="40px"
 								class="mt-1 mb-1"
 							/>
-							<div>
-								<div class="ml-3 text-left">ACOP</div>
-								<div class="ml-3 text-left">on pinterest</div>
+							<div style="width: 160px">
+								<div class="ml-3 text-left text-light">ACOP</div>
+								<div class="ml-3 text-left text-light">on pinterest</div>
 							</div>
-						</li>
+						</a>
 
-						<li class="m-auto" style="display: flex; justify-content: center">
+						<a
+							href="https://wwd.com/tag/instagram/"
+							class="text-decoration-none"
+							style="display: flex; justify-content: center"
+						>
 							<img
 								src="@/assets/images/Instagram.png"
 								alt=""
-								width="46px"
-								height="46px"
+								width="40px"
+								height="40px"
 								class="mt-1 mb-1"
 							/>
-							<div>
-								<div class="ml-3 text-left">ACOP</div>
-								<div class="ml-3 text-left">on Instagram</div>
+							<div style="width: 160px">
+								<div class="ml-3 text-left text-light">ACOP</div>
+								<div class="ml-3 text-left text-light">on Instagram</div>
 							</div>
-						</li>
+						</a>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<div class="container-fluid">
-			<div class="row" style="background: #316995">
+			<div class="row pt-5 pb-5" style="background: #000">
 				<div class="col-md-2"></div>
 				<div class="col-md-4">
 					<p class="text-light text-left">
 						Copyright © 2021 All Rights Reserved by Decision Analyst, Inc.
 					</p>
 					<div class="text-light text-left">
-						<a href="">Terms of Use</a>/
-						<a href="">Privacy Policy</a>
+						<a href="" class="text-light text-decoration-none">Terms of Use</a>/
+						<a href="" class="text-light text-decoration-none"
+							>Privacy Policy</a
+						>
 					</div>
 				</div>
 				<div class="col-md-4 text-light text-right">
 					<div>img</div>
 					<div>aparks@acop.com @ACOPanel</div>
 				</div>
-                <div class="col-md-2"></div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 	</div>
