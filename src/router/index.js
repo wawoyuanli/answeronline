@@ -84,5 +84,10 @@ export default new Router({
             name: 'terms',
             component: () => import('@/views/terms/index.vue'),
         },
+        {
+            path: '/resetpwd',
+            name: 'resetpwd',
+            component: () => import('@/views/resetpwd/index.vue'),
+        }
     ]
 })

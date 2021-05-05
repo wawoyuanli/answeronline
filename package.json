@@ -12,6 +12,7 @@
     "less": "^4.1.1",
     "less-loader": "^4.1.0",
     "vue": "^2.6.11",
+    "vue-bootstrap-datetimepicker": "^5.0.1",
     "vue-router": "^3.5.1"
   },
   "devDependencies": {
