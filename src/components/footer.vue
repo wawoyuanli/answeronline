@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-3 text-light text-left">
 					<img
-						src="@/assets/images/pay.png"
+						src="@/assets/images/yunlogo.png"
 						alt=""
 						width="100px"
 						height="100px"
@@ -213,14 +213,15 @@
 			</div>
 		</div>
 		<div class="container-fluid">
-			<div class="row pt-5 pb-5" style="background: #000">
+			<div class="row pt-5 pb-5" style="background: #333333">
 				<div class="col-md-2"></div>
 				<div class="col-md-4">
 					<p class="text-light text-left">
 						Copyright © 2021 All Rights Reserved by Decision Analyst, Inc.
 					</p>
 					<div class="text-light text-left">
-						<a href="" class="text-light text-decoration-none">Terms of Use</a>/
+						<a href="" class="text-light text-decoration-none" id="terms">Terms of Use</a>
+						/
 						<a href="" class="text-light text-decoration-none"
 							>Privacy Policy</a
 						>
@@ -236,12 +237,33 @@
 	</div>
 </template>
 <script>
+import $ from 'jquery'
 export default {
 	name: 'Footer',
+	mounted() {
+		window.onload = function () {
+			// function $(id) {
+			// 	return document.getElementById(id)
+			// }
+			//鼠标进
+			$('terms').onmouseover = function () {
+				debugger
+				// this.style.display="none";
+				// $('mobileList').style.display = 'block'
+				//给当钱的添加样式
+				this.style.color = 'red'
+			}
+			//鼠标出
+			// $('headerMobile').onmouseout = function () {
+			// 	$('mobileList').style.display = 'none'
+			// 	this.style.boxShadow = 'none'
+			// }
+		}
+	},
 }
 </script>
 <style scoped lang="less">
 .footer-box {
-	background-color: #333333;
+	background-color: #3c5997;
 }
 </style>

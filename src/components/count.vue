@@ -4,9 +4,9 @@
 			<div class="col-md-4">
 				<div :style="{width: '558px' }">
 					<img :src="img" alt="" width="60px" height="60px" class="mb-4"/>
-					<div class="text-light h3">{{ count }}</div>
+					<div class="text-light h3">{{ number }}</div>
 					<div style="width:50px;height:4px;border-bottom:2px solid #fff;margin:0 auto" class="mt-4"></div>
-					<div class="text-light mt-4">{{ text }}</div>
+					<div class="text-light mt-4 h5">{{ text }}</div>
 				</div>
 			</div>
 		</div>
@@ -23,12 +23,14 @@ export default {
         img:{
             type:String,
             default:'../assets/images/Like.png'
-        }
+        },
+		number:String,
+		text:String
 	},
 	data() {
 		return { 
 			count: '$30,146,855',
-			text: 'Paid Out',
+			// text: 'Paid Out',
 		}
 	},
     mounted(){

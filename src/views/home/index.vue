@@ -2,7 +2,7 @@
 	<div class="homepage">
 		<Nav />
 		<div class="" style="height: 550px"></div>
-		<div class="container-fluid" style="background: #333333">
+		<div class="container-fluid" style="background: #275894">
 			<div class="row pt-5 pb-5">
 				<div class="col-md-6 text-right border-right">
 					<div class="text-light h5">
@@ -10,7 +10,9 @@
 					</div>
 					<div class="sighup">
 						<div class="btn btn-danger text-light mt-4 btn-lg">
-							<a href="#/signup" class="text-decoration-none text-light">Sign Up!</a>
+							<a href="#/signup" class="text-decoration-none text-light"
+								>Sign Up!</a
+							>
 						</div>
 					</div>
 				</div>
@@ -18,7 +20,9 @@
 					<div class="text-light h5">LOGIN TO YOUR ACCOUNT</div>
 					<div class="sighup">
 						<div class="btn btn-info text-light mt-4 btn-lg">
-							<a href="#/login" class="text-decoration-none text-light">Login</a>
+							<a href="#/login" class="text-decoration-none text-light"
+								>Login</a
+							>
 						</div>
 						<div class="mt-4" style="font-size: 14px">Forgot Password?</div>
 					</div>
@@ -55,7 +59,11 @@
 							width="20px"
 							height="20px"
 						/>
-						<a class="text-center text-light" style="width: 80%" href="https://www.facebook.com/">
+						<a
+							class="text-center text-light"
+							style="width: 80%"
+							href="https://www.facebook.com/"
+						>
 							Login with Facebook
 						</a>
 					</div>
@@ -97,7 +105,11 @@
 							width="20px"
 							height="20px"
 						/>
-						<a class="text-center text-light" style="width: 80%" href="https://appleid.apple.com/">
+						<a
+							class="text-center text-light"
+							style="width: 80%"
+							href="https://appleid.apple.com/"
+						>
 							Sign in with Apple
 						</a>
 					</div>
@@ -117,8 +129,8 @@
 				<div class="col-md-3"></div>
 				<div class="col-md-6 h5">
 					<div style="color: gray">
-						American Consumer Opinion® has over 6 million members worldwide who
-						get paid to participate in surveys and research projects.
+						LinkCloudSurvey has hundreds of thousands of members worldwide who
+						are paid to take part in surveys and research projects.
 					</div>
 					<div
 						style="width: 50px; border-bottom: 2px solid black; margin: 0 auto"
@@ -130,27 +142,51 @@
 		</div>
 		<div class="container-fluid clearfix" style="background: #fff">
 			<div class="row mb-5">
-				<div class="col-md-2"></div>
-				<div class="col-md-3">
-					<Because :img="'./static/thumbs-up.png'" />
+				<div class="col-md-1"></div>
+				<div class="col-md-3 ml-5">
+					<Because
+						:img="'./static/thumbs-up.png'"
+						:title="title1"
+						:content="content1"
+					/>
 				</div>
 				<div class="col-md-3">
-					<Because :img="'./static/money.png'" />
+					<Because
+						:img="'./static/money.png'"
+						:title="title2"
+						:content="content2"
+					/>
 				</div>
 				<div class="col-md-3">
-					<Because :img="'./static/megaphone.png'" />
+					<Because
+						:img="'./static/megaphone.png'"
+						:title="title3"
+						:content="content3"
+					/>
 				</div>
 			</div>
 			<div class="row pt-5">
-				<div class="col-md-2"></div>
-				<div class="col-md-3">
-					<Because :img="'./static/shopping-basket.png'" />
+				<div class="col-md-1"></div>
+				<div class="col-md-3 ml-5">
+					<Because
+						:img="'./static/shopping-basket.png'"
+						:title="title4"
+						:content="content4"
+					/>
 				</div>
 				<div class="col-md-3">
-					<Because :img="'./static/movie.png'" />
+					<Because
+						:img="'./static/movie.png'"
+						:title="title5"
+						:content="content5"
+					/>
 				</div>
 				<div class="col-md-3">
-					<Because :img="'./static/shield.png'" />
+					<Because
+						:img="'./static/shield.png'"
+						:title="title6"
+						:content="content6"
+					/>
 				</div>
 			</div>
 			<div class="row mb-5 mt-5 pt-5">
@@ -178,26 +214,44 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-4" style="background: #505975">
-					<div style="height: 60px"></div>
-					<Count ref="count" :img="'./static/Like.png'" />
-					<div style="height: 50px"></div>
+				<div class="col-md-3"></div>
+				<div class="col-md-6">
+					<p class="h2">Our Achievement</p>
+					<p>
+						Based on your demographics, linkcloudsurvey will provide you with
+						paid research and market research opportunities and will provide you
+						with remuneration.
+					</p>
 				</div>
-				<div class="col-md-4" style="background: #586f9e">
+			</div>
+			<div class="row">
+				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
-						:bgcolor="'#586f9e'"
+						:img="'./static/Like.png'"
+						:number="'$5319018'"
+						:text="'Total Payout To Date'"
+					/>
+					<div style="height: 50px"></div>
+				</div>
+				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
+					<div style="height: 60px"></div>
+					<Count
+						ref="count"
 						:img="'./static/wechat.png'"
+						:number="'300000+'"
+						:text="'Surveys Taken '"
 					/>
 					<div style="height: 60px"></div>
 				</div>
-				<div class="col-md-4" style="background: #6798b9">
+				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
 						:bgcolor="'#6798b9'"
 						:img="'./static/people.png'"
+						:number="'89721'" :text="'Monthly Active Users'"
 					/>
 					<div style="height: 60px"></div>
 				</div>
@@ -205,53 +259,64 @@
 		</div>
 		<div style="height: 140px"></div>
 		<div style="background: #275894">
-			<div style="height:60px"></div>
-			<div class="container text-light" >
-			<div class="row"></div>
-			<div class="row mt-5">
-				<div class="col-md-12">
-					<p class="h1 pb-5 pt-5">What Our Members Are Saying</p>
-					<div style="width:50px;margin:0 auto" class="border-bottom mb-5"></div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 m-0 p-0">
-					<div class="border-bottom border-right">
-						<p class="text-left h6">"All emails and surveys are easy to follow."</p>
-						<p class="text-left h6">-- A.D., North Carolina</p>
-					</div>
-					<div class="border-right">
-						<p class="text-left h6 pt-4">All interesting & well done</p>
-						<p class="text-left h6">--M.J., Idaho</p>
+			<div style="height: 60px"></div>
+			<div class="container text-light">
+				<div class="row"></div>
+				<div class="row mt-5">
+					<div class="col-md-12">
+						<p class="h1 pb-5 pt-5">What Our Members Are Saying</p>
+						<div
+							style="width: 50px; margin: 0 auto"
+							class="border-bottom mb-5"
+						></div>
 					</div>
 				</div>
-				<div class="col-md-4 m-0 p-0">
-					<div class="border-bottom border-right">
-						<div class="text-left ml-2 h6">
-							I do surveys for several different companies and, I have to say,
-							American Consumer Opinion ranks at the top as they have a very
-							good site with no junk [that] seems to be well managed.
+				<div class="row">
+					<div class="col-md-4 m-0 p-0">
+						<div class="border-bottom border-right">
+							<p class="text-left h6">
+								"All emails and surveys are easy to follow."
+							</p>
+							<p class="text-left h6">-- A.D., North Carolina</p>
 						</div>
-						<p class="text-left ml-2 h6">--H.B., Tennessee</p>
+						<div class="border-right">
+							<p class="text-left h6 pt-4">All interesting & well done</p>
+							<p class="text-left h6">--M.J., Idaho</p>
+						</div>
 					</div>
-					<div class="border-right border-left">
-						<p class="text-left ml-2 h6 pt-4">Direct surveys, nice rewards, no problems.</p>
-						<p class="text-left ml-2 h6 mb-5">--A.W., California</p>
+					<div class="col-md-4 m-0 p-0">
+						<div class="border-bottom border-right">
+							<div class="text-left ml-2 h6">
+								I do surveys for several different companies and, I have to say,
+								American Consumer Opinion ranks at the top as they have a very
+								good site with no junk [that] seems to be well managed.
+							</div>
+							<p class="text-left ml-2 h6">--H.B., Tennessee</p>
+						</div>
+						<div class="border-right border-left">
+							<p class="text-left ml-2 h6 pt-4">
+								Direct surveys, nice rewards, no problems.
+							</p>
+							<p class="text-left ml-2 h6 mb-5">--A.W., California</p>
+						</div>
 					</div>
-				</div>
-				<div class="col-md-4 m-0 p-0">
-					<div class="border-bottom">
-						<p class="text-left ml-2 h6 mt-4">All emails and surveys are easy to follow.</p>
-						<p class="text-left ml-2 h6 mb-4">--A.D., North Carolina</p>
-					</div>
-					<div class="">
-						<p class="text-left ml-2 h6 mt-4">[It's] great to be a part of a great opinion site.</p>
-						<p class="text-left ml-2 h6">--J.S., Ohio</p>
+					<div class="col-md-4 m-0 p-0">
+						<div class="border-bottom">
+							<p class="text-left ml-2 h6 mt-4">
+								All emails and surveys are easy to follow.
+							</p>
+							<p class="text-left ml-2 h6 mb-4">--A.D., North Carolina</p>
+						</div>
+						<div class="">
+							<p class="text-left ml-2 h6 mt-4">
+								[It's] great to be a part of a great opinion site.
+							</p>
+							<p class="text-left ml-2 h6">--J.S., Ohio</p>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-			<div style="height:150px"></div>
+			<div style="height: 150px"></div>
 		</div>
 		<!-- join us -->
 		<div class="container-fluid">
@@ -259,17 +324,22 @@
 				<div class="col-md-3"></div>
 				<div class="col-md-6">
 					<p class="h2 mt-5 mb-5">JOIN US!</p>
-					<p style="color:gray" class="h4 mb-5">
+					<p style="color: gray" class="h4 mb-5">
 						You will never have to pay any money to be a member. Your
 						participation in our surveys is the only "cost" of membership. As a
 						panel member, you will typically participate in several surveys a
 						year.
 					</p>
 					<p class="h5 mb-5">MAKE YOUR OPINIONS COUNT.</p>
-					<button class="btn btn-primary mb-3 bg-lg" style="display:flex;margin:0 auto;">
-						<img src="@/assets/images/star.png" alt="">
-						<div class="h5" style="line-height:32px">SIGN UP!</div>
-					</button>
+					<a href="#/signup" class="text-decoration-none">
+						<button
+							class="btn btn-primary mb-3 bg-lg"
+							style="display: flex; margin: 0 auto"
+						>
+							<img src="@/assets/images/star.png" alt="" />
+							<div class="h5" style="line-height: 32px">SIGN UP!</div>
+						</button>
+					</a>
 				</div>
 				<div class="col-md-3"></div>
 			</div>
@@ -293,6 +363,25 @@ export default {
 	data() {
 		return {
 			img: '../static/Like.png',
+			title1: 'MEMBERSHIP IS FREE',
+			content1:
+				'You will never have to pay any money to be a member. Your participation in our surveys is the only "cost" of membership.',
+			content2:
+				'Incentives range in value from 100 to 5,000 Points per survey or research project, depending upon the time it takes. A Point equals a penny.',
+			content3: `Most members of LinkCloudSurvey enjoy having the opportunity to make their opinions count, to influence the future. It's similar to voting for elected officials—but here, you are voting on products and services you want in the future. `,
+			content4: `You will have the opportunity to evaluate new products and new product ideas as well as optimize existing products and packaging designs.
+Your participation will help companies determine which products are worthy of placement in the stores you shop in every day.
+`,
+			content5: `We do hundreds of surveys a year to help companies do a better job. Your opinions really do make a difference.
+Your name and address will never be used for sales or advertising purposes, and your name will never be sold to anyone.
+`,
+			content6: `Your opinions, information, and advice are confidential. Your answers are combined with other panel members' answers and reported as statistical summaries. Your individual answers will never be revealed to anyone without your explicit permission.`,
+			title2: 'MAKE MONEY TAKING SURVEYS',
+			title3: 'YOUR VOICE IS HEARD',
+			title4: 'EVALUATE NEW PRODUCTS',
+			title5: 'TEST NEW ADVERTISING',
+			title6: 'WE PROTECT YOUR PRIVACY',
+			bgcolor:`linear-gradient(#4a8ad0, #3d65ca);`
 		}
 	},
 }
