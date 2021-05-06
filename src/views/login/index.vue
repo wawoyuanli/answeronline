@@ -59,7 +59,7 @@
 								</div>
 								<div class="toregister">
 									Not a member yet? Click
-									<a href="#/registerInfo">here</a> to register.
+									<a href="#/signup">here</a> to register.
 								</div>
 							</div>
 						</div>

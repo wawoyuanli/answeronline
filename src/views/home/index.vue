@@ -9,13 +9,17 @@
 						MEMBERSHIP IS FREE - SIGN UP IS FAST & EASY!
 					</div>
 					<div class="sighup">
-						<div class="btn btn-danger text-light mt-4 btn-lg">Sign Up!</div>
+						<div class="btn btn-danger text-light mt-4 btn-lg">
+							<a href="#/signup" class="text-decoration-none text-light">Sign Up!</a>
+						</div>
 					</div>
 				</div>
 				<div class="col-md-6 h5 text-left text-light">
 					<div class="text-light h5">LOGIN TO YOUR ACCOUNT</div>
 					<div class="sighup">
-						<div class="btn btn-info text-light mt-4 btn-lg">Login</div>
+						<div class="btn btn-info text-light mt-4 btn-lg">
+							<a href="#/login" class="text-decoration-none text-light">Login</a>
+						</div>
 						<div class="mt-4" style="font-size: 14px">Forgot Password?</div>
 					</div>
 				</div>
