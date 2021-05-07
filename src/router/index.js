@@ -71,7 +71,7 @@ export default new Router({
         {
             path: '/security',
             name: 'security',
-            component: () => import('@/views/privacyPolicy/index.vue'),
+            component: () => import('@/views/security/index.vue'),
         },
 
         {

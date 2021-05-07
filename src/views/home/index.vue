@@ -190,8 +190,7 @@
 				</div>
 			</div>
 			<div class="row mb-5 mt-5 pt-5">
-				<div class="col-md-4"></div>
-				<div class="col-md-6" style="display: flex">
+				<div style="display: flex; margin: 0 auto">
 					<div
 						style="width: 340px; height: 10px; border-bottom: 1px solid #e5e5e5"
 						class="mr-2"
@@ -209,7 +208,6 @@
 						class="ml-2"
 					></div>
 				</div>
-				<div class="col-md-1"></div>
 			</div>
 		</div>
 		<div class="container-fluid">
@@ -225,7 +223,10 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
+				<div
+					class="col-md-4"
+					style="background: linear-gradient(#7fcdee, #3d65ca)"
+				>
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
@@ -235,7 +236,10 @@
 					/>
 					<div style="height: 50px"></div>
 				</div>
-				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
+				<div
+					class="col-md-4"
+					style="background: linear-gradient(#7fcdee, #3d65ca)"
+				>
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
@@ -245,13 +249,17 @@
 					/>
 					<div style="height: 60px"></div>
 				</div>
-				<div class="col-md-4" style="background: linear-gradient(#7fcdee, #3d65ca)">
+				<div
+					class="col-md-4"
+					style="background: linear-gradient(#7fcdee, #3d65ca)"
+				>
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
 						:bgcolor="'#6798b9'"
 						:img="'./static/people.png'"
-						:number="'89721'" :text="'Monthly Active Users'"
+						:number="'89721'"
+						:text="'Monthly Active Users'"
 					/>
 					<div style="height: 60px"></div>
 				</div>
@@ -264,7 +272,7 @@
 				<div class="row"></div>
 				<div class="row mt-5">
 					<div class="col-md-12">
-						<p class="h1 pb-5 pt-5">What Our Members Are Saying</p>
+						<p class="h1 pb-5 pt-5">WHAT OUR MEMBERS ARE SAYING</p>
 						<div
 							style="width: 50px; margin: 0 auto"
 							class="border-bottom mb-5"
@@ -274,44 +282,53 @@
 				<div class="row">
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom border-right">
-							<p class="text-left h6">
-								"All emails and surveys are easy to follow."
-							</p>
+							<div>
+								<i class="h6">
+									'I'm very happy with the amount, and frequency of, survey
+									opportunities and the rewards provided for them.."
+								</i>
+							</div>
 							<p class="text-left h6">-- A.D., North Carolina</p>
 						</div>
 						<div class="border-right">
-							<p class="text-left h6 pt-4">All interesting & well done</p>
-							<p class="text-left h6">--M.J., Idaho</p>
+							<p class="text-left h6 pt-4">
+								<i>"It's great to be a part of a linkcloudsurvey site."</i>
+							</p>
+							<p class="text-left h6">--JS OHIO</p>
 						</div>
 					</div>
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom border-right">
 							<div class="text-left ml-2 h6">
-								I do surveys for several different companies and, I have to say,
-								American Consumer Opinion ranks at the top as they have a very
-								good site with no junk [that] seems to be well managed.
+								<i
+									>"It's easy to do a few surveys in your Spare time, no quotas,
+									easy cash out options, unobtrusive emails, just right"</i
+								>
 							</div>
-							<p class="text-left ml-2 h6">--H.B., Tennessee</p>
+							<p class="text-left ml-2 h6">--J.L, HAWAI</p>
 						</div>
-						<div class="border-right border-left">
+						<div class="border-right">
 							<p class="text-left ml-2 h6 pt-4">
-								Direct surveys, nice rewards, no problems.
+								<i
+									>"The linkcloudsurvey has been one of the best, and probably
+									THE best, panel that I have worked with in some time</i
+								>
 							</p>
-							<p class="text-left ml-2 h6 mb-5">--A.W., California</p>
+							<p class="text-left ml-2 h6 mb-5">--J.D. TEXAS</p>
 						</div>
 					</div>
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom">
 							<p class="text-left ml-2 h6 mt-4">
-								All emails and surveys are easy to follow.
+								<i>"All interesting & well done"</i>
 							</p>
-							<p class="text-left ml-2 h6 mb-4">--A.D., North Carolina</p>
+							<p class="text-left ml-2 h6 mb-4">--M.J. IDAHO</p>
 						</div>
 						<div class="">
 							<p class="text-left ml-2 h6 mt-4">
-								[It's] great to be a part of a great opinion site.
+								<i>"All emails and surveys are easy to follow "</i>
 							</p>
-							<p class="text-left ml-2 h6">--J.S., Ohio</p>
+							<p class="text-left ml-2 h6">--ALD. NORTH CAROLINA</p>
 						</div>
 					</div>
 				</div>
@@ -331,7 +348,7 @@
 						year.
 					</p>
 					<p class="h5 mb-5">MAKE YOUR OPINIONS COUNT.</p>
-					<a href="#/signup" class="text-decoration-none">
+					<a href="#/login" class="text-decoration-none">
 						<button
 							class="btn btn-primary mb-3 bg-lg"
 							style="display: flex; margin: 0 auto"
@@ -381,16 +398,16 @@ Your name and address will never be used for sales or advertising purposes, and 
 			title4: 'EVALUATE NEW PRODUCTS',
 			title5: 'TEST NEW ADVERTISING',
 			title6: 'WE PROTECT YOUR PRIVACY',
-			bgcolor:`linear-gradient(#4a8ad0, #3d65ca);`
+			bgcolor: `linear-gradient(#4a8ad0, #3d65ca);`,
 		}
 	},
 }
 </script>
 <style scoped>
 .homepage {
-	background-image: url('../../assets/images/slide-1.jpeg');
+	background-image: url('../../assets/images/slide01.jpeg');
 	z-index: -1;
-	background-size: cover cover;
+	background-size: 100vw 100vh;
 	background-repeat: no-repeat;
 	background-color: #fff;
 }

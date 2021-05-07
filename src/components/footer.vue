@@ -20,7 +20,7 @@
 				</div>
 				<div class="col-md-7 text-light text-left">
 					<p>MENU</p>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -29,7 +29,7 @@
 						/>
 						<a href="#/faq" class="text-light text-decoration-none">FAQ</a>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -40,7 +40,7 @@
 							>Security</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -51,7 +51,7 @@
 							>Consumer Rights</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -60,7 +60,7 @@
 						/>
 						<a href="#/terms" class="text-light text-decoration-none">Terms</a>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -71,7 +71,7 @@
 							>Privacy Policy</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -82,7 +82,7 @@
 							>Contact Us</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -93,7 +93,7 @@
 							>Language</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -104,7 +104,7 @@
 							>Affiliate
 						</a>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
@@ -117,14 +117,14 @@
 							>Personal Information Requests</a
 						>
 					</li>
-					<li style="display: flex">
+					<li style="display: flex;height:30px">
 						<img
 							src="@/assets/images/right-thick.png"
 							alt=""
 							width="40px"
 							height="40px"
 						/>
-						<a href="#/statement" class="text-light text-decoration-none"
+						<a href="" class="text-light text-decoration-none"
 							>Do Not Sell My Personal Information</a
 						>
 					</li>
@@ -217,7 +217,7 @@
 				<div class="col-md-2"></div>
 				<div class="col-md-4">
 					<p class="text-light text-left">
-						Copyright © 2021 All Rights Reserved by Decision Analyst, Inc.
+						© Copyright linkcloudsurvey, 2008 - 2021 All rights reserved.
 					</p>
 					<div class="text-light text-left">
 						<a href="" class="text-light text-decoration-none" id="terms">Terms of Use</a>

@@ -158,27 +158,31 @@
 			<!--出生日期-->
 			<div class="row">
 				<div class="col-lg-3"></div>
-				<div class="col-lg-2">
+				<div class="col-sm-2">
 					<label for="sex" class="text-left mt-2" style="width: 160px"
 						>Birthday year
 						<label style="color: red">*</label>
 					</label>
 					<date-picker
-						v-model="dateYear"
-						:config="optionsYear"
-						@dp-hide="selectYear"
-					/>
+						v-model="time1"
+						type="year"
+						value-type="format"
+						format="YYYY"
+						style="width: 180px"
+					></date-picker>
 				</div>
-				<div class="col-lg-2">
+				<div class="col-sm-2">
 					<label for="birthdaymonth" class="text-left mt-2" style="width: 160px"
 						>Birthday month
 						<label style="color: red">*</label>
 					</label>
 					<date-picker
-						v-model="dateMonth"
-						:config="optionsMonth"
-						@dp-hide="selectMonth"
-					/>
+						style="width: 180px"
+						v-model="time2"
+						type="month"
+						value-type="format"
+						format="M"
+					></date-picker>
 				</div>
 				<div class="col-lg-2">
 					<label for="sex" class="text-left mt-2" style="width: 160px"
@@ -186,10 +190,12 @@
 						<label style="color: red">*</label>
 					</label>
 					<date-picker
-						v-model="dateDay"
-						:config="optionsDay"
-						@dp-hide="selectDay"
-					/>
+						style="width: 180px"
+						v-model="time3"
+						type="day"
+						format="D"
+						value-type="format"
+					></date-picker>
 				</div>
 			</div>
 			<!--address-->
@@ -255,7 +261,7 @@
 			<div class="row">
 				<div class="col-lg-3"></div>
 				<div class="col-lg-6">
-					<label class="mt-2 text-left" style="width:540px">
+					<label class="mt-2 text-left" style="width: 540px">
 						PinCode:
 						<label style="color: red">*</label>
 					</label>
@@ -274,7 +280,9 @@
 			<div class="row">
 				<div class="col-lg-3"></div>
 				<div class="col-lg-6">
-					<label class="h6 mt-3 text-left" style="width:540px"> Vetification:</label>
+					<label class="h6 mt-3 text-left" style="width: 540px">
+						Vetification:</label
+					>
 					<div style="color: red" class="p-2" v-if="showTip">
 						{{ validate }}
 					</div>
@@ -287,7 +295,9 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-3"></div>
-				<div class="col-lg-6 mt-4 text-left" style="width:540px">Detected country:</div>
+				<div class="col-lg-6 mt-4 text-left" style="width: 540px">
+					Detected country:
+				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-3"></div>
@@ -380,22 +390,23 @@
 	</div>
 </template>
 <script>
-// import 'bootstrap/dist/css/bootstrap.css'
-// import 'pc-bootstrap4-datetimepicker/build/css/bootstrap-datetimepicker.css'
-import datePicker from 'vue-bootstrap-datetimepicker'
 import $ from 'jquery'
 // import { getCode, getCountryCode } from '@/api/login'
 import ReCaptcha from '@c/reCaptcha'
 import Nav from '@c/nav.vue'
 import Footer from '@c/footer.vue'
+
+/**日期选择器 */
+import DatePicker from 'vue2-datepicker'
+import 'vue2-datepicker/index.css'
 export default {
 	name: 'Register',
 	components: {
-		datePicker,
+		DatePicker,
 		ReCaptcha,
 		Nav,
 		Footer,
-      	sitekey: process.env.VUE_APP_SITEKEY,
+		sitekey: process.env.VUE_APP_SITEKEY,
 	},
 	data() {
 		return {
@@ -415,7 +426,6 @@ export default {
 			tipAddress: 'please input your address',
 			tipPostcode: 'please input your post code',
 			tipPhonenumber: 'plase input your phone number must be 11 letters',
-
 			userName: '',
 			email: '',
 			remark: '', //邮箱校验码
@@ -432,39 +442,15 @@ export default {
 			iconName: 'man',
 			errorMessage: '',
 			show: false,
-			dateYear: new Date(),
-			dateMonth: new Date(),
-			dateDay: new Date(),
-			optionsYear: {
-				format: 'YYYY',
-				useCurrent: false,
-				locale: 'zh-cn',
-				tooltips: {
-					selectTime: '',
-				},
-			},
-			optionsMonth: {
-				format: 'MM',
-				useCurrent: false,
-				locale: 'en',
-				tooltips: {
-					selectTime: '',
-				},
-			},
-			optionsDay: {
-				format: 'DD',
-				useCurrent: false,
-				locale: 'zh-cn',
-				tooltips: {
-					selectTime: '',
-				},
-			},
 			countryCode: 'CA', //国家码
 			//6Lduy5QaAAAAAMY3jsB2FhBYxEo96d59qf
 			sitekey: process.env.VUE_APP_SITEKEY,
 			checkCode: false,
 			validate: 'Perform man-machine authentication',
 			showTip: false,
+			time1: new Date().getFullYear().toString(),
+			time2: (new Date().getMonth() + 1).toString(),
+			time3: new Date().getDate().toString(),
 		}
 	},
 	created: function () {},
