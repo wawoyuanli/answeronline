@@ -1,5 +1,5 @@
 <template>
-	<div>language</div>
+	<div>language set</div>
 </template>
 <script>
 export default {
