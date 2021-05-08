@@ -79,10 +79,11 @@
 						class="pt-2 pb-2"
 					>
 						<img
-							src="@/assets/images/f.png"
+							src="@/assets/images/google-logo.png"
 							alt=""
 							width="20px"
 							height="20px"
+							class="ml-2"
 						/>
 						<a class="text-center text-light" style="width: 80%">
 							Sign in with Google
@@ -100,10 +101,11 @@
 						class="pt-2 pb-2"
 					>
 						<img
-							src="@/assets/images/f.png"
+							src="@/assets/images/apple.png"
 							alt=""
 							width="20px"
 							height="20px"
+							class="ml-2"
 						/>
 						<a
 							class="text-center text-light"
@@ -214,8 +216,8 @@
 			<div class="row">
 				<div class="col-md-3"></div>
 				<div class="col-md-6">
-					<p class="h2">Our Achievement</p>
-					<p>
+					<p class="h2 mt-5">Our Achievement</p>
+					<p class="mb-5">
 						Based on your demographics, linkcloudsurvey will provide you with
 						paid research and market research opportunities and will provide you
 						with remuneration.
@@ -230,7 +232,7 @@
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
-						:img="'./static/Like.png'"
+						:img="'./static/PayOutSide.png'"
 						:number="'$5319018'"
 						:text="'Total Payout To Date'"
 					/>
@@ -243,7 +245,7 @@
 					<div style="height: 60px"></div>
 					<Count
 						ref="count"
-						:img="'./static/wechat.png'"
+						:img="'./static/surveys-scheduled.png'"
 						:number="'300000+'"
 						:text="'Surveys Taken '"
 					/>
@@ -257,7 +259,7 @@
 					<Count
 						ref="count"
 						:bgcolor="'#6798b9'"
-						:img="'./static/people.png'"
+						:img="'./static/users.png'"
 						:number="'89721'"
 						:text="'Monthly Active Users'"
 					/>
@@ -282,50 +284,50 @@
 				<div class="row">
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom border-right">
-							<div>
+							<div class="pt-3">
 								<i class="h6">
 									'I'm very happy with the amount, and frequency of, survey
 									opportunities and the rewards provided for them.."
 								</i>
 							</div>
-							<p class="text-left h6">-- A.D., North Carolina</p>
+							<p class="text-left h6 pt-2">-- A.D., North Carolina</p>
 						</div>
 						<div class="border-right">
-							<p class="text-left h6 pt-4">
+							<p class="text-left h6 pt-5">
 								<i>"It's great to be a part of a linkcloudsurvey site."</i>
 							</p>
-							<p class="text-left h6">--JS OHIO</p>
+							<p class="text-left h6 pb-5">--JS OHIO</p>
 						</div>
 					</div>
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom border-right">
-							<div class="text-left ml-2 h6">
+							<div class="text-left ml-2 h6 pt-3">
 								<i
 									>"It's easy to do a few surveys in your Spare time, no quotas,
 									easy cash out options, unobtrusive emails, just right"</i
 								>
 							</div>
-							<p class="text-left ml-2 h6">--J.L, HAWAI</p>
+							<p class="text-left ml-2 h6 pt-2">--J.L, HAWAI</p>
 						</div>
 						<div class="border-right">
-							<p class="text-left ml-2 h6 pt-4">
+							<p class="text-left ml-2 h6 pt-5">
 								<i
 									>"The linkcloudsurvey has been one of the best, and probably
 									THE best, panel that I have worked with in some time</i
 								>
 							</p>
-							<p class="text-left ml-2 h6 mb-5">--J.D. TEXAS</p>
+							<p class="text-left ml-2 h6 pb-3">--J.D. TEXAS</p>
 						</div>
 					</div>
 					<div class="col-md-4 m-0 p-0">
 						<div class="border-bottom">
-							<p class="text-left ml-2 h6 mt-4">
+							<p class="text-left ml-2 h6 pt-4">
 								<i>"All interesting & well done"</i>
 							</p>
-							<p class="text-left ml-2 h6 mb-4">--M.J. IDAHO</p>
+							<p class="text-left ml-2 h6 pb-4">--M.J. IDAHO</p>
 						</div>
 						<div class="">
-							<p class="text-left ml-2 h6 mt-4">
+							<p class="text-left ml-2 h6 pt-4">
 								<i>"All emails and surveys are easy to follow "</i>
 							</p>
 							<p class="text-left ml-2 h6">--ALD. NORTH CAROLINA</p>
@@ -379,7 +381,7 @@ export default {
 	},
 	data() {
 		return {
-			img: '../static/Like.png',
+			// img: '../static/PayOutSide.png',
 			title1: 'MEMBERSHIP IS FREE',
 			content1:
 				'You will never have to pay any money to be a member. Your participation in our surveys is the only "cost" of membership.',

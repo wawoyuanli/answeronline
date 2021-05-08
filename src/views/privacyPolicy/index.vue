@@ -1,752 +1,757 @@
 <template>
-  <div class="privacy">
-    <Nav></Nav>
-    <div class="privacy-content">
-      <div class="container-fluid">
-        <!--title-->
-        <div class="row">
-          <div class="col-md-12 h3">Privacy Policy Agreement</div>
-        </div>
-        <!--content-->
-        <div class="row">
-          <div class="col-md-2"></div>
-          <div
-            class="col-md-8 border mt-5 text-left ml-2 mb-5 shadow-lg p-3 mb-5 bg-white rounded"
-          >
-            <div class="mt-4" style="font-size: 14px">
-              Revised December 26, 2020
-            </div>
-            <div class="mt-2" style="font-size: 14px">
-              Your privacy is very important to us. We hope the following
-              statement will help you understand how gentingconsulting.com
-              collects, uses, and safeguards the personal information you
-              provide to us on our Web site.
-            </div>
-            <div class="mt-2" style="font-size: 14px">
-              gentingconsulting.com has created this privacy policy to
-              demonstrate our commitment to the privacy of users like you
-              because your privacy is of utmost importance to us.
-            </div>
-            <div class="mt-2">
-              <p>
-                Always feel free to contact our customer support if you have any
-                questions about our processing of personal data or this Privacy
-                Notice.
-              </p>
-              <div class="h5 mt-2">Contact Details to the Controller</div>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <th scope="col">Name of the company:</th>
-                    <th scope="col">Genting Consulting Inc</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row">VAT number:</th>
-                    <td>74233 1523 RT0001</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">Country of operation:</th>
-                    <td>America</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">E-mail address:</th>
-                    <td>contact@gentingconsulting.com</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">Phone number:</th>
-                    <td>(302) 402-3875</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">Postal address:</th>
-                    <td>
-                      615 W 138TH ST NEW YORK, NY 10031
-                    </td>
-                  </tr>
-                  <tr>
-                    <th scope="row">E-mail address to customer support:</th>
-                    <td>
-                      service@gentingconsulting.com
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="mt-3" style="font-size: 14px; font-weight: 600">
-              I. INFORMATION COLLECTION
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              1.Information Collected All Users must provide the following
-              information in order to join Genting Consulting: name, mailing
-              address, phone number, email address, username, and password.
-              Users may be required to provide subsequent demographic
-              information in order to receive Signup Bonus(es) and/or qualify
-              for other promotions. Demographic information includes, but is not
-              limited to: birth date, gender, marital status, education
-              completed, and household income.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2. Means of Collection Currently, the only way to join Genting
-              Consulting is through one of our signup forms. We do not acquire
-              Users through purchase, co-registration, or any other means;
-              however, we may do so at any time in the future.
-            </div>
-            <div class="mt-3" style="font-size: 14px; font-weight: 600">
-              I. USE OF INFORMATION
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              1.Use of Information User information is used by Genting
-              Consulting in all of the following, but not limited to, ways:(a)
-              E-Mail Address is used to send paid email advertisements and
-              important announcements about Genting Consulting to User(b) User
-              will have to provide US verified primary PayPal Account to receive
-              payments.(c) Demographic information is used to target
-              advertisements to User(d) Username and Password are used for User
-              protection to restrict access to their account
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2.Sharing of Information Genting Consulting does not rent, sell,
-              or share User information, except in the following circumstances:
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (a) We are required to release User information in response to
-              subpoenas, court orders, or other legal processes
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (b) We are sold to or acquired by another company, in which case
-              all User information would then belong to said company
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (c) We share User information when co-registration boxes
-              (explained below) are checked during the course of registration
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (d) We suspect a User of committing fraud, in which case User
-              information may be shared during the course of our investigation
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (e) We provide User information to trusted partners in order to
-              enhance the service provided to our Users
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              (f) All emails you receive from Genting Consulting will come from
-              Genting Consulting, so you may easily distinguish our emails. We
-              will never share your email with third party marketing companies.
-              Your email will only be shared with Restoration Media for Job
-              Alerts and Genting Consulting mailing partner.
-            </div>
-            <div class="mt-1" style="font-size: 14px; font-weight: 600">
-              I.CO-REGISTRATION
-            </div>
-            <div class="mt-2" style="font-size: 14px">
-              1.Definition Genting Consulting signup pages may contain
-              co-registration checkboxes, where Users can choose to
-              "co-register" for other Web Sites during their registration with
-              Genting Consulting by checking the checkbox next to the
-              co-registration Offer. Users are not required to select any
-              co-registration boxes to join Genting Consulting; however, they
-              may be required to do so in order to qualify for Signup Bonus(es)
-              and/or other promotions.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2.Information Sharing When a User co-registers for an Offer by
-              checking the co-registration checkbox, any information they
-              provide to Genting Consulting may be shared with the Advertiser
-              associated with the co-registration Offer. Genting Consulting
-              cannot control what Advertisers subsequently do with that
-              information.
-            </div>
-            <div class="mt-2" style="font-size: 14px; font-weight: 600">
-              I. COOKIES
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              1. Referral and Affiliate Tracking Genting Consulting uses cookies
-              in order to track new User registrations. This ensures Users are
-              properly credited for referring other Users, as well as to track
-              earnings for our Affiliates.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2. User Recognition After a User has logged into the Genting
-              Consulting Member's Section, cookies are used to remember their
-              Username and Password so they do not need to be entered during
-              every visit to our Web Site. Users can logout of the Member's
-              Section if they do not wish to have this information saved.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              3. Cookies are Safe! Cookies used by Genting Consulting can only
-              be seen by Genting Consulting, and cannot in any way cause harm to
-              your computer. Because we cannot properly track user actions
-              without the use of Cookies (to ensure Users are credited for
-              completing Offers, referring friends, etc), our Web Site will not
-              function properly for Users who have Cookies disabled. Cookies
-              help you gain fast access back to your paid surveys. Age
-              Requirement The gentingconsulting.com service is unavailable to
-              persons under the age of 18
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              4. Data Security: To prevent unauthorized access, maintain data
-              accuracy, and ensure the correct use of information,
-              gentingconsulting.com has used appropriate industry standard
-              procedures to safeguard the confidentiality of your personal
-              information, such as firewall, encryption, token authentication,
-              application proxies, monitoring technology, and adaptive analysis
-              of network traffic to track abuse of our network and its data.
-              However, no data transmitted over the Internet can be 100% secure.
-              As a result, while we strive to protect your personal information,
-              gentingconsulting.com cannot guarantee the security of any
-              information that you transmit to us or from our sponsors and you
-              do so at your own risk.
-            </div>
-            <div class="mt-2" style="font-size: 14px; font-weight: 600">
-              I. ALL USER CONSUMER RIGHTS
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              1.In accordance with California Civil Code Sec. 1789.3, California
-              resident users are entitled to know that they may file grievances
-              and complaints with California Department of Consumer Affairs, 400
-              R Street, STE 1080, Sacramento, CA 95814; or by phone at
-              916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2.External Links: gentingconsulting.com is not responsible for any
-              content or privacy policies of web sites not operated by
-              gentingconsulting.com.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              3.Opting-Out: gentingconsulting.com members are opted-in to
-              receive gentingconsulting.com newsletters at the time of
-              enrollment. You may opt-out of by following the directions
-              enclosed in the newsletter.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              4.Canceling: You may cancel your Membership at anytime by
-              unsubscribing here. If you decide to cancel your membership and
-              later wish to re-enroll, you will be assigned a new account ID and
-              you will not receive credit for earnings made using your previous
-              account. gentingconsulting.com reserves the right to terminate or
-              suspend any account at any time with or without notice.
-              gentingconsulting.com does not tolerate any abuse, harassment, or
-              fraudulent activity aimed towards other members or
-              gentingconsulting.com. Changes To The Privacy Policy: By
-              registering to use the gentingconsulting.com service, you agree to
-              accept this privacy policy and are aware that
-              gentingconsulting.com's privacy policy may change from time to
-              time. We strongly advise our members to check back from time to
-              time. We also welcome any feedback from you; please click here to
-              contact us i
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Contact Information: If users have any questions or suggestions
-              regarding our privacy policy, please contact us at: Contact Us
-            </div>
-            <div class="mt-2" style="font-size: 14px">Or Write To Us At:</div>
-            <div class="mt-2" style="font-size: 14px">
-              Genting Consulting Inc 615 W 138TH ST NEW YORK, NY 10031, United
-              States
-            </div>
-            <div class="mt-1" style="font-size: 14px; font-weight: 600">
-              I.CALIFORNIA CONSUMER PRIVACY ACT (CCPA)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Californian consumers have certain rights under the California
-              Consumer Privacy Act (CCPA) AB 375. For us to comply with some of
-              these rights, we must be able to reasonably verify a consumer's
-              identity. These rights include:
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              1.The right of Californians to know what personal information is
-              being collected about them
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              2.The right of Californians to know whether their personal
-              information is sold or disclosed and to whom
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              3.The right of Californians to say no to the sale of their
-              personal information
-            </div>
+	<div class="privacy">
+		<Nav></Nav>
+		<div class="privacy-content">
+			<div class="container-fluid">
+				<!--title-->
+				<div class="row">
+					<div class="col-md-12 h3">PRIVACY POLICY</div>
+					<div class="border-bottom col-md-3 mt-3" style="margin: 0 auto"></div>
+				</div>
+				<!--content-->
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+						<p class="mt-3 text-left">
+							This Privacy Policy is reviewed and updated annually.
+						</p>
+						<div class="text-left h4">Who We Are</div>
+						<div class="text-left">
+							nsumer Opinion Panel® and www.acop.com The American Coare owned
+							and operated by Decision Analyst, Inc., a global marketing
+							research and analytical consulting firm headquartered in the
+							Dallas-Fort Worth area. Decision Analyst, Inc. subscribes to the
+							privacy, confidentiality, and ethics policies of these
+							organizations:
+						</div>
+						<div class="text-left">
+							<a href="https://www.insightsassociation.org/" class="ml-5">
+								Insights Association
+							</a>
+						</div>
+						<div class="text-left">
+							<a href="http://www.mra-net.org/" class="ml-5 text-left"
+								>Marketing Research Association (MRA)</a
+							>
+						</div>
+						<div class="text-left">
+							<a href="https://www.esomar.org/" class="ml-5 text-left"
+								>ESOMAR (The World Association of Research Professionals)</a
+							>
+						</div>
+						<div class="text-left">
+							<a
+								href="EU-US and Swiss-US Privacy Shield Framework"
+								class="ml-5 text-left"
+								>EU-US and Swiss-US Privacy Shield Framework</a
+							>
+						</div>
+						<div class="h4 text-left">
+							The American Consumer Opinion Panel® BELIEVES THAT ITS MEMBERS
+							HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY
+							ADHERING TO THESE STANDARDS:
+						</div>
+						<div class="text-left">
+							<div>
+								<a
+									href="https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy"
+									class="text-decoration-none ml-5"
+								>
+									Children's Online Privacy Protection Act </a
+								>issued by the Federal Trade Commission (FTC).
+							</div>
+							<div>
+								<a
+									href="https://www.insightsassociation.org/"
+									class="text-decoration-none ml-5"
+								>
+									Insights Association </a
+								>Standards.
+							</div>
+							<div>
+								<a
+									href="https://www.esomar.org/"
+									class="text-decoration-none ml-5"
+								>
+									ESOMAR Guidelines and Standards.
+								</a>
+							</div>
+						</div>
+						<div class="text-left mt-4 mb-4">
+							Privacy Shield Principles as developed by the U.S. Department of
+							Commerce in consultation with the European Commission.
+						</div>
+						<div class="text-left ml-5">
+							<a
+								href="https://www.privacyshield.gov/welcome"
+								class="text-decoration-none"
+							>
+								EU-US and Swiss-US Privacy Shield Framework
+							</a>
+						</div>
+						<p class="mt-4 mb-4 text-left">
+							European Union General Data Protection Regulation created and
+							enacted by the European Parliament and European Council.
+						</p>
+						<div class="text-left mt-3 mb-3 ml-5">
+							<a href="https://ec.europa.eu/info/"> EU GDPR</a>
+						</div>
 
-            <div class="mt-1" style="font-size: 14px">
-              4.The right of Californians to access their personal information
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              5.The right to data portability. Californians have the right to
-              request their personal information that they provided to us and
-              use them for their own purposes. We will provide Californians
-              their personal information within 30 days of their request
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              6.The right of Californians of the deletion of their personal
-              information
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              7.The right of Californians of equal service, price, and not being
-              discriminated against even if they exercise their privacy rights
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              8.One or more designated means for Californian consumers to submit
-              requests under the CCPA including (at minimum) a toll-free
-              telephone number, and if the business maintains an Internet
-              website, a website address
-            </div>
+						<p class="mt-4 mb-4 text-left">
+							European Union General Data Protection Regulation created and
+							enacted by the European Parliament and European Council.
+						</p>
 
-            <div class="mt-1" style="font-size: 14px">
-              9.The right of Californians to designate an authorized agent to
-              make a request on their behalf. When designating an authorized
-              agent, you must provide a valid power of attorney, the requester's
-              valid government issued identification, and the authorized agent's
-              valid government issued identification.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              10.These rights include the right to request what personal
-              information we collect and disclose about consumers. If California
-              users would like to make a CCPA Privacy Rights request or have any
-              questions or suggestions regarding our privacy policy, please
-              email us at: service@gentingconsulting.com.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              You Have the Right Not to Have Your Personal Information Sold
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              You have the right to request that we do not sell any of your
-              personal information. Personal information for this section means
-              a natural person's first name or first initial and last name in
-              combination with any one or more of the following data elements
-              when the name and data elements are not encrypted: social security
-              number, driver's license number, driver authorization card number,
-              or identification card number. Account number, credit card number,
-              or debit card number, in combination with any required security
-              code, access code, or password that would permit access to the
-              person's financial account. A medical identification number or a
-              health insurance identification number. A username, unique
-              identifier, or electronic mail address in combination with a
-              password, access code, or security question and answer that would
-              permit access to an online account. If you wish to make a CCPA
-              privacy rights request, please contact us at : CCPA Privacy Rights
-              Request telling us that you do not want to have any of your
-              personal information sold. Please include enough personal
-              information so that we can reasonably verify your identification.
-            </div>
-            <div class="m-2" style="font-size: 14px; font-weight: 600">
-              Categories of Information We Collect
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              We collect information that identifies, relates to, describes,
-              references, is capable of being associated with, or could
-              reasonably be linked, directly or indirectly, with a particular CA
-              User or device ("personal information"). In particular, we have
-              collected the following categories of personal information from CA
-              Users within the last twelve (12) months:
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              <table class="table table-striped table-bordered">
-                <thead>
-                  <tr>
-                    <th scope="col">Category</th>
-                    <th scope="col">Examples</th>
-                    <th scope="col">Collected</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>A. Identifiers.</td>
-                    <td>
-                      A real name, alias, postal address, unique personal
-                      identifier, online identifier, Internet Protocol address,
-                      email address, account name, telephone number, or other
-                      similar identifiers.
-                    </td>
-                    <td>YES</td>
-                  </tr>
-                  <tr>
-                    <td>
-                      B. Personal information categories listed in the
-                      California Customer Records statute (Cal. Civ. Code §
-                      1798.80(e)).
-                    </td>
-                    <td>
-                      A name, signature, Social Security number, physical
-                      characteristics or description, postal address, telephone
-                      number, passport number, driver's license or State
-                      identification card number, insurance policy number,
-                      education, employment, employment history, bank account
-                      number, credit card number, debit card number, or any
-                      other financial information, medical information, or
-                      health insurance information. Some personal information
-                      included in this category may overlap with other
-                      categories.
-                    </td>
-                    <td>YES</td>
-                  </tr>
-                  <tr>
-                    <td>
-                      C. Protected classification characteristics under
-                      California or federal law.
-                    </td>
-                    <td>
-                      Age (40 years or older), race, color, ancestry, national
-                      origin, citizenship, religion or creed, marital status,
-                      medical condition, physical or mental disability, sex
-                      (including gender, gender identity, gender expression,
-                      pregnancy or childbirth and related medical conditions),
-                      sexual orientation, veteran or military status, genetic
-                      information (including familial genetic information).
-                    </td>
-                    <td>YES</td>
-                  </tr>
+						<div class="text-left mt-3 mb-3 ml-5">
+							<a
+								href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375
+            "
+								>CCPA</a
+							>
+						</div>
 
-                  <tr>
-                    <td>F. Internet or other similar network activity.</td>
-                    <td>
-                      Browsing history, search history, information on a CA
-                      User's interaction with a website, application or
-                      advertisement.
-                    </td>
-                    <td>YES</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Personal information does not include:
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              .Publicly available information from government records.
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              De-identified or aggregated CA User information.
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              Information excluded from the CCPA's scope, such as:
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              health or medical information covered by the Health Insurance
-              Portability and Accountability Act of 1996 (HIPAA) and the
-              California Confidentiality of Medical Information Act (CMIA) or
-              clinical trial data; and
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              personal information covered by certain sector-specific privacy
-              laws, including the Fair Credit Reporting Act (FRCA), the
-              Gramm-Leach-Bliley Act (GLBA) or California Financial Information
-              Privacy Act (FIPA), and the Driver's Privacy Protection Act of
-              1994.
-            </div>
-            <div class="mt-3 ml-2" style="font-size: 14px">
-              We obtain the categories of personal information listed above
-              (including (a) full name; (b) e-mail address; (c) mailing address;
-              (c) daytime and/or cellular telephone numbers; and (d) date of
-              birth) from the following categories of sources (with the specific
-              categories of personal information indicated in parenthesis):
-            </div>
-            <div class="mt-3 ml-4" style="font-size: 14px">
-              Directly from our CA Users. For example, from online registration
-              forms that our CA Users submit to us in connection with our
-              membership services, our sweepstakes and promotions and the other
-              products and/or services that we offer by and through the Site.
-              (Category A, B and C)
-            </div>
+						<p class="border-bottom col-md-5 text-left">
+							EU-US and Swiss-US Privacy Shield Framework
+						</p>
+						<div class="text-left mt-3 mb-3">
+							Decision Analyst complies with the EU-US Privacy Shield Framework
+							and the Swiss-US Privacy Shield Framework as set forth by the U.S.
+							Department of Commerce regarding the collection, use, and
+							retention of personal information transferred from the European
+							and Switzerland to the United States, respectively. Decision
+							Analyst has certified to the Department of Commerce that it
+							adheres to the Privacy Shield Principles. If there is any conflict
+							between the terms in this privacy policy and the Privacy Shield
+							Principles, the Privacy Shield Principles shall govern. To learn
+							more about the Privacy Shield program, and to view our
+							certification, please visit https://www.privacyshield.gov/.
+						</div>
+						<div class="text-left mb-3 mt-3">
+							In compliance with the EU-US and Swiss-US Privacy Shield
+							Principles, Decision Analyst commits to resolve complaints about
+							your privacy and our collection or use of your personal
+							information. European Union or Swiss individuals with inquiries or
+							complaints regarding this privacy policy should first contact
+							Decision Analyst at:
+						</div>
+						<div class="text-left">Internet Operations Department</div>
+						<div class="text-left">Decision Analyst, Inc.</div>
+						<div class="text-left">
+							604 Avenue H East Arlington, Texas 76011
+						</div>
 
-            <div class="mt-1" style="font-size: 14px">
-              Indirectly from our CA Users. For example, through information we
-              collect from our CA Users in the course of providing our products
-              and/or services to them. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Directly and indirectly from activity on the Site. This includes
-              the type of browser that you use (e.g., Safari, Chrome, Internet
-              Explorer), your IP address, the type of operating system that you
-              use (e.g., Windows or iOS) and the domain name of your Internet
-              Service Provider. In addition, we obtain certain Site usage
-              details and analytics as same are collected automatically by us
-              and our third party partners. (Category F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              From third-parties that interact with us in connection with the
-              products and/or services that we offer to our CA Users. For
-              example, third party entities that assist us in sending direct and
-              electronic mail, removing duplicate information from CA User
-              lists, analyzing data and providing marketing analysis. (Category
-              A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Use of Personal Information
-            </div>
-            <div class="mt-2" style="font-size: 14px; font-weight: 500">
-              We may use or disclose the personal information that we collect
-              (including (a) full name; (b) e-mail address; (c) mailing address;
-              (c) daytime and/or cellular telephone numbers; and (d) date of
-              birth) for one or more of the following business purposes (with
-              the specific categories of personal information indicated in
-              parenthesis):
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To fulfill or meet the reason for which the information is
-              provided. For example, if you provide us with personal information
-              in connection with your registration for our sweepstakes and
-              promotions and/or our other products and/or services, we will use
-              that information to process your registration. (Category A, B and
-              C)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To provide you with information, products or services that you
-              request from us. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To create, maintain, customize and secure your account with us.
-              (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To provide you with e-mail, direct mail and telemarketing messages
-              concerning certain Company products and/or services, as well as
-              third-party products and/or services, that we believe may be of
-              interest to you. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To deliver relevant Site content and advertisements to you and
-              measure or understand the effectiveness of the advertising we
-              serve to you. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To carry out our obligations and enforce our rights arising from
-              any contracts entered into between you and us, including the
-              Site's Terms and Conditions. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              For customer service purposes and to respond to inquiries from
-              you. (Category A and B)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              For testing, research, analysis and product development. (Category
-              A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              As necessary or appropriate to protect our rights, property or
-              safety, and that of our clients or others. (Category A, B, C and
-              F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To respond to law enforcement requests and as required by
-              applicable law, court order, or governmental regulations.
-              (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              As described to you when collecting your personal information or
-              as otherwise set forth in the CCPA. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              To evaluate or conduct a merger, divestiture, restructuring,
-              reorganization, dissolution or other sale or transfer of some or
-              all of our assets, whether as a going concern or as part of
-              bankruptcy, liquidation or similar proceeding, in which personal
-              information held by us is among the assets transferred. (Category
-              A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              We will not collect additional categories of personal information
-              or use the personal information we collected for materially
-              different, unrelated or incompatible purposes without providing
-              you with notice.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Sharing Personal Information
-            </div>
-            <div class="mt-2" style="font-size: 14px">
-              Subject to your right to opt-out of such sharing/sale, we may
-              share, rent and/or sell your personal information (including (a)
-              full name; (b) e-mail address; (c) mailing address; (c) daytime
-              and/or cellular telephone numbers; and (d) date of birth): (a)
-              with/to third parties for marketing purposes; and (b) for each of
-              the other business purposes set forth above. Notwithstanding any
-              other provision, we partner with third parties that collect
-              information across various channels, including offline and online,
-              for purposes of delivering more relevant advertising to you or
-              your business. Our partners use this information to recognize you
-              across different channels and platforms, including but not limited
-              to, computers, mobile devices, and Smart TVs, over time for
-              advertising, analytics, attribution, and reporting purposes. Your
-              data may be transferred outside of the country from which it was
-              originally collected.
-            </div>
-            <div class="mt-2" style="font-size: 14px">
-              When we disclose personal information to a third party service
-              provider or other entity, we enter into a contractual relationship
-              that describes the purpose for which such third party may use the
-              personal information and requires that third party to both keep
-              the personal information confidential and not use it for any
-              purpose other than the performance of its services under the
-              applicable contract. Please note, we do not collect information
-              from CA Users that we actually know are less than eighteen (18)
-              years of age and we do not share or sell the personal information
-              of CA Users that we actually know are less than eighteen (18)
-              years of age. Without limiting the foregoing, we have not shared
-              or sold the personal information of CA Users that we actually know
-              are less than sixteen (16) years of age in the preceding twelve
-              (12) months.
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              In the preceding twelve (12) months, we have disclosed the
-              following categories of personal information for a business
-              purpose:
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              <table class="table table-striped table-bordered">
-                <thead>
-                  <tr>
-                    <th scope="col">Category A.</th>
-                    <th scope="col">Identifiers.</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Category B.</td>
-                    <td>
-                      California Customer Records personal information
-                      categories.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Category C.</td>
-                    <td>
-                      Protected classification characteristics under California
-                      or federal law.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Category F.</td>
-                    <td>Internet or other similar network activities.</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              We disclose your personal information (including (a) full name;
-              (b) e-mail address; (c) mailing address; (c) daytime and/or
-              cellular telephone numbers; and (d) date of birth) for a business
-              purpose to the following categories of third parties (with the
-              specific categories of personal information indicated in
-              parenthesis):
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Our affiliates. (Category A, B, C and F)
-            </div>
+						<div class="text-left">Phone numbers:</div>
+						<div class="text-left">Within the U.S., 1-817-649-5241</div>
+						<div class="text-left">Outside the U.S., +1-817-640-6166</div>
+						<div class="text-left">Email: privacy@decisionanalyst.com</div>
 
-            <div class="mt-1" style="font-size: 14px">
-              Service providers. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Third parties who provide the products and/or services featured on
-              the Site. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Third parties who purchase and/or license your personal
-              information for marketing purposes, including: (a) providers of
-              direct marketing services and applications, including lookup and
-              reference, data enhancement, suppression and validation; (b)
-              e-mail marketers; (c) telemarketers (where permitted by applicable
-              law); and (d) direct marketers. If a third party purchaser of your
-              personal information wants to resell it, that purchaser is
-              required by law to provide you with explicit notice and an
-              opportunity to opt-out of further sales, unless the right to
-              resell it was secured at the point of collection. (Category A, B,
-              C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              Third parties to whom you authorize us to disclose your personal
-              information in connection with the products and/or services that
-              we provide to you. (Category A, B, C and F)
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              In the preceding twelve (12) months, we have sold the following
-              categories of personal information to third parties:
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              <table class="table table-striped table-bordered">
-                <thead>
-                  <tr>
-                    <th scope="col">Category A.</th>
-                    <th scope="col">Identifiers.</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Category B.</td>
-                    <td>
-                      California Customer Records personal information
-                      categories.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Category C.</td>
-                    <td>
-                      Protected classification characteristics under California
-                      or federal law.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Category F.</td>
-                    <td>Internet or other similar network activities.</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="mt-1" style="font-size: 14px">
-              In the preceding twelve (12) months, we have sold the above
-              referenced categories of personal information to the third parties
-              who purchase and/or license your personal information for
-              marketing purposes, as well as the third parties who provide the
-              products and/or services featured on the Site.
-            </div>
-            <div
-              class="mt-1 card text-center p-4 m-4"
-              style="font-size: 14px; background-color: #f6f6f6"
-            >
-              PLEASE NOTE: If you still have a question, please feel free to
-              contact us at linkcloudsurvey  Contact Us. We will respond
-              promptly. Alternatively you may email us at:
-              service@gentingconsulting.com.
-            </div>
-          </div>
-          <div class="col-md-1"></div>
-        </div>
-      </div>
-    </div>
-    <Footer></Footer>
-  </div>
+						<div class="text-left mt-3 mb-3">
+							Decision Analyst has further committed to refer unresolved privacy
+							complaints under the EU-US and Swiss-US Privacy Shield Principles
+							to an independent dispute resolution mechanism, the BBB EU PRIVACY
+							SHIELD, operated by the Council of Better Business Bureaus. If you
+							do not receive timely acknowledgement of your complaint, or if
+							your complaint is not satisfactorily addressed, please visit
+							http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more
+							information and to file a complaint.
+						</div>
+
+						<div class="mt-3 text-left">
+							Please note that if your complaint is not resolved through these
+							channels, under limited circumstances, a binding arbitration
+							option may be available before a Privacy Shield Panel.
+						</div>
+						<div class="text-left mt-3">
+							Decision Analyst submits to being subject to the investigatory and
+							enforcement powers of the FTC, the Department of Transportation,
+							or any other U.S. authorized statutory body with regards to our
+							self-certification and implementation of the Principles, and
+							acknowledges the right of the EU individual, under certain
+							conditions, to invoke binding arbitration, at no cost to the
+							individual, in filing a complaint disputing Decision Analyst’s
+							adherence to these practices. We also may be required to disclose
+							an individual’s personal information in response to a lawful
+							request by public authorities, including to meet national security
+							or law enforcement requirements. In cases of onward transfer to
+							third parties of data of EU individuals received pursuant to the
+							EU-US Privacy Shield, Decision Analyst is potentially liable.
+						</div>
+						<div class="text-left border-bottom col-md-5 mt-4">
+							European Union General Data Protection Regulation
+						</div>
+						<div class="text-left mb-4">
+							Decision Analyst adheres to the provisions set forth by the
+							European Parliament and the European Council in the General Data
+							Protection Regulation (GDPR). GDPR offers European data subjects
+							(that is, European residents) a number of rights, including:
+						</div>
+						<div class="ml-5 text-left">
+							The right to know if we are processing your data.
+						</div>
+						<div class="ml-5 text-left">
+							The right to know why we are processing your data and how we are
+							processing it.
+						</div>
+						<div class="ml-5 text-left">
+							The right to correct any incorrect information we have about you.
+						</div>
+						<div class="ml-5 text-left">
+							The right to consent to the processing of your data and the
+							ability to revoke your consent at any time.
+						</div>
+						<div class="ml-5 text-left">
+							The right to obtain a copy of your personal data.
+						</div>
+						<div class="ml-5 text-left">
+							The right to have your personal data removed from our systems.
+						</div>
+						<div class="ml-5 text-left">
+							The right to object to our processing of your data.
+						</div>
+						<div class="ml-5 text-left">
+							The right to object to our automated processing of your data.
+						</div>
+
+						<div class="mt-5 text-left">
+							In addition to these rights, Decision Analyst’s systems are
+							designed with the intent of protecting the privacy of data
+							subjects, as required by GDPR. Any new modifications or designs
+							will continue to, at a minimum, uphold the requirements outlined
+							in this regulation as well as uphold any additional regulations in
+							the future. You can contact Decision Analyst’s Data Protection
+							Officer with any questions, concerns, or objections involving the
+							processing and/or automated processing of your personal data at:
+						</div>
+						<div class="text-left mt-3">Internet Operations Department</div>
+						<div class="text-left">Decision Analyst, Inc.</div>
+						<div class="text-left">Attn: Data Protection Officer</div>
+						<div class="text-left">
+							604 Avenue H East Arlington, Texas 76011
+						</div>
+						<div class="text-left">United States</div>
+						<div class="text-left">Phone numbers:</div>
+						<div class="text-left">Within the U.S., 1-817-649-5241</div>
+						<div class="text-left">Outside the U.S., +1-817-640-6166</div>
+						<div class="text-left">Email: privacy@decisionanalyst.com</div>
+						<div class="mt-5 text-left">
+							Additional information in regards to these rights and American
+							Consumer Opinion Panel® can be found in the subsequent sections of
+							this privacy policy. More information about GDPR in general can be
+							found at an official website of European Union law, Eur-Lex.
+						</div>
+						<div class="text-left mt-4">
+							California Consumer Privacy Act (CCPA)
+						</div>
+						<div class="text-left">
+							Decision Analyst adheres to the requirements in the California
+							Consumer Privacy Act of 2018. This act gives consumers in
+							California certain rights in regards to how companies use their
+							personal information. These include:
+						</div>
+						<div class="text-left ml-5">
+							The right of Californians to know what personal information is
+							being collected about them.
+						</div>
+						<div class="text-left ml-5">
+							The right of Californians to know if their personal information is
+							being sold and to whom it is being sold.
+						</div>
+						<div class="text-left ml-5">
+							The right of Californians to say no to the sale of their personal
+							information.
+						</div>
+						<div class="text-left ml-5">
+							The right of Californians to access their personal information.
+						</div>
+						<div class="text-left ml-5">
+							The right of Californians to equal service and price, regardless
+							of if they exercise their privacy rights or not.
+						</div>
+						<div class="text-left mt-4">
+							Decision Analyst’s systems have been modified with these
+							requirements in mind. Any new modifications will continue to, at a
+							minimum, uphold the requirements set forth in this legislation and
+							uphold the requirements in any new legislation. You can contact
+							Decision Analyst’s Internet Operations Department with any
+							questions at:
+						</div>
+						<div class="text-left mt-3">
+							Internet Operations Department Decision Analyst, Inc. 604 Avenue H
+							East Arlington, Texas 76011 United States Phone numbers: Within
+							the U.S., 1-817-649-5241 U.S. Toll-free, 1-800-262-5974 Email:
+							privacy@decisionanalyst.com
+						</div>
+
+						<div class="h4 text-left">
+							Personal Information We Collect From You
+						</div>
+						<div class="text-left mt-3">
+							We collect information from you during the registration process
+							and during participation in surveys. During the registration
+							process (and at times during surveys), we collect your name,
+							address, email address, phone numbers, and the names, dates of
+							birth, and genders of those in your household. We also collect the
+							IP address from your computer, the type of device (PC, tablet
+							computer, smartphone), and your computer's "digital fingerprint,"
+							so that we can identify duplicate surveys and detect and prevent
+							fraud.
+						</div>
+						<div class="text-left mt-3">
+							We also gather information on your household-such as dwelling
+							type, household membership, education level, gender, income,
+							marital status, ethnicity, and occupation. We may ask about
+							products and services used by members of your family, and about
+							your brand preferences, shopping patterns, and buying behavior.
+						</div>
+						<div class="text-left mt-3">
+							Decision Analyst may collect personal information and demographic
+							information from information services bureaus, other research
+							firms and/or sample providers/suppliers, social media platforms,
+							and other data sources. Decision Analyst may use your personal or
+							demographic information for data validation, data appending, fraud
+							detection and prevention, and/or sending emails to invite you to
+							participate in a survey and/or join another Panel.
+						</div>
+						<div class="text-left mt-3">
+							Specific personal information is required from you in order for
+							you to become a member of American Consumer Opinion Panel®. This
+							personal information includes first name, last name, country,
+							province or state, address, city, postal code, and email address.
+							In addition to the previous information, other information may be
+							required to access certain surveys and/or features.
+						</div>
+
+						<div class="h4 text-left">How We Use Your Information</div>
+
+						<div class="text-left mt-3">
+							We use your personal information for several purposes including,
+							without limitation,: (i) to communicate with you about your
+							membership and to determine whether you qualify for surveys, (ii)
+							to invite you to participate in surveys , (iii) to notify you of
+							news about The American Consumer Opinion Panel®, (iv) to notify
+							you of Points balances in your Member Account, (v) to alert you to
+							changes in our Privacy Policy, (vi) to send you any cash, test
+							products, prizes, or incentives to which you may be entitled based
+							upon your participation in our services, (vii) for fraud
+							detection, (viii) for matching your personal information with
+							other information from secondary and syndicated sources, (ix) for
+							shipping test products to your home, and (x) for validating your
+							address. In addition to the above uses:
+						</div>
+						<div class="ml-3 text-left ml-3">
+							We use personal information and social-demographic information
+							gathered during surveys to analyze the survey results. For
+							example, we might look at the answers of women compared to men, or
+							the answers of young people compared to older people, or
+							high-income groups compared to low-income groups.
+						</div>
+						<div class="text-left mt-3 ml-3">
+							We use your personal information to verify you are who you say you
+							are, and live where you say you live. Any evidence of false or
+							dishonest information will result in the permanent loss of your
+							Membership and the loss of any Points in your Member Account.
+						</div>
+						<div class="text-left mt-3 ml-3">
+							We may use your contact information, such as email address,
+							registration data, and IP address, to verify the opt-in nature of
+							our email list, when asked to do so by an Internet Service
+							Provider.
+						</div>
+						<div class="text-left mt-3 ml-3">
+							Automated decision-making utilizing your personal information is
+							performed when determining whether or not you qualify for surveys.
+						</div>
+						<div class="h4 text-left">Who We Share Your Information With</div>
+						<div class="text-left">
+							We share your personal information with third parties, including,
+							without limitation, service providers (e.g. email distribution or
+							mailing companies, rewards vendors, companies providing fraud
+							detection/prevention services, companies providing data validation
+							services, companies shipping products to you for use in connection
+							in-home usage testing, etc.), market research companies, and third
+							parties providing data matching and appending services.
+						</div>
+						<div class="text-left">
+							We may share your personal information and/or social-demographic
+							information, including, without limitation, a unique
+							identification number ("UID"), postal code, gender, marital
+							status, education, ethnicity/race (where permitted by applicable
+							law), employment related information, and non-personally
+							identifiable information on household members, with third party
+							sample/market research companies (individually each a “Third Party
+							MR Company” and collectively the “Third Party MR Companies”) for
+							the following purposes:
+						</div>
+						<div class="text-left ml-2">
+							Identifying client survey opportunities that you may be eligible
+							for through the Third Party MR Companies; and
+						</div>
+						<div class="text-left ml-2">
+							Disclosing such data elements to clients of the Third Party MR
+							Companies for audience measurement services; and
+						</div>
+						<div class="text-left ml-2">
+							Appending such data elements to completed client surveys and
+							delivering the appended survey data to clients of the Third Party
+							MR Company(ies) for analytical or research purposes; and
+						</div>
+						<div class="text-left ml-2">
+							Other uses as set forth in their privacy policy.
+						</div>
+						<div class="text-left">
+							If you are eligible for a client survey opportunity offered
+							through a Third Party MR Company, the Third Party MR Company will
+							provide your unique identification number and a survey link to us
+							and we will invite you to participate in the client survey through
+							email or through your account page. We will not share your name,
+							email address, or phone number with the Third Party MR Companies.
+							In connection with the sharing of your information with a Third
+							Party MR Company, your information may be transferred and stored
+							outside of your country of residence, including, without
+							limitation, in the United States, and by agreeing to this privacy
+							policy you are agreeing to the processing and exportation of your
+							personal information as set forth in this Section. If you have any
+							questions about this data sharing please contact Decision Analyst
+							by emailing us at aparks@acop.com or you can opt-out through your
+							account page or by emailing Decision Analyst at aparks@acop.com.
+							If you opt-out, it is the responsibility of us to inform the Third
+							Party MR Companies. Please note that Decision Analyst is solely
+							liable and responsible for managing all opt-out requests. Your
+							participation in such survey opportunities does not entitle you to
+							any benefits offered by, or membership with, the Third Party MR
+							Companies.
+						</div>
+						<div class="text-left ml-3">
+							We may contract with an email service provider to help us send
+							email invitations to surveys. In such cases, we will have a
+							nondisclosure agreement with the email service provider to ensure
+							your personal contact information is protected and private.
+						</div>
+						<div class="text-left ml-3">
+							Decision Analyst may disclose or share personal and other
+							information collected through Decision Analyst's services with
+							other companies as follows:
+						</div>
+						<div class="text-left ml-3">
+							In response to a subpoena or an order of a court or government
+							agency.
+						</div>
+						<div class="text-left ml-3">
+							To establish, exercise or defend legal claims of an individual or
+							Decision Analyst, to protect the safety of an individual or to
+							protect Decision Analyst's rights and/or property.
+						</div>
+						<div class="text-left ml-3">
+							Among various Decision Analyst Panels if you sign up for more than
+							one panel.
+						</div>
+						<div class="text-left ml-3">
+							To a parent, subsidiary, or affiliate of Decision Analyst in the
+							event of a reorganization or restructuring.
+						</div>
+						<div class="text-left ml-3">
+							To authorized agents, research partners, and/or subcontractors of
+							Decision Analyst and/or of Decision Analyst's clients, who are
+							providing data appending services, data validation services, fraud
+							detection and/or prevention services, database-matching services,
+							coding services, sampling services, data segmentation services,
+							and reward, incentive and sweepstakes related services.
+						</div>
+
+						<div class="text-left ml-3">
+							To a client for limited marketing research uses such as modeling,
+							validation, fraud detection and/or prevention, data appending,
+							database analyses, and reward, incentive or sweepstakes
+							redemption, fulfillment and/or entry to reward your participation
+							in or completion of a survey.
+						</div>
+						<div class="text-left ml-3">
+							To a new owner with a change of ownership or control, including a
+							merger or an acquisition of any or all of Decision Analyst's
+							business assets, provided that the party receiving or acquiring
+							the personal information agrees to use, protect and maintain the
+							security, integrity and confidentiality of personal information in
+							accordance with this Privacy Policy.
+						</div>
+						<div class="text-left ml-3">
+							To partners of Decision Analyst who offer incentives for use of
+							Decision Analyst's services, solely for the partners' use in
+							connection with their incentive program and its terms of use,
+							including the crediting of Member Accounts maintained by the
+							partners for individuals who use or participate in Decision
+							Analyst's services.
+						</div>
+						<div class="text-left ml-3">
+							As otherwise permitted in this Privacy Policy.
+						</div>
+						<div class="text-left ml-3">
+							Additionally, UIDs and information collected by automated means
+							are provided to third parties, including clients, partners, agents
+							and/or vendors for identifying participants for re-contact surveys
+							or communications, fraud detection and/or prevention, database
+							matching, data validation, data append, coding, data analyses, and
+							reward, incentive, sweepstakes or promotion related services
+							and/or developing aggregated data insights regarding survey
+							respondents and providing a client(s) with access to and use of
+							the aggregated data insights.
+						</div>
+						<div class="text-left ml-3">
+							Decision Analyst will provide survey data and responses to
+							Decision Analyst clients with no personal information disclosed by
+							Decision Analyst, other than UIDs. If you voluntarily disclose
+							personal information in connection with your survey responses, and
+							Decision Analyst collects the survey responses, Decision Analyst
+							will transfer the survey responses, UID and the voluntarily
+							disclosed personal information to Decision Analyst's client. In
+							addition, Decision Analyst may share geographic and/or demographic
+							data Decision Analyst collects from you during registration or
+							through surveys. Such data may be shared with third parties on an
+							individual respondent level or as aggregate summaries.
+						</div>
+						<div class="text-left ml-3">
+							Decision Analyst's clients may engage Decision Analyst to supply
+							or provide demographic information of or about individuals who
+							have viewed an advertisement or visited a website for the purpose
+							of measuring internet and digital media audiences. The demographic
+							information may be provided or supplied to Decision Analyst's
+							clients. The demographic information and analysis performed by or
+							on behalf of Decision Analyst's clients assist with the creation,
+							development and implementation of websites, online advertisements
+							and other Internet and digital media features, functionality and
+							campaigns.
+						</div>
+						<div class="text-left ml-3">
+							Generally, disclosures of personal information by Decision Analyst
+							to some other company or organization, except for disclosures of
+							UIDs, are controlled by a written agreement between Decision
+							Analyst and the other company or organization, which restricts and
+							limits use of the personal information. Decision Analyst may allow
+							a client to collect personal information directly from panel
+							members. The disclosure is voluntary and, prior to collection, the
+							client is required to enter into a written agreement with Decision
+							Analyst, which restricts and limits use of the personal
+							information.
+						</div>
+
+						<div class="h4 text-left">How You Can Control Your Information</div>
+						<div class="text-left">
+							You may "Opt-Out" at any time when taking a survey. You may also
+							update or delete your personal information at any time by logging
+							into your American Consumer Opinion Panel® Member Account
+						</div>
+						<div class="text-left ml-3">
+							Once you join our panel and receive invitations to complete
+							surveys, you are under no obligation to complete those surveys.
+							You can simply choose not to respond.
+						</div>
+						<div class="text-left ml-3">
+							If you start taking a survey and are asked questions you do not
+							wish to respond to, you may simply stop taking the survey.
+						</div>
+						<div class="text-left ml-3">
+							Once you have registered, you may safely update or delete your
+							Member Account (and all of your personal data) at any time. If you
+							would like to contact Decision Analyst in regard to your privacy
+							please email us at privacy@decisionanalyst.com.
+						</div>
+						<div class="text-left">
+							If you wish to unsubscribe, please click here. Log on to your My
+							Account page, go to Login, and then enter your email address and
+							password. Choose the Delete Account option located on the front
+							page of your My Account page. Deleting your account could take up
+							to 10 days, so please disregard any emails you receive from us in
+							the meantime.
+						</div>
+						<div class="h4 text-left">Privacy For Children Under 14</div>
+						<div class="text-left">
+							We comply with applicable laws in each country with regards to
+							protecting the privacy of, and the collection and processing of
+							personal information of, minors. For example, in the United
+							States, we do not knowingly collect personal information from
+							individuals under the age of 13, our services and panels are not
+							designed or intended for individuals under the age of 13, and if
+							we have a survey for children 12 or younger, we will ask parents
+							to review the survey and give their permission for their child to
+							take the survey. If we become aware that we collected personal
+							information from an individual under the applicable minimum age
+							threshold in a country, we will promptly delete all personal
+							information collected from or about such individual.
+						</div>
+						<div class="h4 text-left">How We Secure Your Information</div>
+						<div class="text-left">
+							The American Consumer Opinion Panel® has multiple security
+							measures in place to ensure the confidentiality and protection of
+							your personal information. The data is stored behind Decision
+							Analyst's firewall, and the data is encrypted. We have security
+							measures in place to protect against the loss, misuse, or
+							alteration of any information we receive from you. As with any
+							transmission over the Internet, there is some element of risk
+							involved in sending personal information. To minimize this risk,
+							we encrypt all information using the Secure Sockets Layer (SSL)
+							protocol.
+						</div>
+						<div class="h4 text-left">
+							"Cookies," Log Files, and Internet Technology
+						</div>
+						<div class="text-left">
+							"Cookies" are small files that store certain data on a device or
+							computer. Cookies are used by most websites to make your life as a
+							Web user easier. There are times when we may use cookies. For
+							example, we may use cookies to track registrations back to an
+							affiliate site that may have referred you, and we may use cookies
+							to track advertising results. We may use cookies during a survey
+							to make the survey easier and faster to complete.
+						</div>
+						<div class="text-left ml-3">
+							We gather information in our log files such as Internet Protocol
+							(IP) address, browser type, Internet Service Provider (ISP), type
+							of computing device, referring and exit pages, platform type, date
+							and time stamp, number of clicks while onsite, and other
+							variables.
+						</div>
+						<div class="text-left ml-3">
+							Log-file information is not linked to any personally identifiable
+							information and is used only to administer our systems, to make
+							improvements to our website, and to determine the success of
+							advertising campaigns. Digital fingerprinting assigns a unique
+							identifier to your computing device (PC, tablet computer,
+							smartphone, etc.) based on its technical settings and IP Address.
+							Decision Analyst uses digital fingerprinting technology for
+							quality control, validation purposes and fraud detection and/or
+							prevention, including identifying duplicate or fraudulent
+							respondents. Decision Analyst may implement and use digital
+							fingerprinting directly or through a third party vendor.
+							Watermarking involves placing code or a file on your computing
+							device to identify that it has been used to register with or
+							access Decision Analyst's services. Watermarking is used for
+							quality control and validation purposes and fraud detection and/or
+							prevention purposes. Decision Analyst may engage in watermarking
+							activities directly or through a third party vendor.
+						</div>
+						<div class="h4 text-left mt-3">Communications With Members</div>
+						<div class="text-left">
+							We send emails to Panel Members to confirm their registration, to
+							invite them to surveys, to update the Privacy Policy, to notify
+							Members of unredeemed Points in their Member Accounts, and for
+							special occasions and announcements.
+						</div>
+						<div class="text-left ml-3">
+							We send an email to all new Members to confirm their registration.
+							New Members must Opt-In to this email to become a Member.
+						</div>
+						<div class="text-left ml-3">
+							We communicate with Members by email or phone on a case-by-case
+							basis to answer any questions or provide Member services.
+						</div>
+
+						<div class="h4 text-left mt-3">Legal Disclaimer</div>
+						<div class="text-left">
+							The www.acop.com website contains links to other websites whose
+							privacy policies may differ from ours, and occasionally you may
+							take a survey from one of Decision Analyst's research
+							partners-whose privacy policy may differ from ours. We encourage
+							you to read the privacy statement of each site you visit.
+						</div>
+
+						<div class="h4 text-left mt-3">Links To Outside Sites</div>
+						<div class="text-left">
+							The www.acop.com website contains links to other websites whose
+							privacy policies may differ from ours, and occasionally you may
+							take a survey from one of Decision Analyst's research
+							partners-whose privacy policy may differ from ours. We encourage
+							you to read the privacy statement of each site you visit.
+						</div>
+						<div class="h4 text-left mt-3">Notification Of Changes</div>
+						<div class="text-left">
+							We will notify you by email or text message before any change in
+							our Privacy Policy to give you a chance to Opt-Out or update or
+							delete your Member Account.
+						</div>
+						<div class="h4 text-left mt-3">
+							Retention of Personal Information
+						</div>
+						<div class="text-left">
+							Your personal information is kept by Decision Analyst so long as
+							you are an active Member of the American Consumer Opinion Panel®
+							or some other Decision Analyst panel. Once you cancel your Member
+							Account or Opt-Out, your personal data remains encrypted and is
+							stored for a period of 2 years behind our firewall, or if any
+							questions come up about your Member Account or Points in your
+							Account.
+						</div>
+
+						<div class="h4 text-left mt-3">Enforcement Of Privacy Policy</div>
+						<div class="text-left">
+							If you believe Decision Analyst, Inc. has violated this Privacy
+							Policy with respect to your personal information, please contact
+							us so that we can investigate and correct any errors or mistakes.
+							If you are a US resident and you are not satisfied with our
+							response, you may file a complaint with the Insights Association,
+							170 North Country Road, Suite 4, New York 11777 or, if you are an
+							EU or Swiss resident, you may file a complaint with the EU Privacy
+							Shield at https://www.privacyshield.gov/.
+						</div>
+
+						<div class="h4 text-left mt-3">Questions And Comments</div>
+						<div class="text-left">
+							We welcome your questions or comments regarding our
+							data-protection practices and our Privacy Policy. If you have
+							questions or concerns, please contact:
+						</div>
+						<div class="text-left">Internet Operations Department</div>
+						<div class="text-left">Decision Analyst, Inc.</div>
+						<div class="text-left">
+							604 Avenue H East Arlington, Texas 76011
+						</div>
+
+						<div class="text-left">Phone numbers:</div>
+						<div class="text-left">Within the U.S., 1-817-649-5241</div>
+						<div class="text-left">Outisde the U.S., +1-817-640-6166</div>
+						<div class="text-left">Email: privacy@decisionanalyst.com</div>
+						<div class="text-left"></div>
+
+						<div class="text-left mb-5">
+							This Privacy Policy is reviewed and updated annually.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<Footer></Footer>
+	</div>
 </template>
 <script>
-import Nav from "@c/nav.vue";
-import Footer from "@c/footer.vue";
+import Nav from '@c/nav.vue'
+import Footer from '@c/footer.vue'
 export default {
-  name: "Privacy",
-  components: {
-    Nav: Nav,
-    Footer: Footer,
-  },
-  data() {
-    return {
-      isActive: true,
-      color: "#26a4c3",
-    };
-  },
-  mounted() {
-    // document.getElementById("borderBottom").classList.add("borderBottom");
-  },
-};
+	name: 'Privacy',
+	components: {
+		Nav: Nav,
+		Footer: Footer,
+	},
+	data() {
+		return {
+			isActive: true,
+			color: '#26a4c3',
+		}
+	},
+	mounted() {
+		// document.getElementById("borderBottom").classList.add("borderBottom");
+	},
+}
 </script>
 <style lang="less" scoped>
 .privacy {
-  width: 100vw;
-  background-color: #ffffff;
-  font-family: "Gotham-Book";
-  .privacy-content {
-    text-align: center;
-    min-height: 75vh;
-    padding-top: 7rem;
-    .card {
-      font-family: "Gotham-Book";
-    }
-  }
+	width: 100vw;
+	background-color: #ffffff;
+	font-family: 'Gotham-Book';
+	.privacy-content {
+		text-align: center;
+		min-height: 75vh;
+		padding-top: 7rem;
+		.card {
+			font-family: 'Gotham-Book';
+		}
+	}
 }
 </style>
