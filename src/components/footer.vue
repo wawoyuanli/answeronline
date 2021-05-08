@@ -1,257 +1,257 @@
 <template>
-	<div class="footer-box pt-5">
-		<div class="container mt-5 mb-5">
-			<div class="row">
-				<div class="col-md-5 text-left">
-					<img
-						src="@/assets/images/yunlogo.png"
-						alt=""
-						width="100px"
-						height="100px"
-						class="ml-4"
-					/>
-					<p class="mt-3 mb-3 text-light text-left">
-						American Consumer Opinion® is owned and operated by Decision
-						Analyst, Inc., a global marketing research and analytical consulting
-						firm headquartered in the Dallas-Fort Worth area in the United
-						States.
-					</p>
-					<p class="col-md-8 text-light text-left">
-						Headquarters: 604 Ave H E Arlington, TX 76011
-					</p>
-					<p class="text-light text-left">Email: aparks@acop.com</p>
-				</div>
-				<div class="col-md-3"></div>
-				<div class="col-md-4 text-light text-left">
-					<p class="h5 ml-4 mb-5">MENU</p>
+  <div class="footer-box pt-5">
+    <div class="container mt-5 mb-5">
+      <div class="row">
+        <div class="col-md-5 text-left">
+          <img
+            src="@/assets/images/yunlogo.png"
+            alt=""
+            width="100px"
+            height="100px"
+            class="ml-4"
+          />
+          <p class="mt-3 mb-3 text-light text-left">
+            American Consumer Opinion® is owned and operated by Decision
+            Analyst, Inc., a global marketing research and analytical consulting
+            firm headquartered in the Dallas-Fort Worth area in the United
+            States.
+          </p>
+          <p class="col-md-8 text-light text-left">
+            Headquarters: 604 Ave H E Arlington, TX 76011
+          </p>
+          <p class="text-light text-left">Email: aparks@acop.com</p>
+        </div>
+        <div class="col-md-3"></div>
+        <div class="col-md-4 text-light text-left">
+          <p class="h5 ml-4 mb-5">MENU</p>
 
-					<a
-						href="#/security"
-						class="text-light"
-						style="display: flex; height: 30px"
-					>
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<p>Security</p></a
-					>
+          <a
+            href="#/security"
+            class="text-light"
+            style="display: flex; height: 30px"
+          >
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <p>Security</p></a
+          >
 
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="#/consumerrights" class="text-light text-decoration-none"
-							>Consumer Rights</a
-						>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="#/terms" class="text-light text-decoration-none">Terms</a>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="#/privacyPolicy" class="text-light text-decoration-none"
-							>Privacy Policy</a
-						>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="#/contactUs" class="text-light text-decoration-none"
-							>Contact Us</a
-						>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="#/affiliate" class="text-light text-decoration-none"
-							>Affiliate
-						</a>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a
-							href="#/personalInfoRequest"
-							class="text-light text-decoration-none"
-							>Personal Information Requests</a
-						>
-					</li>
-					<li style="display: flex; height: 30px">
-						<img
-							src="@/assets/images/right-thick.png"
-							alt=""
-							width="40px"
-							height="40px"
-						/>
-						<a href="" class="text-light text-decoration-none"
-							>Do Not Sell My Personal Information</a
-						>
-					</li>
-				</div>
-			</div>
-		</div>
-		<div class="container-fluid">
-			<div class="row pt-5 pb-5" style="background: #333333">
-				<div class="col-md-2"></div>
-				<div class="col-md-4">
-					<p class="text-light text-left">
-						© Copyright linkcloudsurvey, 2008 - 2021 All rights reserved.
-					</p>
-					<div class="text-light text-left">
-						<a href="" class="text-light text-decoration-none" id="terms"
-							>Terms of Use</a
-						>
-						/
-						<a href="" class="text-light text-decoration-none"
-							>Privacy Policy</a
-						>
-					</div>
-				</div>
-				<div class="col-md-2"></div>
-				<div class="col-md-4 text-light text-left">
-					<div style="display: flex">
-						<a href="http://www.pinterest.com" id="pinterest">
-							<div
-								style="
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="#/consumerrights" class="text-light text-decoration-none"
+              >Consumer Rights</a
+            >
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="#/terms" class="text-light text-decoration-none">Terms</a>
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="#/privacyPolicy" class="text-light text-decoration-none"
+              >Privacy Policy</a
+            >
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="#/contactUs" class="text-light text-decoration-none"
+              >Contact Us</a
+            >
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="#/affiliate" class="text-light text-decoration-none"
+              >Affiliate
+            </a>
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a
+              href="#/personalInfoRequest"
+              class="text-light text-decoration-none"
+              >Personal Information Requests</a
+            >
+          </li>
+          <li style="display: flex; height: 30px">
+            <img
+              src="@/assets/images/right-thick.png"
+              alt=""
+              width="40px"
+              height="40px"
+            />
+            <a href="" class="text-light text-decoration-none"
+              >Do Not Sell My Personal Information</a
+            >
+          </li>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row pt-5 pb-5" style="background: #333333">
+        <div class="col-md-2"></div>
+        <div class="col-md-4">
+          <p class="text-light text-left">
+            © Copyright linkcloudsurvey, 2008 - 2021 All rights reserved.
+          </p>
+          <div class="text-light text-left">
+            <a href="" class="text-light text-decoration-none" id="terms"
+              >Terms of Use</a
+            >
+            /
+            <a href="" class="text-light text-decoration-none"
+              >Privacy Policy</a
+            >
+          </div>
+        </div>
+        <div class="col-md-2"></div>
+        <div class="col-md-4 text-light text-left">
+          <div style="display: flex">
+            <a href="http://www.pinterest.com" id="pinterest">
+              <div
+                style="
 									width: 48px;
 									height: 48px;
 									display: flex;
 									align-items: center;
 									justify-content: center;
 								"
-							>
-								<img
-									src="@/assets/images/_pinterest.png"
-									alt=""
-									width="24px"
-									style=""
-									id="pinterestImg"
-								/>
-							</div>
-						</a>
+              >
+                <img
+                  src="@/assets/images/_pinterest.png"
+                  alt=""
+                  width="24px"
+                  style=""
+                  id="pinterestImg"
+                />
+              </div>
+            </a>
 
-						<a href="https://wwd.com/tag/instagram" id="instagram">
-							<div
-								style="
+            <a href="https://wwd.com/tag/instagram" id="instagram">
+              <div
+                style="
 									width: 48px;
 									height: 48px;
 									display: flex;
 									align-items: center;
 									justify-content: center;
 								"
-							>
-								<img src="@/assets/images/instagram.png" alt="" width="24px" />
-							</div>
-						</a>
+              >
+                <img src="@/assets/images/Instagram.png" alt="" width="24px" />
+              </div>
+            </a>
 
-						<a href="http://www.facebook.com" id="facebook">
-							<div
-								style="
+            <a href="http://www.facebook.com" id="facebook">
+              <div
+                style="
 									width: 48px;
 									height: 48px;
 									display: flex;
 									align-items: center;
 									justify-content: center;
 								"
-							>
-								<img
-									src="@/assets/images/facebook.png"
-									alt=""
-									width="20px"
-								/></div
-						></a>
-						<a href="http://www.twitter.com" id="twitter">
-							<div
-								style="
+              >
+                <img
+                  src="@/assets/images/facebook.png"
+                  alt=""
+                  width="20px"
+                /></div
+            ></a>
+            <a href="http://www.twitter.com" id="twitter">
+              <div
+                style="
 									width: 48px;
 									height: 48px;
 									display: flex;
 									align-items: center;
 									justify-content: center;
 								"
-							>
-								<img src="@/assets/images/twitter.png" alt="" width="24px" />
-							</div>
-						</a>
-					</div>
+              >
+                <img src="@/assets/images/Twitter.png" alt="" width="24px" />
+              </div>
+            </a>
+          </div>
 
-					<div>aparks@acop.com @ACOPanel</div>
-				</div>
-			</div>
-		</div>
-	</div>
+          <div>aparks@acop.com @ACOPanel</div>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
-	name: 'Footer',
-	mounted() {
-		window.onload = function () {
-			// function $(id) {
-			// 	return document.getElementById(id)
-			// }
-			//鼠标进
-			$('terms').onmouseover = function () {
-				debugger
-				// this.style.display="none";
-				// $('mobileList').style.display = 'block'
-				//给当钱的添加样式
-				this.style.color = 'red'
-			}
-			//鼠标出
-			// $('headerMobile').onmouseout = function () {
-			// 	$('mobileList').style.display = 'none'
-			// 	this.style.boxShadow = 'none'
-			// }
-		}
-	},
-}
+  name: "Footer",
+  mounted() {
+    window.onload = function() {
+      // function $(id) {
+      // 	return document.getElementById(id)
+      // }
+      //鼠标进
+      $("terms").onmouseover = function() {
+        debugger;
+        // this.style.display="none";
+        // $('mobileList').style.display = 'block'
+        //给当钱的添加样式
+        this.style.color = "red";
+      };
+      //鼠标出
+      // $('headerMobile').onmouseout = function () {
+      // 	$('mobileList').style.display = 'none'
+      // 	this.style.boxShadow = 'none'
+      // }
+    };
+  },
+};
 </script>
 <style scoped lang="less">
 .footer-box {
-	background-color: #3c5997;
-	#pinterest :hover {
-		// transform: translateY(-8px);
+  background-color: #3c5997;
+  #pinterest :hover {
+    // transform: translateY(-8px);
 
-		background: #d81e06;
-	}
-	#instagram :hover {
-		background: #d4237a;
-	}
-	#facebook :hover {
-		background: #1769ff;
-	}
-	#twitter :hover {
-		background: #1296db;
-	}
+    background: #d81e06;
+  }
+  #instagram :hover {
+    background: #d4237a;
+  }
+  #facebook :hover {
+    background: #1769ff;
+  }
+  #twitter :hover {
+    background: #1296db;
+  }
 }
 </style>

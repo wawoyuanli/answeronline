@@ -10,7 +10,9 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width:445px">username:*</label>
+          <label class="mt-3 mb-2 text-left" style="width:445px"
+            >username:*</label
+          >
           <input
             type="text"
             class="form-control"
@@ -25,7 +27,9 @@
         <div class="col-md-5">
           <div class="row">
             <div class="col-md-7">
-              <label class="mt-3 mb-2 text-left" style="width:246px"> email * </label>
+              <label class="mt-3 mb-2 text-left" style="width:246px">
+                email *
+              </label>
               <input
                 type="text"
                 class="form-control"
@@ -35,7 +39,9 @@
               />
             </div>
             <div class="col-md-5">
-              <label class="mt-3 text-left" style="opacity: 0;width:167px"> code </label>
+              <label class="mt-3 text-left" style="opacity: 0;width:167px">
+                code
+              </label>
               <input
                 type="submit"
                 class="col-md-12 btn btn-primary"
@@ -49,7 +55,9 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width:445px"> Email Verification Code * </label>
+          <label class="mt-3 mb-2 text-left" style="width:445px">
+            Email Verification Code *
+          </label>
           <input
             type="text"
             class="form-control"
@@ -62,7 +70,9 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width:445px">password:*</label>
+          <label class="mt-3 mb-2 text-left" style="width:445px"
+            >password:*</label
+          >
           <input
             type="text"
             class="form-control"
@@ -89,7 +99,7 @@
 <script>
 import Nav from "@c/nav.vue";
 import Footer from "@c/footer.vue";
-// import { resetPwd, getCode } from "@/api/login.js";
+import { resetPwd, getCode } from "@/api/login.js";
 export default {
   name: "Resetpwd",
   components: {
@@ -134,6 +144,22 @@ export default {
         remark: _th.code,
         password: _th.password,
       };
+      if (!data.username) {
+        alert("username must been input");
+        return false;
+      }
+      if (!data.email) {
+        alert("email must been input");
+        return false;
+      }
+      if (!data.remark) {
+        alert("remark must been input");
+        return false;
+      }
+      if (!data.password) {
+        alert("password must been input");
+        return false;
+      }
       resetPwd(data)
         .then(function(res) {
           console.log(res);
