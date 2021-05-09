@@ -20,7 +20,7 @@
         </ul>
       </div>
 
-      <div class="col-md-2 mt-3" style="display: flex">
+      <div class="col-md-2 mt-2" style="display: flex">
         <a href="http://www.pinterest.com" id="pinterest">
           <div
             style="
