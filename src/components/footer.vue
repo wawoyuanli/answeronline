@@ -2,24 +2,23 @@
   <div class="footer-box pt-5">
     <div class="container mt-5 mb-5">
       <div class="row">
-        <div class="col-md-5 text-left">
-          <img
+        <div class="col-md-5 text-left mt-5">
+          <!-- <img
             src="@/assets/images/yunlogo.png"
             alt=""
             width="100px"
             height="100px"
             class="ml-4"
-          />
-          <p class="mt-3 mb-3 text-light text-left">
+          /> -->
+          <p class="mt-5 mb-3 text-light text-left">
             American Consumer Opinion® is owned and operated by Decision
             Analyst, Inc., a global marketing research and analytical consulting
-            firm headquartered in the Dallas-Fort Worth area in the United
-            States.
+            firm headquartered
           </p>
-          <p class="col-md-8 text-light text-left">
+          <!-- <p class="col-md-8 text-light text-left">
             Headquarters: 604 Ave H E Arlington, TX 76011
-          </p>
-          <p class="text-light text-left">Email: aparks@acop.com</p>
+          </p> -->
+          <!-- <p class="text-light text-left">Email: aparks@acop.com</p> -->
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-4 text-light text-left">

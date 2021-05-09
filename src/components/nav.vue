@@ -2,19 +2,12 @@
   <div class="container-fluid fixed-top">
     <div class="row shadow" style="background: #275894">
       <div class="col-md-3 text-left" style="border-right: 1px solid #b8b8bc">
-        <a href="#/home">
-          <img
-            src="@/assets/images/yunlogo.png"
-            alt=""
-            width="82px"
-            height="83px"
-            style="margin-left:100px"
-          />
-        </a>
-        <div class="text-light pt-1 pb-1 ml-5">GLOBALTON CONSULTING INC</div>
+        <div class="text-light pt-1 pb-1 ml-5 mt-3">
+          GLOBALTON CONSULTING INC
+        </div>
       </div>
       <div class="col-md-7 text-right border-right">
-        <ul class="nav justify-content-end mt-5">
+        <ul class="nav justify-content-end mt-3">
           <li class="nav-item">
             <a class="nav-link active text-light h6" href="#/home">HOME</a>
           </li>
@@ -27,7 +20,7 @@
         </ul>
       </div>
 
-      <div class="col-md-2 mt-5" style="display: flex">
+      <div class="col-md-2 mt-3" style="display: flex">
         <a href="http://www.pinterest.com" id="pinterest">
           <div
             style="
