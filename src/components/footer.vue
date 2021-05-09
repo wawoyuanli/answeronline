@@ -127,11 +127,11 @@
             © Copyright linkcloudsurvey, 2008 - 2021 All rights reserved.
           </p>
           <div class="text-light text-left">
-            <a href="" class="text-light text-decoration-none" id="terms"
+            <a href="#/terms" class="text-light text-decoration-none" id="terms"
               >Terms of Use</a
             >
             /
-            <a href="" class="text-light text-decoration-none"
+            <a href="#/privacyPolicy" class="text-light text-decoration-none"
               >Privacy Policy</a
             >
           </div>

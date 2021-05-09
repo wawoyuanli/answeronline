@@ -24,7 +24,11 @@
                 >Login</a
               >
             </div>
-            <div class="mt-4" style="font-size: 14px">Forgot Password?</div>
+            <div class="mt-4" style="font-size: 14px">
+              <a href="#/resetpwd" class="text-light text-decoration-none"
+                >Forgot Password?</a
+              >
+            </div>
           </div>
         </div>
       </div>

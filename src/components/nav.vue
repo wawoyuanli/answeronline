@@ -8,7 +8,7 @@
             alt=""
             width="82px"
             height="83px"
-            class="ml-5"
+            style="margin-left:100px"
           />
         </a>
         <div class="text-light pt-1 pb-1 ml-5">GLOBALTON CONSULTING INC</div>
