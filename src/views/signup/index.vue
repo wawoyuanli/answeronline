@@ -303,7 +303,7 @@
         <div class="col-lg-3"></div>
         <div class="col-lg-6">
           <!-- 美国-US、中国-CN、英国-GB、澳大利亚-AU、加拿大-CA、德国-DE、法国-FR -->
-          <div class="mt-3" style="display: flex" v-if="countryCode === 'US'">
+          <div class="mt-3" style="display: flex" v-if="countryCode === 'us'">
             <svg-icon icon-class="us"></svg-icon>
             <p class="text-dark ml-3" style="font-size: 18px">United States</p>
           </div>
@@ -402,7 +402,7 @@ import DatePicker from "vue2-datepicker";
 import "vue2-datepicker/index.css";
 import Dialog from "@c/dialog.vue";
 export default {
-  name: "Register",
+  name: "SignUp",
   components: {
     DatePicker,
     ReCaptcha,
@@ -664,7 +664,7 @@ export default {
 </script>
 <style scoped lang="less">
 .register-wrap {
-  min-height: 75vh;
+  min-height: 100vh;
   padding-bottom: 3rem;
 }
 </style>

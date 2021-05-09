@@ -16,7 +16,8 @@
     "vue": "^2.6.11",
     "vue-bootstrap-datetimepicker": "^5.0.1",
     "vue-router": "^3.5.1",
-    "vue2-datepicker": "^3.9.0"
+    "vue2-datepicker": "^3.9.0",
+    "svg-sprite-loader":"svg-sprite-loader@6.0.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -28,7 +29,6 @@
     "eslint-plugin-vue": "^6.2.2",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
-    "svg-sprite-loader": "^6.0.6",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {

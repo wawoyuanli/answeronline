@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: "SvgIcon",
+  name: "SvgIconNew",
   props: {
     iconClass: {
       type: String,
