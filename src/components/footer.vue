@@ -18,7 +18,7 @@
           <!-- <p class="col-md-8 text-light text-left">
             Headquarters: 604 Ave H E Arlington, TX 76011
           </p> -->
-          <!-- <p class="text-light text-left">Email: aparks@acop.com</p> -->
+          <!-- <p class="text-light text-left">Email: contact@linkcloudsurvey.com</p> -->
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-4 text-light text-left">
@@ -123,7 +123,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-4">
           <p class="text-light text-left">
-            © Copyright linkcloudsurvey, 2008 - 2021 All rights reserved.
+            ©2021 GLOBALTON CONSULTING INC. All rights reserved.
           </p>
           <div class="text-light text-left">
             <a href="#/terms" class="text-light text-decoration-none" id="terms"
@@ -203,7 +203,7 @@
             </a>
           </div>
 
-          <div>aparks@acop.com @ACOPanel</div>
+          <div>contactcontact@linkcloudsurvey.com</div>
         </div>
       </div>
     </div>

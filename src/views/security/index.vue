@@ -30,7 +30,7 @@
                    You can safely update or delete your account online at any time.
                </div>
                <div class="text-left ml-4 pb-5 mt-3">
-                   Your information is safe, and you have complete control over your account. We hope you will decide to join. If you have any other questions about the security of American Consumer Opinion®, please email aparks@acop.com.
+                   Your information is safe, and you have complete control over your account. We hope you will decide to join. If you have any other questions about the security of American Consumer Opinion®, please email contact@linkcloudsurvey.com.
                </div>
                   <p class="pb-5"></p>
             </div>

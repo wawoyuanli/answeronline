@@ -412,8 +412,8 @@
 							policy you are agreeing to the processing and exportation of your
 							personal information as set forth in this Section. If you have any
 							questions about this data sharing please contact Decision Analyst
-							by emailing us at aparks@acop.com or you can opt-out through your
-							account page or by emailing Decision Analyst at aparks@acop.com.
+							by emailing us at contact@linkcloudsurvey.com or you can opt-out through your
+							account page or by emailing Decision Analyst at contact@linkcloudsurvey.com.
 							If you opt-out, it is the responsibility of us to inform the Third
 							Party MR Companies. Please note that Decision Analyst is solely
 							liable and responsible for managing all opt-out requests. Your

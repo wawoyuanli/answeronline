@@ -13,7 +13,7 @@
 					<div class="text-left h4">Contact Information</div>
 					<p>
 						American Consumer Opinion Panel®'s mailing address is 604 Avenue H
-						East, Arlington, TX 76011. The email address is aparks@acop.com. The
+						East, Arlington, TX 76011. The email address is contact@linkcloudsurvey.com. The
 						main telephone number is (817) 640-6166, the telephone number within
 						the U.S. is (817) 649-5241, and the fax number is (817) 640-6567.
 					</p>
@@ -164,7 +164,7 @@
 					<div class="text-left">
 						<label class="h5">e.</label>
 						HOW TO GET HELP: For more information you can reach us at:
-						aparks@acop.com or 1-800-262-5974. From your mobile phone you can
+						contact@linkcloudsurvey.com or 1-800-262-5974. From your mobile phone you can
 						get also get help information at any time by sending the text "HELP"
 						to the short code to which you are subscribed. You shall receive a
 						standard rate message from our service with information on the
@@ -502,7 +502,7 @@
 					<p class="text-left">
 						<label class="h5">L. Your Right to Cancel Your Account - </label>
 						You may cancel your Member Account at any time by contacting
-						American Consumer Opinion Panel® at aparks@acop.com, or by logging
+						American Consumer Opinion Panel® at contact@linkcloudsurvey.com, or by logging
 						in to your Member Account and following the "Delete Account" link
 						provided. If you cancel your Member Account, Points in your Member
 						Account will not become Earned Points.
@@ -807,7 +807,7 @@
 					</div>
 					<div class="text-left mb-2 mt-2">Phone: (817) 640-6166</div>
 					<div class="text-left mb-2 mt-2">Fax: 817-640-6567</div>
-					<div class="text-left mb-2 mt-2">Email: aparks@acop.com</div>
+					<div class="text-left mb-2 mt-2">Email: contact@linkcloudsurvey.com</div>
 					<div class="text-left mb-2 mt-2">
 						Please be aware that, in order to be effective, your notice of claim
 						must comply with the detailed requirements set forth in the DMCA.
