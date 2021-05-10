@@ -223,8 +223,7 @@
 						inaccurate or incomplete, we may refuse you access to this service
 						and pursue any appropriate legal remedies. By accepting this
 						Agreement, you are also agreeing to the terms of our Privacy Policy.
-						[Click here to see Link Cloud Survey's Privacy
-						Policy]. If we cannot reach you by email or similar electronic
+						 If we cannot reach you by email or similar electronic
 						method, you agree that we may attempt to contact you by mail or
 						other methods related to the purposes of this Agreement.
 					</div>

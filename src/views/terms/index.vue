@@ -44,8 +44,7 @@
 							the Points in your Member Account.
 						</div>
 						<div class="text-left mt-3">
-							Your privacy, confidentiality, and anonymity are strictly guarded
-							(click here to see details of Privacy Policy).
+							Your privacy, confidentiality, and anonymity are strictly guarded.
 						</div>
 						<div class="text-left">
 							You agree to answer all survey questions honestly and truthfully
