@@ -340,7 +340,7 @@
             <input id="checkbox1" type="checkbox" name="" />
             <div style="display: flex; margin-left: 5px">
               <div>I have read and accepted</div>
-              <a style="color: #ff6f00" href="#/terms" class="ml-2"
+              <a style="color: #ff6f00" href="#/terms" class="ml-2 text-decoration-none"
                 >Terms And Conditions *</a
               >
             </div>
@@ -349,7 +349,7 @@
             <input id="checkbox2" type="checkbox" name="" />
             <div style="display: flex; margin-left: 5px">
               <div>I have read and accepted</div>
-              <a style="color: #ff6f00" href="#/privacy" class="ml-2"
+              <a style="color: #ff6f00" href="#/privacyPolicy" class="ml-2 text-decoration-none"
                 >Privacy Policy *</a
               >
             </div>
