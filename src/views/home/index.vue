@@ -264,8 +264,8 @@
             ref="count"
             :bgcolor="'#6798b9'"
             :img="'./static/users.png'"
-            :number="'89721'"
-            :text="'Monthly Active Users'"
+            :number="'128408'"
+            :text="'Total Users'"
           />
           <div style="height: 60px"></div>
         </div>

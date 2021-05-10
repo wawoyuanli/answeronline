@@ -11,8 +11,8 @@
             class="ml-4"
           /> -->
           <p class="mt-5 mb-3 text-light text-left">
-            American Consumer Opinion® is owned and operated by Decision
-            Analyst, Inc., a global marketing research and analytical consulting
+            Link Cloud Survey is owned and operated by Decision
+            GLOBALTON CONSULTING INC., a global marketing research and analytical consulting
             firm headquartered
           </p>
           <!-- <p class="col-md-8 text-light text-left">
@@ -203,7 +203,7 @@
             </a>
           </div>
 
-          <div>contactcontact@linkcloudsurvey.com</div>
+          <div>contact@linkcloudsurvey.com</div>
         </div>
       </div>
     </div>

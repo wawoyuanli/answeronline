@@ -17,10 +17,10 @@
 						</p>
 						<div class="text-left h4">Who We Are</div>
 						<div class="text-left">
-							nsumer Opinion Panel® and www.acop.com The American Coare owned
-							and operated by Decision Analyst, Inc., a global marketing
+							Link Cloud Survey owned
+							and operated by GLOBALTON CONSULTING INC., a global marketing
 							research and analytical consulting firm headquartered in the
-							Dallas-Fort Worth area. Decision Analyst, Inc. subscribes to the
+							New York area. GLOBALTON CONSULTING INC. subscribes to the
 							privacy, confidentiality, and ethics policies of these
 							organizations:
 						</div>
