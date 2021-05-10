@@ -62,7 +62,12 @@
 					request is processed and completed, the above information will be made
 					inaccessible to Decision Analyst and our partners.
 				</div>
-                <button class="btn btn-primary mb-5 mt-5" style="width:200px;margin:0 auto">SUBMIT</button>
+				<button
+					class="btn btn-primary mb-5 mt-5"
+					style="width: 200px; margin: 0 auto"
+				>
+					SUBMIT
+				</button>
 			</div>
 		</div>
 		<div class="mt-5 pt-5"></div>
@@ -78,5 +83,6 @@ export default {
 		Nav,
 		Footer,
 	},
+	mounted() {},
 }
 </script>

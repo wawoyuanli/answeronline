@@ -1,5 +1,5 @@
 <template>
-  <div class="homepage">
+  <div class="homepage content-with-before-bg">
     <Nav />
     <div class="" style="height: 550px"></div>
     <div class="container-fluid" style="background: #275894">
@@ -89,7 +89,7 @@
               height="20px"
               class="ml-2"
             />
-            <a class="text-center text-light" style="width: 80%">
+            <a class="text-center text-light" style="width: 80%" href="http://google.com/">
               Sign in with Google
             </a>
           </div>
@@ -414,11 +414,52 @@ Your name and address will never be used for sales or advertising purposes, and 
 };
 </script>
 <style scoped>
-.homepage {
+/* .homepage {
   background-image: url("../../assets/images/slide01.jpeg");
   z-index: -1;
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
   background-color: #fff;
+} */
+.content-with-before-bg{
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  
 }
+.content-with-before-bg:before{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: " ";
+  opacity: 1;
+  transition: opacity .2s;
+  background-image:url('../../assets/images/slide01.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;  /* 防止内容被背景遮盖 */
+  animation: fateimg 20s linear infinite;
+}
+@keyframes fateimg{
+        1%{background: url(../../assets/images/slide01.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        20%{background: url(../../assets/images/slide01.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        20%{background: url(../../assets/images/slide01.jpeg);opacity: 0;background-repeat: no-repeat;background-size:cover ;}
+        22%{background: url(../../assets/images/slide02.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        40%{background: url(../../assets/images/slide02.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        41%{background: url(../../assets/images/slide02.jpeg);opacity: 0;background-repeat: no-repeat;background-size:cover ;}
+        42%{background: url(../../assets/images/slide03.png);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        60%{background: url(../../assets/images/slide03.png);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        61%{background: url(../../assets/images/slide03.png);opacity: 0;background-repeat: no-repeat;background-size:cover ;}
+        62%{background: url(../../assets/images/slide04.png);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        80%{background: url(../../assets/images/slide04.png);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        81%{background: url(../../assets/images/slide04.png);opacity: 0;background-repeat: no-repeat;background-size:cover ;}
+        62%{background: url(../../assets/images/slide01.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        80%{background: url(../../assets/images/slide01.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        81%{background: url(../../assets/images/slide01.jpeg);opacity: 0;background-repeat: no-repeat;background-size:cover ;}
+        82%{background: url(../../assets/images/slide02.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        99%{background: url(../../assets/images/slide02.jpeg);opacity: 1;background-repeat: no-repeat;background-size:cover ;}
+        100%{background:url(../../assets/images/slide02.jpeg);opacity: 0;background-repeat: no-repeat;background-size:cover ;}     
+         }
 </style>
