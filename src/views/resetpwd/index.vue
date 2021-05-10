@@ -134,7 +134,7 @@ export default {
 			let _th = this
 			let req = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z0-9]{2,6}$/
 			if (!req.test(_th.email)) {
-				alert('邮箱格式不正确')
+				alert('E-mail format is incorrect')
 				return false
 			}
 			_th.disabled = true

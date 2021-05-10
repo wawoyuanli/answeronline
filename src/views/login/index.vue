@@ -95,7 +95,7 @@ export default {
       color: "#26a4c3",
       isActive: true,
       isShow: false,
-      errMess: "用户名不能为空",
+      errMess: "Username can not be empty",
       tipUsername: "",
       username: "",
       password: "",
