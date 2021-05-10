@@ -41,6 +41,7 @@
                 data-placement="right"
                 :title="tipPassword"
                 v-model="password"
+                type="password"
               />
               <p v-show="show" style="font-size: 10px; color: red">
                 {{ errMessPassword }} *
@@ -72,7 +73,7 @@
         </div>
       </div>
     </div>
-    <Dialog ref="myConfirm" @userBehavior="userBehaviorFun"></Dialog>
+    <Dialog ref="login" @userBehavior="userBehaviorFun"></Dialog>
     <Footer />
   </div>
 </template>
@@ -88,7 +89,7 @@ export default {
     Nav: Nav,
     // Login: Login,
     Footer: Footer,
-    // Dialog: Dialog,
+    Dialog: Dialog,
   },
   data() {
     return {
@@ -136,12 +137,12 @@ export default {
       /**登录接口 */
       login(requestData)
         .then(function(res) {
-          debugger;
           if (res.data.code === 0) {
             window.location.href = process.env.VUE_APP_URL; //登录成功跳转地址
           } else if (res.data.code === 500) {
-            _th.$refs.myConfirm.content = res.data.msg;
-            _th.$refs.myConfirm.isShowConfirm = true;
+            console.log(_th.$refs.login, "000");
+            _th.$refs.login.content = res.data.msg;
+            _th.$refs.login.isShowConfirm = true;
           }
         })
         .catch(function(err) {
@@ -149,7 +150,7 @@ export default {
         });
     },
     userBehaviorFun(type, data) {
-      this.$refs.myConfirm.isShowConfirm = false;
+      this.$refs.login.isShowConfirm = false;
       // window.location.href = process.env.VUE_APP_URL //登录成功跳转地址
     },
   },
