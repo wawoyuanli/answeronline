@@ -303,7 +303,7 @@
         <div class="col-lg-3"></div>
         <div class="col-lg-6">
           <!-- 美国-US、中国-CN、英国-GB、澳大利亚-AU、加拿大-CA、德国-DE、法国-FR -->
-          <div class="mt-3" style="display: flex" v-if="countryCode === 'us'">
+          <div class="mt-3" style="display: flex" v-if="countryCode === 'US'">
             <svg-icon icon-class="us"></svg-icon>
             <p class="text-dark ml-3" style="font-size: 18px">United States</p>
           </div>
