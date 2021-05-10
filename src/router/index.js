@@ -10,21 +10,37 @@ export default new Router({
             path: '/',
             name: 'home',
             redirect: 'home',
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/login',
             name: 'login',
             component: () => import('@/views/login/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/home',
             name: 'home',
             component: () => import('@/views/home/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/signup',
             name: 'signup',
             component: () => import('@/views/signup/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/faq',
@@ -36,18 +52,30 @@ export default new Router({
             path: '/affiliate',
             name: 'affiliate',
             component: () => import('@/views/affiliate/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
             path: '/consumerrights',
             name: 'consumerrights',
             component: () => import('@/views/consumerrights/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
             path: '/contactUs',
             name: 'contactUs',
             component: () => import('@/views/contactUs/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
@@ -60,39 +88,67 @@ export default new Router({
             path: '/personalInfoRequest',
             name: 'personalInfoRequest',
             component: () => import('@/views/personalInfoRequest/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
             path: '/privacyPolicy',
             name: 'privacyPolicy',
             component: () => import('@/views/privacyPolicy/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
             path: '/security',
             name: 'security',
             component: () => import('@/views/security/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
 
         {
             path: '/statement',
             name: 'statement',
             component: () => import('@/views/statement/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/terms',
             name: 'terms',
             component: () => import('@/views/terms/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/resetpwd',
             name: 'resetpwd',
             component: () => import('@/views/resetpwd/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/termsDetail',
             name: 'termsDetail',
-            component:()=>import('@/views/termsDetail/index.vue')
+            component: () => import('@/views/termsDetail/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         }
     ]
 })

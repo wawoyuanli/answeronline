@@ -11,9 +11,6 @@ import $ from 'jquery'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min'
 
- 
-// Vue.component('font-awesome-icon', FontAwesomeIcon);
-
 Vue.config.productionTip = false
 import './icons'
 new Vue({

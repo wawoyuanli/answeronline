@@ -591,7 +591,9 @@ export default {
     };
   },
   mounted() {
-    // document.getElementById("borderBottom").classList.add("borderBottom");
+   this.$router.afterEach((to, from, next) => {
+        window.scrollTo(0, 0)
+    })
   },
   methods: {
     collapseClickOne(one) {
