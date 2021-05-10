@@ -10,16 +10,28 @@ export default new Router({
             path: '/',
             name: 'home',
             redirect: 'home',
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/login',
             name: 'login',
             component: () => import('@/views/login/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/home',
             name: 'home',
             component: () => import('@/views/home/index.vue'),
+            beforeEnter: (to, from, next) => {
+                window.scrollTo(0, 0)
+                next()
+            }
         },
         {
             path: '/signup',
