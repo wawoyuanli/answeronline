@@ -268,6 +268,7 @@
             :img="'./static/users.png'"
             :number="'128408'"
             :text="'Total Users'"
+            :simple="''"
           />
           <div style="height: 60px"></div>
         </div>
