@@ -237,8 +237,9 @@
           <Count
             ref="count"
             :img="'./static/PayOutSide.png'"
-            :number="'$5319018'"
+            :number="5319018"
             :text="'Total Payout To Date'"
+            :simple="'$'"
           />
           <div style="height: 50px"></div>
         </div>
@@ -250,8 +251,9 @@
           <Count
             ref="count"
             :img="'./static/surveys-scheduled.png'"
-            :number="'300000+'"
+            :number="300000"
             :text="'Surveys Taken '"
+            :simple="'+'"
           />
           <div style="height: 60px"></div>
         </div>
@@ -264,8 +266,9 @@
             ref="count"
             :bgcolor="'#6798b9'"
             :img="'./static/users.png'"
-            :number="'89721'"
+            :number="89721"
             :text="'Monthly Active Users'"
+            :simple="''"
           />
           <div style="height: 60px"></div>
         </div>
@@ -375,6 +378,7 @@ import Nav from "@c/nav.vue";
 import Footer from "@c/footer.vue";
 import Count from "@c/count.vue";
 import Because from "@c/because.vue";
+
 export default {
   name: "Login",
   components: {
