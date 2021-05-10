@@ -209,8 +209,8 @@
 							the future. 
 						</div>
 						<div class="mt-5 text-left">
-							Additional information in regards to these rights and American
-							Consumer Opinion Panel® can be found in the subsequent sections of
+							Additional information in regards to these rights and GLOBALTON 
+							CONSULTING INC can be found in the subsequent sections of
 							this privacy policy. More information about GDPR in general can be
 							found at an official website of European Union law, Eur-Lex.
 						</div>

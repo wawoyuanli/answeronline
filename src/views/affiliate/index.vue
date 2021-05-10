@@ -26,13 +26,6 @@
 							and answered the surveys via the mail. Members primarily tested
 							and provided their feedback on new products.
 						</div>
-						<div class="ml-3 mt-3" style="font-size: 14px; font-weight: 600">
-							With the development of the Internet, the panel went online in
-							1996 and membership was opened up to all countries across the
-							globe. The panel currently includes over eight million men, women,
-							and children throughout the United States, Canada, Europe, Latin
-							America, and Asia.
-						</div>
 						<div class="ml-3 mt-1">
 							<div class="text-center h5 mt-5 mb-5">
 								<p>***IMPORTANT!***</p>
@@ -40,7 +33,7 @@
 							</div>
 							<div class="mb-2">
 								We are currently only able to accept affiliates who recruit in
-								the following countries: The United States, Canada, The United
+								the following countries: The United States, China, Canada, Australia, The United
 								Kingdom, Germany and France.
 							</div>
 							<div style="color: red"  class="mb-2">
@@ -84,12 +77,6 @@
 							High performers with valid sign-ups WILL be eligible for bonuses
 							or a higher pay rate overall. For questions, comments or concerns
 							please contact:
-						</div>
-						<div class="ml-3 mt-1 h5">Jennifer Parker</div>
-						<div class="ml-3 mt-3 text-center">
-							Affiliate Marketing Manager GLOBALTON CONSULTING INC. 604 Avenue H
-							East Arlington, TX 76011 817.640.6166 ext. 303
-							affiliate@linkcloudsurvey.com
 						</div>
 					</div>
 				</div>

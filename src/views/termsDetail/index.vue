@@ -390,8 +390,8 @@
 						that you do not earn the Points that may accumulate in your Member
 						Account, as explained in 8.J. You further agree that the Site may
 						from time to time attach script to its emails to help ensure that
-						you are receiving and opening emails from the Site. American
-						Consumer Opinion Panel® will not share your personal information
+						you are receiving and opening emails from the Site. GLOBALTON 
+						CONSULTING INC will not share your personal information
 						without your prior consent and your information will only be used
 						for marketing research purposes.
 					</div>
@@ -729,8 +729,8 @@
 						<label class="h5">B.</label>
 						All answers and responses to screeners, surveys, group discussion
 						questions or probes, ideation sessions, innovation sessions, or
-						other Research Projects become the exclusive property of American
-						Consumer Opinion Panel® and/or its clients, except that the personal
+						other Research Projects become the exclusive property of GLOBALTON 
+						CONSULTING INC and/or its clients, except that the personal
 						identity and anonymity of each Member shall be protected at all
 						times by Link Cloud Survey. That is, at no time will
 						any client of Link Cloud Survey know how any Member
@@ -857,8 +857,8 @@
 						Link Cloud Survey Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of
 						these jurisdictions has laws and regulations that may differ from
-						those of Texas, by accessing this Site both you and American
-						Consumer Opinion Panel® agree that the statutes and laws of the
+						those of Texas, by accessing this Site both you and GLOBALTON 
+						CONSULTING INC agree that the statutes and laws of the
 						State of Texas, without regard to conflicts of laws principles
 						thereof, will apply to all matters relating to use of this Site
 						(whether grounded in tort, contract, law, or equity).
