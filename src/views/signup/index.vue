@@ -412,7 +412,7 @@ export default {
   },
   data() {
     return {
-      sendCode: "send the verification code",
+      sendCode: "get verification code",
       disabled: false,
       tipUsername:
         "Choose your desired username,It must be 4-20 characters long and can only contain letters and numbers. it must start with a letter",
@@ -452,6 +452,7 @@ export default {
       time1: new Date().getFullYear().toString(),
       time2: (new Date().getMonth() + 1).toString(),
       time3: new Date().getDate().toString(),
+      countDownTime:60
     };
   },
   created: function() {},
@@ -495,18 +496,20 @@ export default {
         alert("please enter your vaild email!");
         return false;
       }
-      _th.sendCode = "sending...";
-      _th.disabled = true;
+      // _th.sendCode = "sending...";
+      // _th.disabled = true;
+      	_th.disabled = true
+				_th.countDown(60)
       getCode(data)
         .then(function(res) {
           if (res.data.code === 0) {
-            _th.sendCode = "send the verification code";
-            _th.disabled = false;
+            // _th.sendCode = "send the verification code";
+            // _th.disabled = false;
           }
         })
         .catch(function(err) {
-          _th.sendCode = "send the verification code";
-          _th.disabled = false;
+          // _th.sendCode = "send the verification code";
+          // _th.disabled = false;
           console.log(err);
         });
     },
@@ -627,9 +630,9 @@ export default {
         return false;
       }
       if (!data.checkCode) {
-        // _th.$refs.register.showTip = true;
         return false;
       }
+      
       registerHandler(data)
         .then(function(res) {
           if (res.data.code === 0) {
@@ -659,6 +662,19 @@ export default {
       this.$refs.dialog.isShowConfirm = false;
       thi.$router.push("#/login");
     },
+    	countDown(time = 60) {
+				this.countDownTime = time
+				if (time !== 0) {
+          this.sendCode='Countdown ' + time+ ' s'
+					setTimeout(() => {
+						time--
+						this.countDown(time)
+					}, 1000)
+				} else {
+					this.disabled = false
+            this.sendCode='get verification code'
+				}
+			}
   },
 };
 </script>
