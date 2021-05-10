@@ -520,9 +520,9 @@ export default {
         surveyLastName: _th.lastName,
         remark: _th.remark,
         sex: _th.sex,
-        surveyBirthdayYear: _th.dateYear, //年
-        surveyBirthdayMonth: _th.dateMonth, //月
-        surveyBirthdayDay: _th.dateDay, //日
+        surveyBirthdayYear: _th.time1, //年
+        surveyBirthdayMonth: _th.time2, //月
+        surveyBirthdayDay: _th.time3, //日
         surveyAddress: _th.address,
         surveyPostcode: _th.postCode,
         phonenumber: _th.phonenumber,
