@@ -52,7 +52,7 @@
 									$1.00 USD for each valid, confirmed and non-duplicated
 									participant who double opts-in and completes a new member
 									survey for the Link Cloud Survey. Leads outside
-									of the U.S., U.K., Germany, France, Canada are non-qualifying
+									of the U.S., China, Australia, U.K., Germany, France, Canada are non-qualifying
 									and will be reversed. Negotiable based on demographics and/or
 									traffic.
 								</li>
