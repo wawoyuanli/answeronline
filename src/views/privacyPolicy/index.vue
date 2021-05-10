@@ -118,7 +118,7 @@
 							and the Swiss-US Privacy Shield Framework as set forth by the U.S.
 							Department of Commerce regarding the collection, use, and
 							retention of personal information transferred from the European
-							and Switzerland to the United States, respectively. Decision
+							and Switzerland to the United States, respectively. GLOBALTON CONSULTING INC
 							Analyst has certified to the Department of Commerce that it
 							adheres to the Privacy Shield Principles. If there is any conflict
 							between the terms in this privacy policy and the Privacy Shield
@@ -447,8 +447,7 @@
 							GLOBALTON CONSULTING INC's services, solely for the partners' use in
 							connection with their incentive program and its terms of use,
 							including the crediting of Member Accounts maintained by the
-							partners for individuals who use or participate in Decision
-							Analyst's services.
+							partners for individuals who use or participate in GLOBALTON CONSULTING INC's services.
 						</div>
 						<div class="text-left ml-3">
 							As otherwise permitted in this Privacy Policy.
@@ -492,13 +491,13 @@
 						<div class="text-left ml-3">
 							Generally, disclosures of personal information by GLOBALTON CONSULTING INC
 							to some other company or organization, except for disclosures of
-							UIDs, are controlled by a written agreement between Decision
-							Analyst and the other company or organization, which restricts and
+							UIDs, are controlled by a written agreement between GLOBALTON CONSULTING INC
+							and the other company or organization, which restricts and
 							limits use of the personal information. GLOBALTON CONSULTING INC may allow
 							a client to collect personal information directly from panel
 							members. The disclosure is voluntary and, prior to collection, the
-							client is required to enter into a written agreement with Decision
-							Analyst, which restricts and limits use of the personal
+							client is required to enter into a written agreement with GLOBALTON CONSULTING INC
+							, which restricts and limits use of the personal
 							information.
 						</div>
 
@@ -550,8 +549,8 @@
 						<div class="text-left">
 							The Link Cloud Survey has multiple security
 							measures in place to ensure the confidentiality and protection of
-							your personal information. The data is stored behind Decision
-							Analyst's firewall, and the data is encrypted. We have security
+							your personal information. The data is stored behind GLOBALTON CONSULTING INC's 
+							firewall, and the data is encrypted. We have security
 							measures in place to protect against the loss, misuse, or
 							alteration of any information we receive from you. As with any
 							transmission over the Internet, there is some element of risk
@@ -615,7 +614,7 @@
 
 						<div class="h4 text-left mt-3">Legal Disclaimer</div>
 						<div class="text-left">
-							The www.acop.com website contains links to other websites whose
+							The www.linkcloudsurvey.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage
@@ -624,7 +623,7 @@
 
 						<div class="h4 text-left mt-3">Links To Outside Sites</div>
 						<div class="text-left">
-							The www.acop.com website contains links to other websites whose
+							The www.linkcloudsurvey.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage

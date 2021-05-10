@@ -15,8 +15,8 @@
 							<th scope="col" colspan="4" class="text-left">
 								Consumers have the right to freely express their opinions,
 								preferences, and grievances to the companies and governments
-								that provide products and services to them. American Consumer
-								Opinion® will always report consumers' viewpoints honestly and
+								that provide products and services to them. GLOBALTON CONSULTING INC
+								 will always report consumers' viewpoints honestly and
 								accurately to these organizations.
 							</th>
 						</tr>
@@ -44,8 +44,8 @@
 							<th scope="col" colspan="4" class="text-left">
 								Consumers are entitled to the benefits of competition, wherein
 								many companies and organizations are striving and competing to
-								satisfy consumer needs and preferences. American Consumer
-								Opinion® will work to promote competition around the globe.
+								satisfy consumer needs and preferences. GLOBALTON CONSULTING INC
+								 will work to promote competition around the globe.
 							</th>
 						</tr>
 						<tr class="table-primary">
@@ -66,8 +66,8 @@
 						</tr>
 						<tr class="table-primary">
 							<th scope="col" colspan="4" class="text-left">
-								Consumers are entitled to a safe environment. American Consumer
-								Opinion® will work through its clients, its corporate
+								Consumers are entitled to a safe environment. GLOBALTON CONSULTING INC
+								 will work through its clients, its corporate
 								activities, and its consulting services to promote behaviors,
 								products, and services that help to preserve, protect, and
 								restore the earth's natural environment.

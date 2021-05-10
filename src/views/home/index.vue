@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-md-4"></div>
 				<div class="pt-4 pb-4 title col-md-5 text-light h5 mt-5 rounded">
-					Most members of American Consumer Opinion® enjoy having the
+					Most members of GLOBALTON CONSULTING INC enjoy having the
 					opportunity to make their opinions count, to influence the future.
 					It's similar to voting for elected officials—but here, you are voting
 					on products and services you want in the future.

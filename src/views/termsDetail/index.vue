@@ -350,9 +350,9 @@
 						</label>
 						All Points awarded to you are added to your Member Account
 						maintained by Link Cloud Survey. You can access your
-						Member Account by going to www.acop.com. and clicking on "Login" and
-						logging in with your email address and password. American Consumer
-						Opinion Panel® will hold the Points in your Member Account until
+						Member Account by going to www.linkcloudsurvey.com. and clicking on "Login" and
+						logging in with your email address and password. GLOBALTON CONSULTING INC
+						 will hold the Points in your Member Account until
 						Earned, subject to the terms of this Agreement. For a Member Account
 						to be established in your name, you must complete the online
 						registration form, including your full legal name, home address,
@@ -379,8 +379,8 @@
 					</div>
 					<div class="text-left">
 						<label class="h5">G. Email Communications -</label>
-						All contact and communication between you and American Consumer
-						Opinion Panel® will be conducted via email to the email address you
+						All contact and communication between you and GLOBALTON CONSULTING INC
+						 will be conducted via email to the email address you
 						provide at registration, or as provided by you every 12 months (or
 						sooner if necessary) when you update your registration information.
 						It is your responsibility to keep your email address current and
@@ -406,7 +406,7 @@
 						have no cash or monetary value. The 1,000-Point minimum may be
 						changed by Link Cloud Survey from time to time, but
 						not without posting notification on the Site. You may review your
-						Member Account Points at any time by going to www.acop.com and
+						Member Account Points at any time by going to www.linkcloudsurvey.com and
 						clicking on "Login" and logging in with your email address and
 						password. If you choose to redeem Points for cash or money, you will
 						have the choice of payment in U.S. Dollars (USD) or your local
@@ -424,8 +424,8 @@
 						response is answered in a reasonable time period and that responses
 						are not invalidated due to "cheater traps" or other deceitful means,
 						as this breaks our member agreement to ensure honest answers. This
-						process could take up to 30 days. Once validated, American Consumer
-						Opinion® will process your transaction within 6 to 8 weeks.
+						process could take up to 30 days. Once validated, GLOBALTON CONSULTING INC
+						 will process your transaction within 6 to 8 weeks.
 					</div>
 					<div class="text-left mt-2">
 						<label class="h6">
@@ -468,8 +468,8 @@
 						receive an email or other electronic notification from us that your
 						Member Account is in danger of becoming Non-Compliant. If you
 						respond to that email notification by following the link provided in
-						the email, you will remain a Compliant Member of American Consumer
-						Opinion Panel®. If you do not respond to the email or other
+						the email, you will remain a Compliant Member of GLOBALTON CONSULTING INC
+						. If you do not respond to the email or other
 						electronic notification within thirty (30) days, your Member Account
 						will be placed on Non-Compliant status. Once your Member Account is
 						on Non-Compliant status, you will have 12 months to contact us to
@@ -522,8 +522,8 @@
 						or other proprietary information (including images, text, page
 						layout, or form) of Link Cloud Survey or its
 						affiliates without prior express written consent. You may not use
-						meta tags or any other "hidden text" utilizing American Consumer
-						Opinion Panel's name or trademarks without the express written
+						meta tags or any other "hidden text" utilizing GLOBALTON CONSULTING
+						 INC's name or trademarks without the express written
 						consent of Link Cloud Survey.
 					</div>
 					<div class="text-left mt-3 mb-2">
@@ -637,8 +637,8 @@
 						updates, revisions, supplements, modifications or amendments shall
 						be effective immediately upon its posting on the Site and will only
 						be applicable to disputes arising, or arising out of events
-						occurring, after such posting has been made. American Consumer
-						Opinion Panel® will provide you notice of any updates, revisions,
+						occurring, after such posting has been made. GLOBALTON CONSULTING INC
+						 will provide you notice of any updates, revisions,
 						supplements, modifications, or amendments to this Agreement by
 						placing a "Notice of Modification" link on the homepage for a 30-day
 						period following the initial posting on the Site. You agree that you
@@ -691,8 +691,8 @@
 						 SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
 						SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES. YOU UNDERSTAND AND
 						ACCEPT THAT YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE YOUR
-						USE OF THE SITE. NOTWITHSTANDING THE FOREGOING, American Consumer
-						Opinion Panel'S LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
+						USE OF THE SITE. NOTWITHSTANDING THE FOREGOING, GLOBALTON CONSULTING
+						 INC'S LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
 						FURTHER AGREE NOT TO JOIN IN ANY LAWSUIT WITH ANOTHER PERSON OR
 						SERVE AS A CLASS REPRESENTATIVE OF ANY CLASS ACTION LAWSUIT AGAINST
 						Link Cloud Survey ARISING OUT OF THE USE OF THE SITE
@@ -780,8 +780,7 @@
 					<div class="text-left mt-2 mb-2">
 						In registering at the Site, and participating in Research Projects,
 						Members are acting as independent contractors. Members are not
-						employees of the Site, Link Cloud Survey, or Decision
-						Analyst, Inc.
+						employees of the Site, Link Cloud Survey, or GLOBALTON CONSULTING INC.
 					</div>
 					<p class="text-left h4 mt-2">19. Digital Millennium Copyright Act</p>
 					<div class="text-left mt-2 mb-2">
