@@ -12,10 +12,7 @@
 				<div class="col-md-8">
 					<div class="text-left h4">Contact Information</div>
 					<p>
-						American Consumer Opinion Panel®'s mailing address is 604 Avenue H
-						East, Arlington, TX 76011. The email address is contact@linkcloudsurvey.com. The
-						main telephone number is (817) 640-6166, the telephone number within
-						the U.S. is (817) 649-5241, and the fax number is (817) 640-6567.
+						The email address is contact@linkcloudsurvey.com.
 					</p>
 					<div class="text-left h4">1. Definition of Terms</div>
 					<p class="mt-3 text-left">
@@ -38,7 +35,7 @@
 					<p class="mt-3 text-left">
 						<label class="h6">C. Non-Compliant</label>
 						- If a Member does not maintain a correct email address at the
-						American Consumer Opinion Panel® Site, that Member's status becomes
+						Link Cloud Survey Site, that Member's status becomes
 						Non-Compliant. Even if a correct email address is maintained by
 						Member at the Site, if Member does not respond to the Site emails or
 						survey invitations for a period of eighteen (18) consecutive months
@@ -59,7 +56,7 @@
 						<label class="h6"> E. Incentive Program </label>
 						- A term that refers to the incentives and terms and conditions
 						related thereto in this Agreement. F. Member - An individual who has
-						completed the American Consumer Opinion Panel® Site registration
+						completed the Link Cloud Survey Site registration
 						form and signaled acceptance of this Terms and Conditions Agreement
 						by clicking on the "I Agree" button and/or by usage of the Site and
 						by participation in Research Projects.
@@ -195,11 +192,11 @@
 					</div>
 					<p class="text-leftvh4">3. Survey Participation</p>
 					<div class="text-left">
-						American Consumer Opinion Panel® offers you the opportunity to
+						Link Cloud Survey offers you the opportunity to
 						participate in Research Projects. Your opinions and responses are
 						very important, because they help businesses and organizations
 						develop better strategies, better products, better services, and
-						better advertising. As a Member of American Consumer Opinion Panel®
+						better advertising. As a Member of Link Cloud Survey
 						you may earn awards, cash, gifts, or Points for participating in
 						Research Projects, so long as you fully comply with the terms of
 						this Agreement.
@@ -226,7 +223,7 @@
 						inaccurate or incomplete, we may refuse you access to this service
 						and pursue any appropriate legal remedies. By accepting this
 						Agreement, you are also agreeing to the terms of our Privacy Policy.
-						[Click here to see American Consumer Opinion Panel®'s Privacy
+						[Click here to see Link Cloud Survey's Privacy
 						Policy]. If we cannot reach you by email or similar electronic
 						method, you agree that we may attempt to contact you by mail or
 						other methods related to the purposes of this Agreement.
@@ -236,7 +233,7 @@
 						You agree to supply true, honest, current, and complete answers
 						(collectively "Accurate" information) when registering at or
 						updating your Member Account at the Site, and when participating in
-						Research Projects offered by American Consumer Opinion Panel®. You
+						Research Projects offered by Link Cloud Survey. You
 						further agree, every 12 months (or sooner if necessary), to review
 						and correct all registration information about you and your
 						household on the Site (including providing a current and accurate
@@ -249,9 +246,9 @@
 					</div>
 					<p class="text-left h4">6. Confidentiality</p>
 					<div class="text-left">
-						When completing Research Projects from American Consumer Opinion
-						Panel® you may see or hear information that is deemed confidential
-						by American Consumer Opinion Panel® or its clients. This
+						When completing Research Projects from Link Cloud Survey
+						 you may see or hear information that is deemed confidential
+						by Link Cloud Survey or its clients. This
 						confidential information may include new products, new product ideas
 						or concepts, packaging concepts, strategy concepts, advertizing
 						concepts, new commercials and ads, or new movie or television
@@ -263,7 +260,7 @@
 						you will not use the confidential information except for the purpose
 						of completing the survey or research project. You agree that any
 						confidential information you see or hear remains the property of
-						American Consumer Opinion Panel® or its clients. Your violation of
+						Link Cloud Survey or its clients. Your violation of
 						the provisions of this Section 6 will be a breach of this Agreement
 						and will mean that you do not earn the Points in your Member
 						Account. Such violation may result in the termination of your Member
@@ -271,7 +268,7 @@
 					</div>
 					<p class="text-left h4">7. Indemnification</p>
 					<div class="text-left">
-						You agree to indemnify American Consumer Opinion Panel® and its
+						You agree to indemnify Link Cloud Survey and its
 						employees from any and all claims, losses, or damages resulting from
 						your violation of the terms and conditions of this Agreement (for
 						example, by providing fraudulent registration information in your
@@ -280,12 +277,12 @@
 						of the Site, etc.). You agree that the Site has the unlimited right
 						to defend any claims by third parties, and the right to settle any
 						claim without your consent or permission. You agree to provide
-						American Consumer Opinion Panel® with all reasonable assistance in
+						Link Cloud Survey with all reasonable assistance in
 						the defense of applicable claims by third parties.
 					</div>
 					<p class="text-left h4">8. Incentives</p>
 					<div class="text-left">
-						American Consumer Opinion Panel® offers incentives to its Members
+						Link Cloud Survey offers incentives to its Members
 						that are awarded for various activities or actions, as explained
 						below:
 					</div>
@@ -293,7 +290,7 @@
 						<label class="h5"
 							>A. Incentives for Completing Screening Questionnaires-</label
 						>
-						American Consumer Opinion Panel® administers two types of
+						Link Cloud Survey administers two types of
 						questionnaires. The first is a short questionnaire referred to as a
 						screening questionnaire or "screener." The second type is a longer
 						questionnaire, referred to as a "survey" (further described below in
@@ -349,10 +346,10 @@
 					</div>
 					<div class="text-left">
 						<label class="h5"
-							>E. American Consumer Opinion Panel® Member Accounts -
+							>E. Link Cloud Survey Member Accounts -
 						</label>
 						All Points awarded to you are added to your Member Account
-						maintained by American Consumer Opinion Panel®. You can access your
+						maintained by Link Cloud Survey. You can access your
 						Member Account by going to www.acop.com. and clicking on "Login" and
 						logging in with your email address and password. American Consumer
 						Opinion Panel® will hold the Points in your Member Account until
@@ -362,7 +359,7 @@
 						valid email address, and any other information requested. You must
 						also accept the terms and conditions of this Agreement at that time
 						by clicking the "I Agree" button. Your use of this Site or any
-						participation in American Consumer Opinion Panel® Research Projects,
+						participation in Link Cloud Survey Research Projects,
 						also constitutes acceptance of the terms of this Agreement. This
 						Agreement may be modified from time to time, as explained in section
 						12.
@@ -372,7 +369,7 @@
 						All Members must be at least fourteen (14) years of age, or older as
 						required by the laws of each country. No person may establish or
 						maintain more than one (1) Member Account per household with
-						American Consumer Opinion Panel®, and each account must have a
+						Link Cloud Survey, and each account must have a
 						unique and valid email address and password. By completing the
 						online registration, you represent that you are at least fourteen
 						(14) years of age and that the information provided about you and
@@ -387,7 +384,7 @@
 						provide at registration, or as provided by you every 12 months (or
 						sooner if necessary) when you update your registration information.
 						It is your responsibility to keep your email address current and
-						accurate in your American Consumer Opinion Panel® Member Account.
+						accurate in your Link Cloud Survey Member Account.
 						Failure to maintain an accurate email address in your Member Account
 						violates the terms and conditions of this Agreement and will mean
 						that you do not earn the Points that may accumulate in your Member
@@ -407,7 +404,7 @@
 						(check or Paypal). Until you reach the 1,000-Point minimum and until
 						you choose what to do with the Points, the Points are Unearned and
 						have no cash or monetary value. The 1,000-Point minimum may be
-						changed by American Consumer Opinion Panel® from time to time, but
+						changed by Link Cloud Survey from time to time, but
 						not without posting notification on the Site. You may review your
 						Member Account Points at any time by going to www.acop.com and
 						clicking on "Login" and logging in with your email address and
@@ -420,7 +417,7 @@
 						<label class="h5">I. Methods of Payment - </label>
 						You can redeem Earned Points for cash or money either by check or
 						PayPal, or other legal methods at the Site's discretion. To ensure
-						the highest quality for our clientele, American Consumer Opinion®
+						the highest quality for our clientele, Link Cloud Survey
 						panel must validate all cash-out requests before processing
 						incentives. To do this, we verify name and mailing address, along
 						with survey responses on paid surveys. We also verify that each
@@ -432,7 +429,7 @@
 					</div>
 					<div class="text-left mt-2">
 						<label class="h6">
-							American Consumer Opinion Panel® If you choose to receive payment
+							Link Cloud Survey If you choose to receive payment
 							by check and fail to deposit or cash the check for a period of two
 							(2) years, the check will become null and void, and an equivalent
 							number of Points will be credited to your Member Account.
@@ -466,7 +463,7 @@
 						email address at the Site, if you fail to respond to email or other
 						electronic communications on thirty (30) consecutive occasions or
 						for eighteen (18) consecutive months, whichever comes first,
-						American Consumer Opinion Panel® will place your Member Account on
+						Link Cloud Survey will place your Member Account on
 						Non-Compliant status. Prior to such a change in status, you will
 						receive an email or other electronic notification from us that your
 						Member Account is in danger of becoming Non-Compliant. If you
@@ -487,11 +484,11 @@
 					<p class="text-left">
 						<label class="h5">K. NOT A FINANCIAL INSTITUTION - </label>
 						BY COMPLETING THE REGISTRATION FORM, BY ACCEPTING THIS AGREEMENT BY
-						CLICKING "I AGREE," BY UTILIZING THE American Consumer Opinion
-						Panel® INCENTIVE PROGRAM, AND BY PARTICIPATING IN RESEARCH PROJECTS,
-						YOU ACKNOWLEDGE AND AGREE THAT AMERICAN CONSUMER OPINION PANEL® IS
+						CLICKING "I AGREE," BY UTILIZING THE LINK CLOUD SURVEY
+						 INCENTIVE PROGRAM, AND BY PARTICIPATING IN RESEARCH PROJECTS,
+						YOU ACKNOWLEDGE AND AGREE THAT Link Cloud Survey IS
 						NOT A BANK OR ANY OTHER KIND OR FORM OF FINANCIAL INSTITUTION AND
-						THAT American Consumer Opinion Panel® DOES NOT MAINTAIN YOUR MEMBER
+						THAT LINK CLOUD SURVEY DOES NOT MAINTAIN YOUR MEMBER
 						ACCOUNT FOR ANY PURPOSE OTHER THAN THOSE SPECIFIED HEREIN. YOU AGREE
 						THAT THE POINTS ADDED TO YOUR MEMBER ACCOUNT HAVE NO CASH OR
 						MONETARY VALUE UNTIL EARNED, IN ACCORDANCE WITH THE TERMS OF THIS
@@ -502,7 +499,7 @@
 					<p class="text-left">
 						<label class="h5">L. Your Right to Cancel Your Account - </label>
 						You may cancel your Member Account at any time by contacting
-						American Consumer Opinion Panel® at contact@linkcloudsurvey.com, or by logging
+						Link Cloud Survey at contact@linkcloudsurvey.com, or by logging
 						in to your Member Account and following the "Delete Account" link
 						provided. If you cancel your Member Account, Points in your Member
 						Account will not become Earned Points.
@@ -513,21 +510,21 @@
 						Systematic retrieval of data from this Site to create or compile
 						directly or indirectly, in whole or in part, a collection,
 						compilation, database or directory without the express written
-						permission of American Consumer Opinion Panel® is strictly
+						permission of Link Cloud Survey is strictly
 						prohibited. You agree that you will not use any robot, spider, other
 						automatic device, or manual process to monitor or copy our web pages
 						or the content contained herein. You may not engage in the practices
 						of "screen scraping," "database scraping," or any other practice or
 						activity the purpose of which is to obtain lists of users, portions
 						of a database, or other information from this Site, in any manner
-						not authorized by American Consumer Opinion Panel®. You may not
+						not authorized by Link Cloud Survey. You may not
 						frame or utilize framing techniques to enclose any trademark, logo,
 						or other proprietary information (including images, text, page
-						layout, or form) of American Consumer Opinion Panel® or its
+						layout, or form) of Link Cloud Survey or its
 						affiliates without prior express written consent. You may not use
 						meta tags or any other "hidden text" utilizing American Consumer
 						Opinion Panel's name or trademarks without the express written
-						consent of American Consumer Opinion Panel®.
+						consent of Link Cloud Survey.
 					</div>
 					<div class="text-left mt-3 mb-2">
 						You agree that you will not use any device, software or routine to
@@ -540,17 +537,17 @@
 					</div>
 					<p class="text-left h4">10. Use of Contents</p>
 					<div class="text-left mt-3">
-						The content of the Site is the property of American Consumer Opinion
-						Panel® and/or its clients. Unless directed or permitted by the Site,
+						The content of the Site is the property of Link Cloud Survey
+						 and/or its clients. Unless directed or permitted by the Site,
 						content cannot be copied, downloaded, or printed, and must retain
 						all the copyright, trademark, and other proprietary notices. For use
 						of any portion of the contents, you must secure the written consent
-						of American Consumer Opinion Panel®.
+						of Link Cloud Survey.
 					</div>
 					<p class="text-left h4">11. Use of Site</p>
 					<div class="text-left mt-3">
-						Your use of the Site is controlled by American Consumer Opinion
-						Panel®, which may deny you further use of the Site at any time, for
+						Your use of the Site is controlled by Link Cloud Survey
+						, which may deny you further use of the Site at any time, for
 						any reason, with or without cause, regardless of your status as a
 						Member. Your use of the Site does not entitle you to continued use
 						of the Site. Your use of the Site must always comply with applicable
@@ -635,7 +632,7 @@
 						AND THE MINIMUM THRESHOLDS FOR REDEMPTION OF POINTS AT ANY TIME.
 						This includes, without limitation, the right to change the rules of
 						participation, terminate your participation, and discontinue the
-						Incentive Program. American Consumer Opinion Panel® will indicate at
+						Incentive Program. Link Cloud Survey will indicate at
 						the bottom of this Agreement the date of the last update. Any
 						updates, revisions, supplements, modifications or amendments shall
 						be effective immediately upon its posting on the Site and will only
@@ -652,11 +649,11 @@
 					</div>
 					<p class="text-left h4 mt-2">13. Disclaimer of Warranties</p>
 					<div class="text-left mt-2">
-						American Consumer Opinion Panel® does not warrant that the Incentive
+						Link Cloud Survey does not warrant that the Incentive
 						Program will remain operational, and it disclaims any liability for
 						any losses you may experience because the Incentive Program is not
-						operational or accessible by you. IF American Consumer Opinion
-						Panel® DISCONTINUES THE INCENTIVE PROGRAM OR IF IT TERMINATES YOUR
+						operational or accessible by you. IF Link Cloud Survey
+						 DISCONTINUES THE INCENTIVE PROGRAM OR IF IT TERMINATES YOUR
 						PARTICIPATION FOR VIOLATION OF THIS AGREEMENT, YOU UNDERSTAND AND
 						AGREE THAT YOUR RIGHT TO ACCESS THE INCENTIVE PROGRAM WILL CEASE AND
 						ALL POINTS IN YOUR ACCOUNT, HOWEVER AND WHENEVER ACCUMULATED, WILL
@@ -675,7 +672,7 @@
 						network operator.
 					</div>
 					<div class="text-left mt-2">
-						American Consumer Opinion Panel® provides the Incentive Program "as
+						Link Cloud Survey provides the Incentive Program "as
 						is" and makes no representations or warranties to you, express or
 						implied, regarding its accessibility or that your access to the
 						Incentive Program will be uninterrupted or error-free.
@@ -690,22 +687,22 @@
 						14. Limitations and Exclusions of Liability
 					</p>
 					<div class="text-left mt-2">
-						YOU EXPRESSLY UNDERSTAND AND AGREE THAT American Consumer Opinion
-						Panel® SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+						YOU EXPRESSLY UNDERSTAND AND AGREE THAT Link Cloud Survey
+						 SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
 						SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES. YOU UNDERSTAND AND
 						ACCEPT THAT YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE YOUR
 						USE OF THE SITE. NOTWITHSTANDING THE FOREGOING, American Consumer
 						Opinion Panel'S LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
 						FURTHER AGREE NOT TO JOIN IN ANY LAWSUIT WITH ANOTHER PERSON OR
 						SERVE AS A CLASS REPRESENTATIVE OF ANY CLASS ACTION LAWSUIT AGAINST
-						American Consumer Opinion Panel® ARISING OUT OF THE USE OF THE SITE
+						Link Cloud Survey ARISING OUT OF THE USE OF THE SITE
 						OR ITS INCENTIVE PROGRAM.
 					</div>
 					<p class="text-left h4 mt-2">15. Release</p>
 					<div class="text-left mt-2">
 						Should you have a dispute with another Member through the Site
 						(e.g., during a group discussion), you agree that you release
-						American Consumer Opinion Panel®, its officers, directors, members,
+						Link Cloud Survey, its officers, directors, members,
 						agents, and employees from all claims, demands, and damages (actual
 						and consequential) of any kind and nature, known and unknown,
 						suspected and unsuspected, disclosed and undisclosed, arising out
@@ -718,15 +715,15 @@
 					</div>
 					<div class="text-left">
 						<label class="h5">A.</label>
-						American Consumer Opinion Panel®'s logos, and other trademarks,
+						Link Cloud Survey's logos, and other trademarks,
 						service marks, labels, product names and service names
-						(collectively, the Marks) are owned or licensed by Decision Analyst,
+						(collectively, the Marks) are owned or licensed by GLOBALTON CONSULTING INC,
 						Inc. You agree not to copy, display or otherwise use any of the
-						Marks without the prior written permission of Decision Analyst, Inc.
+						Marks without the prior written permission of GLOBALTON CONSULTING INC.
 						Notwithstanding the foregoing, the Marks may not be used in any
 						manner likely to cause confusion, to disparage or dilute these
 						Marks, and/or to use in connection with any product or service that
-						is not authorized or sponsored by American Consumer Opinion Panel®.
+						is not authorized or sponsored by Link Cloud Survey.
 					</div>
 					<div class="text-left">
 						<label class="h5">B.</label>
@@ -735,55 +732,55 @@
 						other Research Projects become the exclusive property of American
 						Consumer Opinion Panel® and/or its clients, except that the personal
 						identity and anonymity of each Member shall be protected at all
-						times by American Consumer Opinion Panel®. That is, at no time will
-						any client of American Consumer Opinion Panel® know how any Member
+						times by Link Cloud Survey. That is, at no time will
+						any client of Link Cloud Survey know how any Member
 						answered any question. Members' answers will be combined with the
 						answers of other Members and presented to clients as statistical
 						averages or summaries. Member privacy and anonymity are protected at
-						all times by American Consumer Opinion Panel®.
+						all times by Link Cloud Survey.
 					</div>
 					<div class="text-left">
 						<label class="h5">C.</label>
-						The entire American Consumer Opinion Panel® Site, and all object
+						The entire Link Cloud Survey Site, and all object
 						code and source code, text, graphics, multimedia content, including
 						but not limited to images, illustrations, audio and video clips,
 						html and other mark up languages, screeners, surveys, group
 						discussion questions, videos, new product concepts, ads, and all
 						scripts within the Site associated therewith, are copyright 2021,
-						Decision Analyst, Inc. All rights reserved. This copyrighted and
-						proprietary property of Decision Analyst, Inc. may not be duplicated
-						or used without Decision Analyst's express prior written consent.
+						GLOBALTON CONSULTING INC. All rights reserved. This copyrighted and
+						proprietary property of GLOBALTON CONSULTING INC. may not be duplicated
+						or used without GLOBALTON CONSULTING INC's express prior written consent.
 					</div>
 					<div class="text-left">
 						<label class="h5">D.</label>
-						If you provide American Consumer Opinion Panel® any solicited or
+						If you provide Link Cloud Survey any solicited or
 						unsolicited suggestions, answers, responses, ideas, new product
 						ideas, Site improvement ideas, incentive ideas, or other suggestions
-						or proposals (the "Submission"), American Consumer Opinion Panel®
+						or proposals (the "Submission"), Link Cloud Survey
 						will consider the Submission to be non-confidential and
-						nonproprietary. American Consumer Opinion Panel® shall have no
+						nonproprietary. Link Cloud Survey shall have no
 						obligations concerning the Submission, contractual or otherwise
 						(including, but not limited to, an obligation to keep the Submission
 						confidential), and shall not be liable for any use or disclosure of
-						any Submission. American Consumer Opinion Panel® shall be entitled
+						any Submission. Link Cloud Survey shall be entitled
 						to unrestricted use of the Submission for any purpose whatsoever,
 						commercial or otherwise, without compensation to you.
 					</div>
 
 					<p class="text-left h4 mt-2">17. Online Content</p>
 					<div class="mt-2 mb-2 text-left">
-						Under no circumstances will American Consumer Opinion Panel® be
+						Under no circumstances will Link Cloud Survey be
 						responsible for any loss or damage resulting from a Member's
 						reliance on information or other content posted on the Site by
 						another Member during a group discussion, innovation project, or
-						other Research Project. American Consumer Opinion Panel® will be
+						other Research Project. Link Cloud Survey will be
 						responsible for the accuracy of any content it posts on the Site.
 					</div>
 					<p class="text-left h4 mt-2">18. Independent Contractor</p>
 					<div class="text-left mt-2 mb-2">
 						In registering at the Site, and participating in Research Projects,
 						Members are acting as independent contractors. Members are not
-						employees of the Site, American Consumer Opinion Panel®, or Decision
+						employees of the Site, Link Cloud Survey, or Decision
 						Analyst, Inc.
 					</div>
 					<p class="text-left h4 mt-2">19. Digital Millennium Copyright Act</p>
@@ -791,7 +788,7 @@
 						You agree not to upload or transmit any communications or content of
 						any type that infringes or violates any rights of any party. It is
 						our policy not to permit materials known by us to be infringing to
-						remain on the Site. American Consumer Opinion Panel® has made every
+						remain on the Site. Link Cloud Survey has made every
 						effort to secure appropriate clearances for all proprietary
 						intellectual properties used on this Site. If you believe any
 						material on this Site is infringing, please contact us immediately.
@@ -802,11 +799,6 @@
 						You may notify us of alleged intellectual property rights
 						infringement by contacting us at:
 					</div>
-					<div class="text-left mb-2 mt-2">
-						Mail: 604 Avenue H East, Arlington, TX 76011
-					</div>
-					<div class="text-left mb-2 mt-2">Phone: (817) 640-6166</div>
-					<div class="text-left mb-2 mt-2">Fax: 817-640-6567</div>
 					<div class="text-left mb-2 mt-2">Email: contact@linkcloudsurvey.com</div>
 					<div class="text-left mb-2 mt-2">
 						Please be aware that, in order to be effective, your notice of claim
@@ -817,7 +809,7 @@
 
 					<p class="text-left h4 mt-2">20. Communications Decency Act</p>
 					<div class="text-left mb-2 mt-2">
-						Please note that American Consumer Opinion Panel® is a provider of
+						Please note that Link Cloud Survey is a provider of
 						an interactive computer service under the Communications Decency Act
 						or "CDA" (see 47 U.S.C. § 230). Because this important law is not
 						well known, we want to take a moment to explain the law.
@@ -836,7 +828,7 @@
 					</div>
 					<p class="text-left h4 mt-2">21. Dispute Resolution</p>
 					<div class="text-left mt-2 mb-2">
-						Any dispute arising between you and American Consumer Opinion Panel®
+						Any dispute arising between you and Link Cloud Survey
 						(whether grounded in contract, tort, statute, law or equity) or
 						relating in any way to this Agreement, or the breach thereof, shall
 						be finally determined by binding arbitration administered by the
@@ -860,10 +852,10 @@
 					</div>
 					<p class="text-left h4 mt-2">22. Governing Law and Venue</p>
 					<div class="text-left mt-2 mb-2">
-						American Consumer Opinion Panel®'s principal office is in the State
-						of Texas and this Site is controlled by Decision Analyst, Inc. from
+						Link Cloud Survey's principal office is in the State
+						of Texas and this Site is controlled by GLOBALTON CONSULTING INC. from
 						its offices within the State of Texas, United States of America. The
-						American Consumer Opinion Panel® Site can be accessed from all 50
+						Link Cloud Survey Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of
 						these jurisdictions has laws and regulations that may differ from
 						those of Texas, by accessing this Site both you and American

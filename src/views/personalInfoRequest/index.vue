@@ -60,7 +60,7 @@
 				<div class="mt-3 text-left ml-4">
 					This information will only be used to verify who you are. After this
 					request is processed and completed, the above information will be made
-					inaccessible to Decision Analyst and our partners.
+					inaccessible to GLOBALTON CONSULTING INC and our partners.
 				</div>
                 <button class="btn btn-primary mb-5 mt-5" style="width:200px;margin:0 auto">SUBMIT</button>
 			</div>

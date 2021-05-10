@@ -47,7 +47,7 @@
 							>
 						</div>
 						<div class="h4 text-left">
-							The American Consumer Opinion Panel® BELIEVES THAT ITS MEMBERS
+							The Link Cloud Survey BELIEVES THAT ITS MEMBERS
 							HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY
 							ADHERING TO THESE STANDARDS:
 						</div>
@@ -114,7 +114,7 @@
 							EU-US and Swiss-US Privacy Shield Framework
 						</p>
 						<div class="text-left mt-3 mb-3">
-							Decision Analyst complies with the EU-US Privacy Shield Framework
+							GLOBALTON CONSULTING INC complies with the EU-US Privacy Shield Framework
 							and the Swiss-US Privacy Shield Framework as set forth by the U.S.
 							Department of Commerce regarding the collection, use, and
 							retention of personal information transferred from the European
@@ -128,25 +128,13 @@
 						</div>
 						<div class="text-left mb-3 mt-3">
 							In compliance with the EU-US and Swiss-US Privacy Shield
-							Principles, Decision Analyst commits to resolve complaints about
+							Principles, GLOBALTON CONSULTING INC commits to resolve complaints about
 							your privacy and our collection or use of your personal
-							information. European Union or Swiss individuals with inquiries or
-							complaints regarding this privacy policy should first contact
-							Decision Analyst at:
+							information. 
 						</div>
-						<div class="text-left">Internet Operations Department</div>
-						<div class="text-left">Decision Analyst, Inc.</div>
-						<div class="text-left">
-							604 Avenue H East Arlington, Texas 76011
-						</div>
-
-						<div class="text-left">Phone numbers:</div>
-						<div class="text-left">Within the U.S., 1-817-649-5241</div>
-						<div class="text-left">Outside the U.S., +1-817-640-6166</div>
-						<div class="text-left">Email: privacy@decisionanalyst.com</div>
 
 						<div class="text-left mt-3 mb-3">
-							Decision Analyst has further committed to refer unresolved privacy
+							GLOBALTON CONSULTING INC has further committed to refer unresolved privacy
 							complaints under the EU-US and Swiss-US Privacy Shield Principles
 							to an independent dispute resolution mechanism, the BBB EU PRIVACY
 							SHIELD, operated by the Council of Better Business Bureaus. If you
@@ -162,25 +150,25 @@
 							option may be available before a Privacy Shield Panel.
 						</div>
 						<div class="text-left mt-3">
-							Decision Analyst submits to being subject to the investigatory and
+							GLOBALTON CONSULTING INC submits to being subject to the investigatory and
 							enforcement powers of the FTC, the Department of Transportation,
 							or any other U.S. authorized statutory body with regards to our
 							self-certification and implementation of the Principles, and
 							acknowledges the right of the EU individual, under certain
 							conditions, to invoke binding arbitration, at no cost to the
-							individual, in filing a complaint disputing Decision Analyst’s
+							individual, in filing a complaint disputing GLOBALTON CONSULTING INC’s
 							adherence to these practices. We also may be required to disclose
 							an individual’s personal information in response to a lawful
 							request by public authorities, including to meet national security
 							or law enforcement requirements. In cases of onward transfer to
 							third parties of data of EU individuals received pursuant to the
-							EU-US Privacy Shield, Decision Analyst is potentially liable.
+							EU-US Privacy Shield, GLOBALTON CONSULTING INC is potentially liable.
 						</div>
 						<div class="text-left border-bottom col-md-5 mt-4">
 							European Union General Data Protection Regulation
 						</div>
 						<div class="text-left mb-4">
-							Decision Analyst adheres to the provisions set forth by the
+							GLOBALTON CONSULTING INC adheres to the provisions set forth by the
 							European Parliament and the European Council in the General Data
 							Protection Regulation (GDPR). GDPR offers European data subjects
 							(that is, European residents) a number of rights, including:
@@ -213,26 +201,13 @@
 						</div>
 
 						<div class="mt-5 text-left">
-							In addition to these rights, Decision Analyst’s systems are
+							In addition to these rights, GLOBALTON CONSULTING INC’s systems are
 							designed with the intent of protecting the privacy of data
 							subjects, as required by GDPR. Any new modifications or designs
 							will continue to, at a minimum, uphold the requirements outlined
 							in this regulation as well as uphold any additional regulations in
-							the future. You can contact Decision Analyst’s Data Protection
-							Officer with any questions, concerns, or objections involving the
-							processing and/or automated processing of your personal data at:
+							the future. 
 						</div>
-						<div class="text-left mt-3">Internet Operations Department</div>
-						<div class="text-left">Decision Analyst, Inc.</div>
-						<div class="text-left">Attn: Data Protection Officer</div>
-						<div class="text-left">
-							604 Avenue H East Arlington, Texas 76011
-						</div>
-						<div class="text-left">United States</div>
-						<div class="text-left">Phone numbers:</div>
-						<div class="text-left">Within the U.S., 1-817-649-5241</div>
-						<div class="text-left">Outside the U.S., +1-817-640-6166</div>
-						<div class="text-left">Email: privacy@decisionanalyst.com</div>
 						<div class="mt-5 text-left">
 							Additional information in regards to these rights and American
 							Consumer Opinion Panel® can be found in the subsequent sections of
@@ -243,7 +218,7 @@
 							California Consumer Privacy Act (CCPA)
 						</div>
 						<div class="text-left">
-							Decision Analyst adheres to the requirements in the California
+							GLOBALTON CONSULTING INC adheres to the requirements in the California
 							Consumer Privacy Act of 2018. This act gives consumers in
 							California certain rights in regards to how companies use their
 							personal information. These include:
@@ -268,18 +243,12 @@
 							of if they exercise their privacy rights or not.
 						</div>
 						<div class="text-left mt-4">
-							Decision Analyst’s systems have been modified with these
+							GLOBALTON CONSULTING INC’s systems have been modified with these
 							requirements in mind. Any new modifications will continue to, at a
 							minimum, uphold the requirements set forth in this legislation and
-							uphold the requirements in any new legislation. You can contact
-							Decision Analyst’s Internet Operations Department with any
-							questions at:
+							uphold the requirements in any new legislation. 
 						</div>
 						<div class="text-left mt-3">
-							Internet Operations Department Decision Analyst, Inc. 604 Avenue H
-							East Arlington, Texas 76011 United States Phone numbers: Within
-							the U.S., 1-817-649-5241 U.S. Toll-free, 1-800-262-5974 Email:
-							privacy@decisionanalyst.com
 						</div>
 
 						<div class="h4 text-left">
@@ -304,17 +273,17 @@
 							your brand preferences, shopping patterns, and buying behavior.
 						</div>
 						<div class="text-left mt-3">
-							Decision Analyst may collect personal information and demographic
+							GLOBALTON CONSULTING INC may collect personal information and demographic
 							information from information services bureaus, other research
 							firms and/or sample providers/suppliers, social media platforms,
-							and other data sources. Decision Analyst may use your personal or
+							and other data sources. GLOBALTON CONSULTING INC may use your personal or
 							demographic information for data validation, data appending, fraud
 							detection and prevention, and/or sending emails to invite you to
 							participate in a survey and/or join another Panel.
 						</div>
 						<div class="text-left mt-3">
 							Specific personal information is required from you in order for
-							you to become a member of American Consumer Opinion Panel®. This
+							you to become a member of Link Cloud Survey. This
 							personal information includes first name, last name, country,
 							province or state, address, city, postal code, and email address.
 							In addition to the previous information, other information may be
@@ -328,7 +297,7 @@
 							without limitation,: (i) to communicate with you about your
 							membership and to determine whether you qualify for surveys, (ii)
 							to invite you to participate in surveys , (iii) to notify you of
-							news about The American Consumer Opinion Panel®, (iv) to notify
+							news about The Link Cloud Survey, (iv) to notify
 							you of Points balances in your Member Account, (v) to alert you to
 							changes in our Privacy Policy, (vi) to send you any cash, test
 							products, prizes, or incentives to which you may be entitled based
@@ -411,11 +380,11 @@
 							limitation, in the United States, and by agreeing to this privacy
 							policy you are agreeing to the processing and exportation of your
 							personal information as set forth in this Section. If you have any
-							questions about this data sharing please contact Decision Analyst
+							questions about this data sharing please contact GLOBALTON CONSULTING INC
 							by emailing us at contact@linkcloudsurvey.com or you can opt-out through your
-							account page or by emailing Decision Analyst at contact@linkcloudsurvey.com.
+							account page or by emailing GLOBALTON CONSULTING INC at contact@linkcloudsurvey.com.
 							If you opt-out, it is the responsibility of us to inform the Third
-							Party MR Companies. Please note that Decision Analyst is solely
+							Party MR Companies. Please note that GLOBALTON CONSULTING INC is solely
 							liable and responsible for managing all opt-out requests. Your
 							participation in such survey opportunities does not entitle you to
 							any benefits offered by, or membership with, the Third Party MR
@@ -428,8 +397,8 @@
 							your personal contact information is protected and private.
 						</div>
 						<div class="text-left ml-3">
-							Decision Analyst may disclose or share personal and other
-							information collected through Decision Analyst's services with
+							GLOBALTON CONSULTING INC may disclose or share personal and other
+							information collected through GLOBALTON CONSULTING INC's services with
 							other companies as follows:
 						</div>
 						<div class="text-left ml-3">
@@ -438,20 +407,20 @@
 						</div>
 						<div class="text-left ml-3">
 							To establish, exercise or defend legal claims of an individual or
-							Decision Analyst, to protect the safety of an individual or to
-							protect Decision Analyst's rights and/or property.
+							GLOBALTON CONSULTING INC, to protect the safety of an individual or to
+							protect GLOBALTON CONSULTING INC's rights and/or property.
 						</div>
 						<div class="text-left ml-3">
-							Among various Decision Analyst Panels if you sign up for more than
+							Among various GLOBALTON CONSULTING INC Panels if you sign up for more than
 							one panel.
 						</div>
 						<div class="text-left ml-3">
-							To a parent, subsidiary, or affiliate of Decision Analyst in the
+							To a parent, subsidiary, or affiliate of GLOBALTON CONSULTING INC in the
 							event of a reorganization or restructuring.
 						</div>
 						<div class="text-left ml-3">
 							To authorized agents, research partners, and/or subcontractors of
-							Decision Analyst and/or of Decision Analyst's clients, who are
+							GLOBALTON CONSULTING INC and/or of GLOBALTON CONSULTING INC's clients, who are
 							providing data appending services, data validation services, fraud
 							detection and/or prevention services, database-matching services,
 							coding services, sampling services, data segmentation services,
@@ -467,15 +436,15 @@
 						</div>
 						<div class="text-left ml-3">
 							To a new owner with a change of ownership or control, including a
-							merger or an acquisition of any or all of Decision Analyst's
+							merger or an acquisition of any or all of GLOBALTON CONSULTING INC's
 							business assets, provided that the party receiving or acquiring
 							the personal information agrees to use, protect and maintain the
 							security, integrity and confidentiality of personal information in
 							accordance with this Privacy Policy.
 						</div>
 						<div class="text-left ml-3">
-							To partners of Decision Analyst who offer incentives for use of
-							Decision Analyst's services, solely for the partners' use in
+							To partners of GLOBALTON CONSULTING INC who offer incentives for use of
+							GLOBALTON CONSULTING INC's services, solely for the partners' use in
 							connection with their incentive program and its terms of use,
 							including the crediting of Member Accounts maintained by the
 							partners for individuals who use or participate in Decision
@@ -496,36 +465,36 @@
 							the aggregated data insights.
 						</div>
 						<div class="text-left ml-3">
-							Decision Analyst will provide survey data and responses to
-							Decision Analyst clients with no personal information disclosed by
-							Decision Analyst, other than UIDs. If you voluntarily disclose
+							GLOBALTON CONSULTING INC will provide survey data and responses to
+							GLOBALTON CONSULTING INC clients with no personal information disclosed by
+							GLOBALTON CONSULTING INC, other than UIDs. If you voluntarily disclose
 							personal information in connection with your survey responses, and
-							Decision Analyst collects the survey responses, Decision Analyst
+							GLOBALTON CONSULTING INC collects the survey responses, GLOBALTON CONSULTING INC
 							will transfer the survey responses, UID and the voluntarily
-							disclosed personal information to Decision Analyst's client. In
-							addition, Decision Analyst may share geographic and/or demographic
-							data Decision Analyst collects from you during registration or
+							disclosed personal information to GLOBALTON CONSULTING INC's client. In
+							addition, GLOBALTON CONSULTING INC may share geographic and/or demographic
+							data GLOBALTON CONSULTING INC collects from you during registration or
 							through surveys. Such data may be shared with third parties on an
 							individual respondent level or as aggregate summaries.
 						</div>
 						<div class="text-left ml-3">
-							Decision Analyst's clients may engage Decision Analyst to supply
+							GLOBALTON CONSULTING INC's clients may engage GLOBALTON CONSULTING INC to supply
 							or provide demographic information of or about individuals who
 							have viewed an advertisement or visited a website for the purpose
 							of measuring internet and digital media audiences. The demographic
-							information may be provided or supplied to Decision Analyst's
+							information may be provided or supplied to GLOBALTON CONSULTING INC's
 							clients. The demographic information and analysis performed by or
-							on behalf of Decision Analyst's clients assist with the creation,
+							on behalf of GLOBALTON CONSULTING INC's clients assist with the creation,
 							development and implementation of websites, online advertisements
 							and other Internet and digital media features, functionality and
 							campaigns.
 						</div>
 						<div class="text-left ml-3">
-							Generally, disclosures of personal information by Decision Analyst
+							Generally, disclosures of personal information by GLOBALTON CONSULTING INC
 							to some other company or organization, except for disclosures of
 							UIDs, are controlled by a written agreement between Decision
 							Analyst and the other company or organization, which restricts and
-							limits use of the personal information. Decision Analyst may allow
+							limits use of the personal information. GLOBALTON CONSULTING INC may allow
 							a client to collect personal information directly from panel
 							members. The disclosure is voluntary and, prior to collection, the
 							client is required to enter into a written agreement with Decision
@@ -537,7 +506,7 @@
 						<div class="text-left">
 							You may "Opt-Out" at any time when taking a survey. You may also
 							update or delete your personal information at any time by logging
-							into your American Consumer Opinion Panel® Member Account
+							into your Link Cloud Survey Member Account
 						</div>
 						<div class="text-left ml-3">
 							Once you join our panel and receive invitations to complete
@@ -551,8 +520,8 @@
 						<div class="text-left ml-3">
 							Once you have registered, you may safely update or delete your
 							Member Account (and all of your personal data) at any time. If you
-							would like to contact Decision Analyst in regard to your privacy
-							please email us at privacy@decisionanalyst.com.
+							would like to contact GLOBALTON CONSULTING INC in regard to your privacy
+							please email us at privacy@linkcloudsurvey.com.
 						</div>
 						<div class="text-left">
 							If you wish to unsubscribe, please click here. Log on to your My
@@ -579,7 +548,7 @@
 						</div>
 						<div class="h4 text-left">How We Secure Your Information</div>
 						<div class="text-left">
-							The American Consumer Opinion Panel® has multiple security
+							The Link Cloud Survey has multiple security
 							measures in place to ensure the confidentiality and protection of
 							your personal information. The data is stored behind Decision
 							Analyst's firewall, and the data is encrypted. We have security
@@ -616,16 +585,16 @@
 							advertising campaigns. Digital fingerprinting assigns a unique
 							identifier to your computing device (PC, tablet computer,
 							smartphone, etc.) based on its technical settings and IP Address.
-							Decision Analyst uses digital fingerprinting technology for
+							GLOBALTON CONSULTING INC uses digital fingerprinting technology for
 							quality control, validation purposes and fraud detection and/or
 							prevention, including identifying duplicate or fraudulent
-							respondents. Decision Analyst may implement and use digital
+							respondents. GLOBALTON CONSULTING INC may implement and use digital
 							fingerprinting directly or through a third party vendor.
 							Watermarking involves placing code or a file on your computing
 							device to identify that it has been used to register with or
-							access Decision Analyst's services. Watermarking is used for
+							access GLOBALTON CONSULTING INC's services. Watermarking is used for
 							quality control and validation purposes and fraud detection and/or
-							prevention purposes. Decision Analyst may engage in watermarking
+							prevention purposes. GLOBALTON CONSULTING INC may engage in watermarking
 							activities directly or through a third party vendor.
 						</div>
 						<div class="h4 text-left mt-3">Communications With Members</div>
@@ -648,7 +617,7 @@
 						<div class="text-left">
 							The www.acop.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
-							take a survey from one of Decision Analyst's research
+							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage
 							you to read the privacy statement of each site you visit.
 						</div>
@@ -657,7 +626,7 @@
 						<div class="text-left">
 							The www.acop.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
-							take a survey from one of Decision Analyst's research
+							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage
 							you to read the privacy statement of each site you visit.
 						</div>
@@ -671,9 +640,9 @@
 							Retention of Personal Information
 						</div>
 						<div class="text-left">
-							Your personal information is kept by Decision Analyst so long as
-							you are an active Member of the American Consumer Opinion Panel®
-							or some other Decision Analyst panel. Once you cancel your Member
+							Your personal information is kept by GLOBALTON CONSULTING INC so long as
+							you are an active Member of the Link Cloud Survey
+							or some other Member of the GLOBALTON CONSULTING INC. Once you cancel your Member
 							Account or Opt-Out, your personal data remains encrypted and is
 							stored for a period of 2 years behind our firewall, or if any
 							questions come up about your Member Account or Points in your
@@ -682,7 +651,7 @@
 
 						<div class="h4 text-left mt-3">Enforcement Of Privacy Policy</div>
 						<div class="text-left">
-							If you believe Decision Analyst, Inc. has violated this Privacy
+							If you believe GLOBALTON CONSULTING INC. has violated this Privacy
 							Policy with respect to your personal information, please contact
 							us so that we can investigate and correct any errors or mistakes.
 							If you are a US resident and you are not satisfied with our
@@ -695,19 +664,8 @@
 						<div class="h4 text-left mt-3">Questions And Comments</div>
 						<div class="text-left">
 							We welcome your questions or comments regarding our
-							data-protection practices and our Privacy Policy. If you have
-							questions or concerns, please contact:
+							data-protection practices and our Privacy Policy. 
 						</div>
-						<div class="text-left">Internet Operations Department</div>
-						<div class="text-left">Decision Analyst, Inc.</div>
-						<div class="text-left">
-							604 Avenue H East Arlington, Texas 76011
-						</div>
-
-						<div class="text-left">Phone numbers:</div>
-						<div class="text-left">Within the U.S., 1-817-649-5241</div>
-						<div class="text-left">Outisde the U.S., +1-817-640-6166</div>
-						<div class="text-left">Email: privacy@decisionanalyst.com</div>
 						<div class="text-left"></div>
 
 						<div class="text-left mb-5">

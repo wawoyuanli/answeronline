@@ -3,7 +3,7 @@
     <div class="row shadow" style="background: #275894">
       <div class="col-md-3 text-left" style="border-right: 1px solid #b8b8bc">
         <div class="text-light pt-1 pb-1 ml-5 mt-3 h4">
-          Linkcloudsurvey
+          Link Cloud Survey
         </div>
       </div>
       <div class="col-md-7 text-right border-right">

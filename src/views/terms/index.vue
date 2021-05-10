@@ -11,18 +11,18 @@
 					<div class="col-md-8">
 						<p class="text-left h4">Summary</p>
 						<p class="text-left">
-							The <label class="h6">American Consumer Opinion Panel®</label> is
+							The <label class="h6">Link Cloud Survey</label> is
 							owned and operated by
-							<label class="h6">Decision Analyst, Inc.</label> (<a
-								href="www.decisionanalyst.com"
+							<label class="h6">GLOBALTON CONSULTING INC.</label> (<a
+								href="www.linkcloudsurvey.com"
 								class="text-decoration-none"
-								>www.decisionanalyst.com</a
+								>www.linkcloudsurvey.com</a
 							>).
 						</p>
 						<p class="text-left mt-3">
 							This page is a summary of the binding Legal Agreement between you
-							and the American Consumer Opinion Panel®. If you click on the "I
-							Agree" button and/or you use the American Consumer Opinion Panel®
+							and the Link Cloud Survey. If you click on the "I
+							Agree" button and/or you use the Link Cloud Survey
 							website and participate in Research Projects, you agree to all of
 							the Terms and Conditions.
 						</p>
@@ -58,7 +58,7 @@
 						</div>
 						<div class="text-left mt-3">
 							You must be 14 years of age or older to become a Member of the
-							American Consumer Opinion Panel®. Only one Member per household is
+							Link Cloud Survey. Only one Member per household is
 							permitted.
 						</div>
 						<div class="text-left mt-3">

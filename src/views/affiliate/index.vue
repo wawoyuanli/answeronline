@@ -12,7 +12,7 @@
 						class="col-md-8 border mt-5 text-left ml-2 mb-5 shadow-lg p-3 mb-5 bg-white rounded"
 					>
 						<div class="ml-3 mt-4 h6">
-							American Consumer Opinion® is growing our panel and we want to pay
+							Link Cloud Survey is growing our panel and we want to pay
 							you to help us do that!
 						</div>
 						<div class="ml-3 mt-3 h6">
@@ -20,8 +20,8 @@
 							get paid to participate in surveys and research projects.
 						</div>
 						<div class="ml-3 mt-3 h6">
-							Decision Analyst, Inc. originally created the American Consumer
-							Opinion® panel in early 1986 as a small mail survey panel. Members
+							GLOBALTON CONSULTING INC. originally created the Link Cloud
+							Survey. Members
 							were personally invited to participate in the panel by telephone,
 							and answered the surveys via the mail. Members primarily tested
 							and provided their feedback on new products.
@@ -52,13 +52,13 @@
 								page in the future for changes to this policy.
 							</div>
 							<div  class="mb-2">
-								To our valued affiliates, American Consumer Opinion® offers:
+								To our valued affiliates, Link Cloud Survey offers:
 							</div>
 							<div  class="mb-2">
 								<li>
 									$1.00 USD for each valid, confirmed and non-duplicated
 									participant who double opts-in and completes a new member
-									survey for the American Consumer Opinion® panel. Leads outside
+									survey for the Link Cloud Survey. Leads outside
 									of the U.S., U.K., Germany, France, Canada are non-qualifying
 									and will be reversed. Negotiable based on demographics and/or
 									traffic.
@@ -87,9 +87,9 @@
 						</div>
 						<div class="ml-3 mt-1 h5">Jennifer Parker</div>
 						<div class="ml-3 mt-3 text-center">
-							Affiliate Marketing Manager Decision Analyst, Inc. 604 Avenue H
+							Affiliate Marketing Manager GLOBALTON CONSULTING INC. 604 Avenue H
 							East Arlington, TX 76011 817.640.6166 ext. 303
-							affiliate@decisionanalyst.com
+							affiliate@linkcloudsurvey.com
 						</div>
 					</div>
 				</div>
