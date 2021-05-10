@@ -338,9 +338,7 @@
 						<label class="h5">D. Drawings -</label>
 						Any drawings are based on random selection. The odds of winning are
 						dependent upon the number of entries received each calendar month.
-						There is no purchase necessary to enter or win. Winning panel
-						members will be selected through drawings conducted at 604 Avenue H
-						East, Arlington, TX 76011. Entries have no value and an entry does
+						There is no purchase necessary to enter or win. Entries have no value and an entry does
 						not entitle an entrant to any compensation of any type or kind. Void
 						where prohibited by law.
 					</div>
@@ -833,7 +831,7 @@
 						be finally determined by binding arbitration administered by the
 						American Arbitration Association ("AAA") in accordance with its
 						Commercial Arbitration Rules. The arbitration shall be conducted in
-						Tarrant County, Texas, before a single arbitrator appointed in
+						New York, before a single arbitrator appointed in
 						accordance with the applicable rules of the AAA. Judgment on the
 						award rendered by the arbitrator may be entered in any court having
 						jurisdiction thereof. Discovery during the arbitration shall be
@@ -852,26 +850,22 @@
 					<p class="text-left h4 mt-2">22. Governing Law and Venue</p>
 					<div class="text-left mt-2 mb-2">
 						Link Cloud Survey's principal office is in the State
-						of Texas and this Site is controlled by GLOBALTON CONSULTING INC. from
-						its offices within the State of Texas, United States of America. The
+						of New York and this Site is controlled by GLOBALTON CONSULTING INC. from
+						its offices within the State of New York, United States of America. The
 						Link Cloud Survey Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of
 						these jurisdictions has laws and regulations that may differ from
-						those of Texas, by accessing this Site both you and GLOBALTON 
+						those of New York, by accessing this Site both you and GLOBALTON 
 						CONSULTING INC agree that the statutes and laws of the
-						State of Texas, without regard to conflicts of laws principles
+						State of New York, without regard to conflicts of laws principles
 						thereof, will apply to all matters relating to use of this Site
 						(whether grounded in tort, contract, law, or equity).
 					</div>
 					<div class="text-left mt-2 mb-2">
-						This contract is fully performable in Tarrant County, Texas. The
+						This contract is fully performable in New York. The
 						Parties hereto waive any challenge to personal jurisdiction or venue
 						(including without limitation a challenge based on inconvenience) in
-						Tarrant County, Texas. For any matter not governed by the Dispute
-						Resolution section above, the Parties specifically consent to the
-						jurisdiction of the State District Courts of Tarrant County, and the
-						United States District Court for the Northern District of Texas,
-						Fort Worth Division.
+						New York.
 					</div>
 					<div class="text-left mt-2 mb-2">
 						You further agree to comply with all such laws and with the laws of
@@ -882,7 +876,7 @@
 					</div>
 
 					<div class="text-left mt-5 mb-5">
-						Effective As Of August 15, 2017.
+						Effective As Of August 15, 2018.
 					</div>
 				</div>
 			</div>
