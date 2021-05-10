@@ -168,7 +168,7 @@
 									justify-content: center;
 								"
               >
-                <img src="@/assets/images/Instagram.png" alt="" width="24px" />
+                <img src="@/assets/images/instagram.png" alt="" width="24px" />
               </div>
             </a>
 
@@ -198,7 +198,7 @@
 									justify-content: center;
 								"
               >
-                <img src="@/assets/images/Twitter.png" alt="" width="24px" />
+                <img src="@/assets/images/twitter.png" alt="" width="24px" />
               </div>
             </a>
           </div>

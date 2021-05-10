@@ -2,8 +2,8 @@
   <div class="container-fluid fixed-top">
     <div class="row shadow" style="background: #275894">
       <div class="col-md-3 text-left" style="border-right: 1px solid #b8b8bc">
-        <div class="text-light pt-1 pb-1 ml-5 mt-3">
-          GLOBALTON CONSULTING INC
+        <div class="text-light pt-1 pb-1 ml-5 mt-3 h4">
+          Linkcloudsurvey
         </div>
       </div>
       <div class="col-md-7 text-right border-right">
@@ -51,7 +51,7 @@
 							justify-content: center;
 						"
           >
-            <img src="@/assets/images/Instagram.png" alt="" width="24px" />
+            <img src="@/assets/images/instagram.png" alt="" width="24px" />
           </div>
         </a>
 
@@ -77,7 +77,7 @@
 							justify-content: center;
 						"
           >
-            <img src="@/assets/images/Twitter.png" alt="" width="24px" />
+            <img src="@/assets/images/twitter.png" alt="" width="24px" />
           </div>
         </a>
       </div>
