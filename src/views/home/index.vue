@@ -92,9 +92,9 @@
 							background: #e9624c;
 							display: flex;
 							align-items: center;
-							width: 200px;
+							
 						"
-						class="pt-2 pb-2"
+						class="pt-2 pb-2 w-180"
 					>
 						<img
 							src="@/assets/images/f.png"
@@ -117,9 +117,9 @@
 							background: #743519;
 							display: flex;
 							align-items: center;
-							width: 200px;
+							 
 						"
-						class="pt-2 pb-2"
+						class="pt-2 pb-2 w-180"
 					>
 						<img
 							src="@/assets/images/google-logo.png"
@@ -143,9 +143,8 @@
 							background: #ed4034;
 							display: flex;
 							align-items: center;
-							width: 200px;
 						"
-						class="pt-2 pb-2"
+						class="pt-2 pb-2 w-180"
 					>
 						<img
 							src="@/assets/images/apple.png"

@@ -10,12 +10,12 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width: 445px"
+          <label class="mt-3 mb-2 text-left col-md-12" 
             >username:*</label
           >
           <input
             type="text"
-            class="form-control"
+            class="form-control col-md-12"
             v-model="username"
             maxlength="30"
             minlength="6"
@@ -27,29 +27,23 @@
         <div class="col-md-5">
           <div class="row">
             <div class="col-md-7">
-              <label class="mt-3 mb-2 text-left" style="width: 246px">
+              <label class="mt-3 mb-2 text-left col-md-12"  >
                 email *
               </label>
               <input
                 type="text"
-                class="form-control"
+                class="form-control col-md-12"
                 v-model="email"
                 maxlength="30"
                 minlength="0"
               />
             </div>
             <div class="col-md-5">
-              <label class="mt-3 text-left" style="opacity: 0; width: 167px">
+              <label class="mt-3 text-left col-md-12" style="opacity: 0;">
                 code
               </label>
-              <!-- <input
-                type="submit"
-                class="col-md-12 btn btn-primary"
-                :value="sendCode"
-                @click="sendCode"
-              /> -->
               <button
-                class="btn btn-primary form-control"
+                class="btn btn-primary form-control col-md-12"
                 @click="sendCode"
                 :disabled="disabled"
               >
@@ -62,12 +56,12 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width: 445px">
+          <label class="mt-3 mb-2 text-left col-md-12">
             Email Verification Code *
           </label>
           <input
             type="text"
-            class="form-control"
+            class="form-control col-md-12"
             v-model="code"
             maxlength="6"
             minlength="6"
@@ -77,12 +71,12 @@
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-5">
-          <label class="mt-3 mb-2 text-left" style="width: 445px"
+          <label class="mt-3 mb-2 text-left col-md-12"  
             >password:*</label
           >
           <input
             type="text"
-            class="form-control"
+            class="form-control col-md-12"
             v-model="password"
             maxlength="20"
             minlength="6"
