@@ -26,7 +26,7 @@
         <div class="col-md-3"></div>
         <div class="col-md-5">
           <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-6">
               <label class="mt-3 mb-2 text-left col-md-12"  >
                 email *
               </label>
@@ -38,7 +38,7 @@
                 minlength="0"
               />
             </div>
-            <div class="col-md-5">
+            <div class="col-md-6">
               <label class="mt-3 text-left col-md-12" style="opacity: 0;">
                 code
               </label>
