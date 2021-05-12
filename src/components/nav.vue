@@ -7,7 +7,10 @@
 			<div
 				class="col-md-3 d-flex justify-content-end align-items-center border-right"
 			>
-				<a class="text-light h3 text-right text-decoration-none mr-5" href="#/home">
+				<a
+					class="text-light h3 text-right text-decoration-none mr-5"
+					href="#/home"
+				>
 					Link Cloud Survey</a
 				>
 			</div>
@@ -26,22 +29,22 @@
 					</button>
 
 					<div class="collapse navbar-collapse row" id="navbarSupportedContent">
-					<div class="col-md-8">
-            	<ul class="navbar-nav mr-auto border-right">
-							<li class="nav-item active">
-								<a class="nav-link text-light" href="#/home"
-									>HOME <span class="sr-only">(current)</span></a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link text-light" href="#/signup">SIGN UP</a>
-							</li>
+						<div class="col-md-8">
+							<ul class="navbar-nav mr-auto border-right">
+								<li class="nav-item active">
+									<a class="nav-link text-light" href="#/home"
+										>HOME <span class="sr-only">(current)</span></a
+									>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link text-light" href="#/signup">SIGN UP</a>
+								</li>
 
-							<li class="nav-item">
-								<a class="nav-link text-light" href="#/login">LOGIN</a>
-							</li>
-						</ul>
-          </div>
+								<li class="nav-item">
+									<a class="nav-link text-light" href="#/login">LOGIN</a>
+								</li>
+							</ul>
+						</div>
 						<div class="col-md-4 d-flex justify-content-around">
 							<a href="http://www.pinterest.com" id="pinterest">
 								<div
