@@ -381,8 +381,8 @@
 							policy you are agreeing to the processing and exportation of your
 							personal information as set forth in this Section. If you have any
 							questions about this data sharing please contact GLOBALTON CONSULTING INC
-							by emailing us at contact@linkcloudsurvey.com or you can opt-out through your
-							account page or by emailing GLOBALTON CONSULTING INC at contact@linkcloudsurvey.com.
+							by emailing us at contact@ivaresearch.com or you can opt-out through your
+							account page or by emailing GLOBALTON CONSULTING INC at contact@ivaresearch.com.
 							If you opt-out, it is the responsibility of us to inform the Third
 							Party MR Companies. Please note that GLOBALTON CONSULTING INC is solely
 							liable and responsible for managing all opt-out requests. Your
@@ -520,7 +520,7 @@
 							Once you have registered, you may safely update or delete your
 							Member Account (and all of your personal data) at any time. If you
 							would like to contact GLOBALTON CONSULTING INC in regard to your privacy
-							please email us at privacy@linkcloudsurvey.com.
+							please email us at privacy@ivaresearch.com.
 						</div>
 						<div class="text-left">
 							If you wish to unsubscribe, please click here. Log on to your My
@@ -614,7 +614,7 @@
 
 						<div class="h4 text-left mt-3">Legal Disclaimer</div>
 						<div class="text-left">
-							The www.linkcloudsurvey.com website contains links to other websites whose
+							The www.ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage
@@ -623,7 +623,7 @@
 
 						<div class="h4 text-left mt-3">Links To Outside Sites</div>
 						<div class="text-left">
-							The www.linkcloudsurvey.com website contains links to other websites whose
+							The www.ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of GLOBALTON CONSULTING INC's research
 							partners-whose privacy policy may differ from ours. We encourage
