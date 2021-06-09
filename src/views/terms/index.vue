@@ -14,9 +14,9 @@
 							The <label class="h6">Link Cloud Survey</label> is
 							owned and operated by
 							<label class="h6">GLOBALTON CONSULTING INC.</label> (<a
-								href="www.linkcloudsurvey.com"
+								href="www.ivaresearch.com"
 								class="text-decoration-none"
-								>www.linkcloudsurvey.com</a
+								>www.ivaresearch.com</a
 							>).
 						</p>
 						<p class="text-left mt-3">
@@ -37,7 +37,7 @@
 						</div>
 						<div class="text-left mt-3">
 							You must maintain a current and correct email address in your
-							Member Account at www.linkcloudsurvey.com at all times, and you agree that
+							Member Account at www.ivaresearch.com at all times, and you agree that
 							all transactions will be conducted by email or similar electronic
 							communications. If you fail to maintain a current and correct
 							email address or fail to respond to repeated emails, you will lose

@@ -12,7 +12,7 @@
 				<div class="col-md-8">
 					<div class="text-left h4">Contact Information</div>
 					<p>
-						The email address is contact@linkcloudsurvey.com.
+						The email address is contact@ivaresearch.com.
 					</p>
 					<div class="text-left h4">1. Definition of Terms</div>
 					<p class="mt-3 text-left">
@@ -161,7 +161,7 @@
 					<div class="text-left">
 						<label class="h5">e.</label>
 						HOW TO GET HELP: For more information you can reach us at:
-						contact@linkcloudsurvey.com or 1-800-262-5974. From your mobile phone you can
+						contact@ivaresearch.com or 1-800-262-5974. From your mobile phone you can
 						get also get help information at any time by sending the text "HELP"
 						to the short code to which you are subscribed. You shall receive a
 						standard rate message from our service with information on the
@@ -347,7 +347,7 @@
 						</label>
 						All Points awarded to you are added to your Member Account
 						maintained by Link Cloud Survey. You can access your
-						Member Account by going to www.linkcloudsurvey.com. and clicking on "Login" and
+						Member Account by going to www.ivaresearch.com. and clicking on "Login" and
 						logging in with your email address and password. GLOBALTON CONSULTING INC
 						 will hold the Points in your Member Account until
 						Earned, subject to the terms of this Agreement. For a Member Account
@@ -403,7 +403,7 @@
 						have no cash or monetary value. The 1,000-Point minimum may be
 						changed by Link Cloud Survey from time to time, but
 						not without posting notification on the Site. You may review your
-						Member Account Points at any time by going to www.linkcloudsurvey.com and
+						Member Account Points at any time by going to www.ivaresearch.com and
 						clicking on "Login" and logging in with your email address and
 						password. If you choose to redeem Points for cash or money, you will
 						have the choice of payment in U.S. Dollars (USD) or your local
@@ -496,7 +496,7 @@
 					<p class="text-left">
 						<label class="h5">L. Your Right to Cancel Your Account - </label>
 						You may cancel your Member Account at any time by contacting
-						Link Cloud Survey at contact@linkcloudsurvey.com, or by logging
+						Link Cloud Survey at contact@ivaresearch.com, or by logging
 						in to your Member Account and following the "Delete Account" link
 						provided. If you cancel your Member Account, Points in your Member
 						Account will not become Earned Points.
@@ -795,7 +795,7 @@
 						You may notify us of alleged intellectual property rights
 						infringement by contacting us at:
 					</div>
-					<div class="text-left mb-2 mt-2">Email: contact@linkcloudsurvey.com</div>
+					<div class="text-left mb-2 mt-2">Email: contact@ivaresearch.com</div>
 					<div class="text-left mb-2 mt-2">
 						Please be aware that, in order to be effective, your notice of claim
 						must comply with the detailed requirements set forth in the DMCA.

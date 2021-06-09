@@ -19,7 +19,7 @@
           <!-- <p class="col-md-8 text-light text-left">
             Headquarters: 604 Ave H E Arlington, TX 76011
           </p> -->
-          <!-- <p class="text-light text-left">Email: contact@linkcloudsurvey.com</p> -->
+          <!-- <p class="text-light text-left">Email: contact@ivaresearch.com</p> -->
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-4 text-light text-left">
@@ -204,7 +204,7 @@
             </a>
           </div>
 
-          <div>contact@linkcloudsurvey.com</div>
+          <div>contact@ivaresearch.com</div>
         </div>
       </div>
     </div>
