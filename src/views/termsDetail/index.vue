@@ -35,7 +35,7 @@
 					<p class="mt-3 text-left">
 						<label class="h6">C. Non-Compliant</label>
 						- If a Member does not maintain a correct email address at the
-						Link Cloud Survey Site, that Member's status becomes
+						IVA Research Site, that Member's status becomes
 						Non-Compliant. Even if a correct email address is maintained by
 						Member at the Site, if Member does not respond to the Site emails or
 						survey invitations for a period of eighteen (18) consecutive months
@@ -56,7 +56,7 @@
 						<label class="h6"> E. Incentive Program </label>
 						- A term that refers to the incentives and terms and conditions
 						related thereto in this Agreement. F. Member - An individual who has
-						completed the Link Cloud Survey Site registration
+						completed the IVA Research Site registration
 						form and signaled acceptance of this Terms and Conditions Agreement
 						by clicking on the "I Agree" button and/or by usage of the Site and
 						by participation in Research Projects.
@@ -192,11 +192,11 @@
 					</div>
 					<p class="text-leftvh4">3. Survey Participation</p>
 					<div class="text-left">
-						Link Cloud Survey offers you the opportunity to
+						IVA Research offers you the opportunity to
 						participate in Research Projects. Your opinions and responses are
 						very important, because they help businesses and organizations
 						develop better strategies, better products, better services, and
-						better advertising. As a Member of Link Cloud Survey
+						better advertising. As a Member of IVA Research
 						you may earn awards, cash, gifts, or Points for participating in
 						Research Projects, so long as you fully comply with the terms of
 						this Agreement.
@@ -232,7 +232,7 @@
 						You agree to supply true, honest, current, and complete answers
 						(collectively "Accurate" information) when registering at or
 						updating your Member Account at the Site, and when participating in
-						Research Projects offered by Link Cloud Survey. You
+						Research Projects offered by IVA Research. You
 						further agree, every 12 months (or sooner if necessary), to review
 						and correct all registration information about you and your
 						household on the Site (including providing a current and accurate
@@ -245,9 +245,9 @@
 					</div>
 					<p class="text-left h4">6. Confidentiality</p>
 					<div class="text-left">
-						When completing Research Projects from Link Cloud Survey
+						When completing Research Projects from IVA Research
 						 you may see or hear information that is deemed confidential
-						by Link Cloud Survey or its clients. This
+						by IVA Research or its clients. This
 						confidential information may include new products, new product ideas
 						or concepts, packaging concepts, strategy concepts, advertizing
 						concepts, new commercials and ads, or new movie or television
@@ -259,7 +259,7 @@
 						you will not use the confidential information except for the purpose
 						of completing the survey or research project. You agree that any
 						confidential information you see or hear remains the property of
-						Link Cloud Survey or its clients. Your violation of
+						IVA Research or its clients. Your violation of
 						the provisions of this Section 6 will be a breach of this Agreement
 						and will mean that you do not earn the Points in your Member
 						Account. Such violation may result in the termination of your Member
@@ -267,7 +267,7 @@
 					</div>
 					<p class="text-left h4">7. Indemnification</p>
 					<div class="text-left">
-						You agree to indemnify Link Cloud Survey and its
+						You agree to indemnify IVA Research and its
 						employees from any and all claims, losses, or damages resulting from
 						your violation of the terms and conditions of this Agreement (for
 						example, by providing fraudulent registration information in your
@@ -276,12 +276,12 @@
 						of the Site, etc.). You agree that the Site has the unlimited right
 						to defend any claims by third parties, and the right to settle any
 						claim without your consent or permission. You agree to provide
-						Link Cloud Survey with all reasonable assistance in
+						IVA Research with all reasonable assistance in
 						the defense of applicable claims by third parties.
 					</div>
 					<p class="text-left h4">8. Incentives</p>
 					<div class="text-left">
-						Link Cloud Survey offers incentives to its Members
+						IVA Research offers incentives to its Members
 						that are awarded for various activities or actions, as explained
 						below:
 					</div>
@@ -289,7 +289,7 @@
 						<label class="h5"
 							>A. Incentives for Completing Screening Questionnaires-</label
 						>
-						Link Cloud Survey administers two types of
+						IVA Research administers two types of
 						questionnaires. The first is a short questionnaire referred to as a
 						screening questionnaire or "screener." The second type is a longer
 						questionnaire, referred to as a "survey" (further described below in
@@ -343,10 +343,10 @@
 					</div>
 					<div class="text-left">
 						<label class="h5"
-							>E. Link Cloud Survey Member Accounts -
+							>E. IVA Research Member Accounts -
 						</label>
 						All Points awarded to you are added to your Member Account
-						maintained by Link Cloud Survey. You can access your
+						maintained by IVA Research. You can access your
 						Member Account by going to www.ivaresearch.com. and clicking on "Login" and
 						logging in with your email address and password. GLOBALTON CONSULTING INC
 						 will hold the Points in your Member Account until
@@ -356,7 +356,7 @@
 						valid email address, and any other information requested. You must
 						also accept the terms and conditions of this Agreement at that time
 						by clicking the "I Agree" button. Your use of this Site or any
-						participation in Link Cloud Survey Research Projects,
+						participation in IVA Research Research Projects,
 						also constitutes acceptance of the terms of this Agreement. This
 						Agreement may be modified from time to time, as explained in section
 						12.
@@ -366,7 +366,7 @@
 						All Members must be at least fourteen (14) years of age, or older as
 						required by the laws of each country. No person may establish or
 						maintain more than one (1) Member Account per household with
-						Link Cloud Survey, and each account must have a
+						IVA Research, and each account must have a
 						unique and valid email address and password. By completing the
 						online registration, you represent that you are at least fourteen
 						(14) years of age and that the information provided about you and
@@ -381,7 +381,7 @@
 						provide at registration, or as provided by you every 12 months (or
 						sooner if necessary) when you update your registration information.
 						It is your responsibility to keep your email address current and
-						accurate in your Link Cloud Survey Member Account.
+						accurate in your IVA Research Member Account.
 						Failure to maintain an accurate email address in your Member Account
 						violates the terms and conditions of this Agreement and will mean
 						that you do not earn the Points that may accumulate in your Member
@@ -401,7 +401,7 @@
 						(check or Paypal). Until you reach the 1,000-Point minimum and until
 						you choose what to do with the Points, the Points are Unearned and
 						have no cash or monetary value. The 1,000-Point minimum may be
-						changed by Link Cloud Survey from time to time, but
+						changed by IVA Research from time to time, but
 						not without posting notification on the Site. You may review your
 						Member Account Points at any time by going to www.ivaresearch.com and
 						clicking on "Login" and logging in with your email address and
@@ -414,7 +414,7 @@
 						<label class="h5">I. Methods of Payment - </label>
 						You can redeem Earned Points for cash or money either by check or
 						PayPal, or other legal methods at the Site's discretion. To ensure
-						the highest quality for our clientele, Link Cloud Survey
+						the highest quality for our clientele, IVA Research
 						panel must validate all cash-out requests before processing
 						incentives. To do this, we verify name and mailing address, along
 						with survey responses on paid surveys. We also verify that each
@@ -426,7 +426,7 @@
 					</div>
 					<div class="text-left mt-2">
 						<label class="h6">
-							Link Cloud Survey If you choose to receive payment
+							IVA Research If you choose to receive payment
 							by check and fail to deposit or cash the check for a period of two
 							(2) years, the check will become null and void, and an equivalent
 							number of Points will be credited to your Member Account.
@@ -460,7 +460,7 @@
 						email address at the Site, if you fail to respond to email or other
 						electronic communications on thirty (30) consecutive occasions or
 						for eighteen (18) consecutive months, whichever comes first,
-						Link Cloud Survey will place your Member Account on
+						IVA Research will place your Member Account on
 						Non-Compliant status. Prior to such a change in status, you will
 						receive an email or other electronic notification from us that your
 						Member Account is in danger of becoming Non-Compliant. If you
@@ -483,7 +483,7 @@
 						BY COMPLETING THE REGISTRATION FORM, BY ACCEPTING THIS AGREEMENT BY
 						CLICKING "I AGREE," BY UTILIZING THE LINK CLOUD SURVEY
 						 INCENTIVE PROGRAM, AND BY PARTICIPATING IN RESEARCH PROJECTS,
-						YOU ACKNOWLEDGE AND AGREE THAT Link Cloud Survey IS
+						YOU ACKNOWLEDGE AND AGREE THAT IVA Research IS
 						NOT A BANK OR ANY OTHER KIND OR FORM OF FINANCIAL INSTITUTION AND
 						THAT LINK CLOUD SURVEY DOES NOT MAINTAIN YOUR MEMBER
 						ACCOUNT FOR ANY PURPOSE OTHER THAN THOSE SPECIFIED HEREIN. YOU AGREE
@@ -496,7 +496,7 @@
 					<p class="text-left">
 						<label class="h5">L. Your Right to Cancel Your Account - </label>
 						You may cancel your Member Account at any time by contacting
-						Link Cloud Survey at contact@ivaresearch.com, or by logging
+						IVA Research at contact@ivaresearch.com, or by logging
 						in to your Member Account and following the "Delete Account" link
 						provided. If you cancel your Member Account, Points in your Member
 						Account will not become Earned Points.
@@ -507,21 +507,21 @@
 						Systematic retrieval of data from this Site to create or compile
 						directly or indirectly, in whole or in part, a collection,
 						compilation, database or directory without the express written
-						permission of Link Cloud Survey is strictly
+						permission of IVA Research is strictly
 						prohibited. You agree that you will not use any robot, spider, other
 						automatic device, or manual process to monitor or copy our web pages
 						or the content contained herein. You may not engage in the practices
 						of "screen scraping," "database scraping," or any other practice or
 						activity the purpose of which is to obtain lists of users, portions
 						of a database, or other information from this Site, in any manner
-						not authorized by Link Cloud Survey. You may not
+						not authorized by IVA Research. You may not
 						frame or utilize framing techniques to enclose any trademark, logo,
 						or other proprietary information (including images, text, page
-						layout, or form) of Link Cloud Survey or its
+						layout, or form) of IVA Research or its
 						affiliates without prior express written consent. You may not use
 						meta tags or any other "hidden text" utilizing GLOBALTON CONSULTING
 						 INC's name or trademarks without the express written
-						consent of Link Cloud Survey.
+						consent of IVA Research.
 					</div>
 					<div class="text-left mt-3 mb-2">
 						You agree that you will not use any device, software or routine to
@@ -534,16 +534,16 @@
 					</div>
 					<p class="text-left h4">10. Use of Contents</p>
 					<div class="text-left mt-3">
-						The content of the Site is the property of Link Cloud Survey
+						The content of the Site is the property of IVA Research
 						 and/or its clients. Unless directed or permitted by the Site,
 						content cannot be copied, downloaded, or printed, and must retain
 						all the copyright, trademark, and other proprietary notices. For use
 						of any portion of the contents, you must secure the written consent
-						of Link Cloud Survey.
+						of IVA Research.
 					</div>
 					<p class="text-left h4">11. Use of Site</p>
 					<div class="text-left mt-3">
-						Your use of the Site is controlled by Link Cloud Survey
+						Your use of the Site is controlled by IVA Research
 						, which may deny you further use of the Site at any time, for
 						any reason, with or without cause, regardless of your status as a
 						Member. Your use of the Site does not entitle you to continued use
@@ -629,7 +629,7 @@
 						AND THE MINIMUM THRESHOLDS FOR REDEMPTION OF POINTS AT ANY TIME.
 						This includes, without limitation, the right to change the rules of
 						participation, terminate your participation, and discontinue the
-						Incentive Program. Link Cloud Survey will indicate at
+						Incentive Program. IVA Research will indicate at
 						the bottom of this Agreement the date of the last update. Any
 						updates, revisions, supplements, modifications or amendments shall
 						be effective immediately upon its posting on the Site and will only
@@ -646,10 +646,10 @@
 					</div>
 					<p class="text-left h4 mt-2">13. Disclaimer of Warranties</p>
 					<div class="text-left mt-2">
-						Link Cloud Survey does not warrant that the Incentive
+						IVA Research does not warrant that the Incentive
 						Program will remain operational, and it disclaims any liability for
 						any losses you may experience because the Incentive Program is not
-						operational or accessible by you. IF Link Cloud Survey
+						operational or accessible by you. IF IVA Research
 						 DISCONTINUES THE INCENTIVE PROGRAM OR IF IT TERMINATES YOUR
 						PARTICIPATION FOR VIOLATION OF THIS AGREEMENT, YOU UNDERSTAND AND
 						AGREE THAT YOUR RIGHT TO ACCESS THE INCENTIVE PROGRAM WILL CEASE AND
@@ -669,7 +669,7 @@
 						network operator.
 					</div>
 					<div class="text-left mt-2">
-						Link Cloud Survey provides the Incentive Program "as
+						IVA Research provides the Incentive Program "as
 						is" and makes no representations or warranties to you, express or
 						implied, regarding its accessibility or that your access to the
 						Incentive Program will be uninterrupted or error-free.
@@ -684,7 +684,7 @@
 						14. Limitations and Exclusions of Liability
 					</p>
 					<div class="text-left mt-2">
-						YOU EXPRESSLY UNDERSTAND AND AGREE THAT Link Cloud Survey
+						YOU EXPRESSLY UNDERSTAND AND AGREE THAT IVA Research
 						 SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
 						SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES. YOU UNDERSTAND AND
 						ACCEPT THAT YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE YOUR
@@ -692,14 +692,14 @@
 						 INC'S LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
 						FURTHER AGREE NOT TO JOIN IN ANY LAWSUIT WITH ANOTHER PERSON OR
 						SERVE AS A CLASS REPRESENTATIVE OF ANY CLASS ACTION LAWSUIT AGAINST
-						Link Cloud Survey ARISING OUT OF THE USE OF THE SITE
+						IVA Research ARISING OUT OF THE USE OF THE SITE
 						OR ITS INCENTIVE PROGRAM.
 					</div>
 					<p class="text-left h4 mt-2">15. Release</p>
 					<div class="text-left mt-2">
 						Should you have a dispute with another Member through the Site
 						(e.g., during a group discussion), you agree that you release
-						Link Cloud Survey, its officers, directors, members,
+						IVA Research, its officers, directors, members,
 						agents, and employees from all claims, demands, and damages (actual
 						and consequential) of any kind and nature, known and unknown,
 						suspected and unsuspected, disclosed and undisclosed, arising out
@@ -712,7 +712,7 @@
 					</div>
 					<div class="text-left">
 						<label class="h5">A.</label>
-						Link Cloud Survey's logos, and other trademarks,
+						IVA Research's logos, and other trademarks,
 						service marks, labels, product names and service names
 						(collectively, the Marks) are owned or licensed by GLOBALTON CONSULTING INC,
 						Inc. You agree not to copy, display or otherwise use any of the
@@ -720,7 +720,7 @@
 						Notwithstanding the foregoing, the Marks may not be used in any
 						manner likely to cause confusion, to disparage or dilute these
 						Marks, and/or to use in connection with any product or service that
-						is not authorized or sponsored by Link Cloud Survey.
+						is not authorized or sponsored by IVA Research.
 					</div>
 					<div class="text-left">
 						<label class="h5">B.</label>
@@ -729,16 +729,16 @@
 						other Research Projects become the exclusive property of GLOBALTON 
 						CONSULTING INC and/or its clients, except that the personal
 						identity and anonymity of each Member shall be protected at all
-						times by Link Cloud Survey. That is, at no time will
-						any client of Link Cloud Survey know how any Member
+						times by IVA Research. That is, at no time will
+						any client of IVA Research know how any Member
 						answered any question. Members' answers will be combined with the
 						answers of other Members and presented to clients as statistical
 						averages or summaries. Member privacy and anonymity are protected at
-						all times by Link Cloud Survey.
+						all times by IVA Research.
 					</div>
 					<div class="text-left">
 						<label class="h5">C.</label>
-						The entire Link Cloud Survey Site, and all object
+						The entire IVA Research Site, and all object
 						code and source code, text, graphics, multimedia content, including
 						but not limited to images, illustrations, audio and video clips,
 						html and other mark up languages, screeners, surveys, group
@@ -750,41 +750,41 @@
 					</div>
 					<div class="text-left">
 						<label class="h5">D.</label>
-						If you provide Link Cloud Survey any solicited or
+						If you provide IVA Research any solicited or
 						unsolicited suggestions, answers, responses, ideas, new product
 						ideas, Site improvement ideas, incentive ideas, or other suggestions
-						or proposals (the "Submission"), Link Cloud Survey
+						or proposals (the "Submission"), IVA Research
 						will consider the Submission to be non-confidential and
-						nonproprietary. Link Cloud Survey shall have no
+						nonproprietary. IVA Research shall have no
 						obligations concerning the Submission, contractual or otherwise
 						(including, but not limited to, an obligation to keep the Submission
 						confidential), and shall not be liable for any use or disclosure of
-						any Submission. Link Cloud Survey shall be entitled
+						any Submission. IVA Research shall be entitled
 						to unrestricted use of the Submission for any purpose whatsoever,
 						commercial or otherwise, without compensation to you.
 					</div>
 
 					<p class="text-left h4 mt-2">17. Online Content</p>
 					<div class="mt-2 mb-2 text-left">
-						Under no circumstances will Link Cloud Survey be
+						Under no circumstances will IVA Research be
 						responsible for any loss or damage resulting from a Member's
 						reliance on information or other content posted on the Site by
 						another Member during a group discussion, innovation project, or
-						other Research Project. Link Cloud Survey will be
+						other Research Project. IVA Research will be
 						responsible for the accuracy of any content it posts on the Site.
 					</div>
 					<p class="text-left h4 mt-2">18. Independent Contractor</p>
 					<div class="text-left mt-2 mb-2">
 						In registering at the Site, and participating in Research Projects,
 						Members are acting as independent contractors. Members are not
-						employees of the Site, Link Cloud Survey, or GLOBALTON CONSULTING INC.
+						employees of the Site, IVA Research, or GLOBALTON CONSULTING INC.
 					</div>
 					<p class="text-left h4 mt-2">19. Digital Millennium Copyright Act</p>
 					<div class="text-left mt-2 mb-2">
 						You agree not to upload or transmit any communications or content of
 						any type that infringes or violates any rights of any party. It is
 						our policy not to permit materials known by us to be infringing to
-						remain on the Site. Link Cloud Survey has made every
+						remain on the Site. IVA Research has made every
 						effort to secure appropriate clearances for all proprietary
 						intellectual properties used on this Site. If you believe any
 						material on this Site is infringing, please contact us immediately.
@@ -805,7 +805,7 @@
 
 					<p class="text-left h4 mt-2">20. Communications Decency Act</p>
 					<div class="text-left mb-2 mt-2">
-						Please note that Link Cloud Survey is a provider of
+						Please note that IVA Research is a provider of
 						an interactive computer service under the Communications Decency Act
 						or "CDA" (see 47 U.S.C. § 230). Because this important law is not
 						well known, we want to take a moment to explain the law.
@@ -824,7 +824,7 @@
 					</div>
 					<p class="text-left h4 mt-2">21. Dispute Resolution</p>
 					<div class="text-left mt-2 mb-2">
-						Any dispute arising between you and Link Cloud Survey
+						Any dispute arising between you and IVA Research
 						(whether grounded in contract, tort, statute, law or equity) or
 						relating in any way to this Agreement, or the breach thereof, shall
 						be finally determined by binding arbitration administered by the
@@ -848,10 +848,10 @@
 					</div>
 					<p class="text-left h4 mt-2">22. Governing Law and Venue</p>
 					<div class="text-left mt-2 mb-2">
-						Link Cloud Survey's principal office is in the State
+						IVA Research's principal office is in the State
 						of New York and this Site is controlled by GLOBALTON CONSULTING INC. from
 						its offices within the State of New York, United States of America. The
-						Link Cloud Survey Site can be accessed from all 50
+						IVA Research Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of
 						these jurisdictions has laws and regulations that may differ from
 						those of New York, by accessing this Site both you and GLOBALTON 

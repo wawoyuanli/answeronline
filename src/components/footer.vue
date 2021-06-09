@@ -10,9 +10,9 @@
             height="100px"
             class="ml-4"
           /> -->
-         <div class="ml-4 h4 text-light">Link Cloud Survey</div>
+         <div class="ml-4 h4 text-light">IVA Research</div>
           <p class="mt-4 mb-3 text-light text-left">
-            Link Cloud Survey is owned and operated by 
+            IVA Research is owned and operated by 
             GLOBALTON CONSULTING INC., a global marketing research and analytical consulting
             firm headquartered
           </p>

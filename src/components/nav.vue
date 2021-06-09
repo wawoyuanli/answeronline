@@ -11,7 +11,7 @@
 					class="text-light h3 text-right text-decoration-none mr-5"
 					href="#/home"
 				>
-					Link Cloud Survey</a
+					IVA Research</a
 				>
 			</div>
 			<div class="col-md-9 d-flex justify-content-end">

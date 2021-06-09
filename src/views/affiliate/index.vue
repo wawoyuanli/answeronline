@@ -12,7 +12,7 @@
 						class="col-md-8 border mt-5 text-left ml-2 mb-5 shadow-lg p-3 mb-5 bg-white rounded"
 					>
 						<div class="ml-3 mt-4 h6">
-							Link Cloud Survey is growing our panel and we want to pay
+							IVA Research is growing our panel and we want to pay
 							you to help us do that!
 						</div>
 						<div class="ml-3 mt-3 h6">
@@ -20,8 +20,7 @@
 							get paid to participate in surveys and research projects.
 						</div>
 						<div class="ml-3 mt-3 h6">
-							GLOBALTON CONSULTING INC. originally created the Link Cloud
-							Survey. Members
+							GLOBALTON CONSULTING INC. originally created the IVA Research.Members
 							were personally invited to participate in the panel by telephone,
 							and answered the surveys via the mail. Members primarily tested
 							and provided their feedback on new products.
@@ -45,13 +44,13 @@
 								page in the future for changes to this policy.
 							</div>
 							<div  class="mb-2">
-								To our valued affiliates, Link Cloud Survey offers:
+								To our valued affiliates, IVA Research offers:
 							</div>
 							<div  class="mb-2">
 								<li>
 									$1.00 USD for each valid, confirmed and non-duplicated
 									participant who double opts-in and completes a new member
-									survey for the Link Cloud Survey. Leads outside
+									survey for the IVA Research. Leads outside
 									of the U.S., China, Australia, U.K., Germany, France, Canada are non-qualifying
 									and will be reversed. Negotiable based on demographics and/or
 									traffic.

@@ -51,7 +51,7 @@
 						<tr class="table-primary">
 							<th scope="col" colspan="4" class="text-left">
 								Consumers are entitled to truth in advertising about the
-								products and services they buy. Link Cloud Survey will
+								products and services they buy. IVA Research will
 								strive to promote this ideal through its advertising-testing
 								services.
 							</th>
@@ -59,7 +59,7 @@
 						<tr>
 							<th scope="col" colspan="4" class="text-left">
 								Consumers are entitled to safe and healthful products that
-								perform as promised. Link Cloud Survey will strive to
+								perform as promised. IVA Research will strive to
 								support continuous product improvements through its product
 								testing services.
 							</th>
@@ -76,10 +76,10 @@
 						<tr>
 							<th scope="col" colspan="4" class="text-left">
 								Children have a special right to protection, and extra measures
-								will be taken to ensure their safety. Link Cloud Survey
+								will be taken to ensure their safety. IVA Research
 								encourages parents to review any online survey directed to a
 								child. No child under 14 years of age will be surveyed by
-								Link Cloud Survey without parental permission.
+								IVA Research without parental permission.
 							</th>
 						</tr>
 					</tbody>

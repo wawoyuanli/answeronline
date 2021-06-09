@@ -17,7 +17,7 @@
 						</p>
 						<div class="text-left h4">Who We Are</div>
 						<div class="text-left">
-							Link Cloud Survey owned
+							IVA Research owned
 							and operated by GLOBALTON CONSULTING INC., a global marketing
 							research and analytical consulting firm headquartered in the
 							New York area. GLOBALTON CONSULTING INC. subscribes to the
@@ -47,7 +47,7 @@
 							>
 						</div>
 						<div class="h4 text-left">
-							The Link Cloud Survey BELIEVES THAT ITS MEMBERS
+							The IVA Research BELIEVES THAT ITS MEMBERS
 							HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY
 							ADHERING TO THESE STANDARDS:
 						</div>
@@ -283,7 +283,7 @@
 						</div>
 						<div class="text-left mt-3">
 							Specific personal information is required from you in order for
-							you to become a member of Link Cloud Survey. This
+							you to become a member of IVA Research. This
 							personal information includes first name, last name, country,
 							province or state, address, city, postal code, and email address.
 							In addition to the previous information, other information may be
@@ -297,7 +297,7 @@
 							without limitation,: (i) to communicate with you about your
 							membership and to determine whether you qualify for surveys, (ii)
 							to invite you to participate in surveys , (iii) to notify you of
-							news about The Link Cloud Survey, (iv) to notify
+							news about The IVA Research, (iv) to notify
 							you of Points balances in your Member Account, (v) to alert you to
 							changes in our Privacy Policy, (vi) to send you any cash, test
 							products, prizes, or incentives to which you may be entitled based
@@ -505,7 +505,7 @@
 						<div class="text-left">
 							You may "Opt-Out" at any time when taking a survey. You may also
 							update or delete your personal information at any time by logging
-							into your Link Cloud Survey Member Account
+							into your IVA Research Member Account
 						</div>
 						<div class="text-left ml-3">
 							Once you join our panel and receive invitations to complete
@@ -547,7 +547,7 @@
 						</div>
 						<div class="h4 text-left">How We Secure Your Information</div>
 						<div class="text-left">
-							The Link Cloud Survey has multiple security
+							The IVA Research has multiple security
 							measures in place to ensure the confidentiality and protection of
 							your personal information. The data is stored behind GLOBALTON CONSULTING INC's 
 							firewall, and the data is encrypted. We have security
@@ -640,7 +640,7 @@
 						</div>
 						<div class="text-left">
 							Your personal information is kept by GLOBALTON CONSULTING INC so long as
-							you are an active Member of the Link Cloud Survey
+							you are an active Member of the IVA Research
 							or some other Member of the GLOBALTON CONSULTING INC. Once you cancel your Member
 							Account or Opt-Out, your personal data remains encrypted and is
 							stored for a period of 2 years behind our firewall, or if any

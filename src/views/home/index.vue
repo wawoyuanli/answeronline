@@ -177,7 +177,7 @@
 				<div class="col-md-3"></div>
 				<div class="col-md-6 h5">
 					<div style="color: gray">
-						Link Cloud Survey has hundreds of thousands of members worldwide who
+						IVA Research has hundreds of thousands of members worldwide who
 						are paid to take part in surveys and research projects.
 					</div>
 					<div
@@ -264,7 +264,7 @@
 				<div class="col-md-6">
 					<p class="h2 mt-5">Our Achievement</p>
 					<p class="mb-5">
-						Based on your demographics, Link Cloud Survey will provide you with
+						Based on your demographics, IVA Research will provide you with
 						paid research and market research opportunities and will provide you
 						with remuneration.
 					</p>
@@ -343,7 +343,7 @@
 						</div>
 						<div class="border-right">
 							<p class="text-left h6 pt-5">
-								<i>"It's great to be a part of a Link Cloud Survey site."</i>
+								<i>"It's great to be a part of a IVA Research site."</i>
 							</p>
 							<p class="text-left h6 pb-5">--JS OHIO</p>
 						</div>
@@ -361,7 +361,7 @@
 						<div class="border-right">
 							<p class="text-left ml-2 h6 pt-5">
 								<i
-									>"The Link Cloud Survey has been one of the best, and probably
+									>"The IVA Research has been one of the best, and probably
 									THE best, panel that I have worked with in some time</i
 								>
 							</p>
@@ -436,7 +436,7 @@ export default {
 				'You will never have to pay any money to be a member. Your participation in our surveys is the only "cost" of membership.',
 			content2:
 				'Incentives range in value from 100 to 5,000 Points per survey or research project, depending upon the time it takes. A Point equals a penny.',
-			content3: `Most members of Link Cloud Survey enjoy having the opportunity to make their opinions count, to influence the future. It's similar to voting for elected officials—but here, you are voting on products and services you want in the future. `,
+			content3: `Most members of IVA Research enjoy having the opportunity to make their opinions count, to influence the future. It's similar to voting for elected officials—but here, you are voting on products and services you want in the future. `,
 			content4: `You will have the opportunity to evaluate new products and new product ideas as well as optimize existing products and packaging designs.
                Your participation will help companies determine which products are worthy of placement in the stores you shop in every day.
                `,

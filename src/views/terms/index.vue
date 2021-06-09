@@ -11,7 +11,7 @@
 					<div class="col-md-8">
 						<p class="text-left h4">Summary</p>
 						<p class="text-left">
-							The <label class="h6">Link Cloud Survey</label> is
+							The <label class="h6">IVA Research</label> is
 							owned and operated by
 							<label class="h6">GLOBALTON CONSULTING INC.</label> (<a
 								href="www.ivaresearch.com"
@@ -21,8 +21,8 @@
 						</p>
 						<p class="text-left mt-3">
 							This page is a summary of the binding Legal Agreement between you
-							and the Link Cloud Survey. If you click on the "I
-							Agree" button and/or you use the Link Cloud Survey
+							and the IVA Research. If you click on the "I
+							Agree" button and/or you use the IVA Research
 							website and participate in Research Projects, you agree to all of
 							the Terms and Conditions.
 						</p>
@@ -57,7 +57,7 @@
 						</div>
 						<div class="text-left mt-3">
 							You must be 14 years of age or older to become a Member of the
-							Link Cloud Survey. Only one Member per household is
+							IVA Research. Only one Member per household is
 							permitted.
 						</div>
 						<div class="text-left mt-3">
