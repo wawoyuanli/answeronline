@@ -20,7 +20,7 @@
 							get paid to participate in surveys and research projects.
 						</div>
 						<div class="ml-3 mt-3 h6">
-							GLOBALTON CONSULTING INC. originally created the IVA Research.Members
+							IVA Research. originally created the IVA Research.Members
 							were personally invited to participate in the panel by telephone,
 							and answered the surveys via the mail. Members primarily tested
 							and provided their feedback on new products.

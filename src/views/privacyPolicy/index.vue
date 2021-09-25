@@ -18,9 +18,9 @@
 						<div class="text-left h4">Who We Are</div>
 						<div class="text-left">
 							IVA Research owned
-							and operated by GLOBALTON CONSULTING INC., a global marketing
+							and operated by IVA Research., a global marketing
 							research and analytical consulting firm headquartered in the
-							New York area. GLOBALTON CONSULTING INC. subscribes to the
+							New York area. IVA Research. subscribes to the
 							privacy, confidentiality, and ethics policies of these
 							organizations:
 						</div>
@@ -114,11 +114,11 @@
 							EU-US and Swiss-US Privacy Shield Framework
 						</p>
 						<div class="text-left mt-3 mb-3">
-							GLOBALTON CONSULTING INC complies with the EU-US Privacy Shield Framework
+							IVA Research complies with the EU-US Privacy Shield Framework
 							and the Swiss-US Privacy Shield Framework as set forth by the U.S.
 							Department of Commerce regarding the collection, use, and
 							retention of personal information transferred from the European
-							and Switzerland to the United States, respectively. GLOBALTON CONSULTING INC
+							and Switzerland to the United States, respectively. IVA Research
 							Analyst has certified to the Department of Commerce that it
 							adheres to the Privacy Shield Principles. If there is any conflict
 							between the terms in this privacy policy and the Privacy Shield
@@ -128,13 +128,13 @@
 						</div>
 						<div class="text-left mb-3 mt-3">
 							In compliance with the EU-US and Swiss-US Privacy Shield
-							Principles, GLOBALTON CONSULTING INC commits to resolve complaints about
+							Principles, IVA Research commits to resolve complaints about
 							your privacy and our collection or use of your personal
 							information. 
 						</div>
 
 						<div class="text-left mt-3 mb-3">
-							GLOBALTON CONSULTING INC has further committed to refer unresolved privacy
+							IVA Research has further committed to refer unresolved privacy
 							complaints under the EU-US and Swiss-US Privacy Shield Principles
 							to an independent dispute resolution mechanism, the BBB EU PRIVACY
 							SHIELD, operated by the Council of Better Business Bureaus. If you
@@ -150,25 +150,25 @@
 							option may be available before a Privacy Shield Panel.
 						</div>
 						<div class="text-left mt-3">
-							GLOBALTON CONSULTING INC submits to being subject to the investigatory and
+							IVA Research submits to being subject to the investigatory and
 							enforcement powers of the FTC, the Department of Transportation,
 							or any other U.S. authorized statutory body with regards to our
 							self-certification and implementation of the Principles, and
 							acknowledges the right of the EU individual, under certain
 							conditions, to invoke binding arbitration, at no cost to the
-							individual, in filing a complaint disputing GLOBALTON CONSULTING INC’s
+							individual, in filing a complaint disputing IVA Research’s
 							adherence to these practices. We also may be required to disclose
 							an individual’s personal information in response to a lawful
 							request by public authorities, including to meet national security
 							or law enforcement requirements. In cases of onward transfer to
 							third parties of data of EU individuals received pursuant to the
-							EU-US Privacy Shield, GLOBALTON CONSULTING INC is potentially liable.
+							EU-US Privacy Shield, IVA Research is potentially liable.
 						</div>
 						<div class="text-left border-bottom col-md-5 mt-4">
 							European Union General Data Protection Regulation
 						</div>
 						<div class="text-left mb-4">
-							GLOBALTON CONSULTING INC adheres to the provisions set forth by the
+							IVA Research adheres to the provisions set forth by the
 							European Parliament and the European Council in the General Data
 							Protection Regulation (GDPR). GDPR offers European data subjects
 							(that is, European residents) a number of rights, including:
@@ -201,7 +201,7 @@
 						</div>
 
 						<div class="mt-5 text-left">
-							In addition to these rights, GLOBALTON CONSULTING INC’s systems are
+							In addition to these rights, IVA Research’s systems are
 							designed with the intent of protecting the privacy of data
 							subjects, as required by GDPR. Any new modifications or designs
 							will continue to, at a minimum, uphold the requirements outlined
@@ -218,7 +218,7 @@
 							California Consumer Privacy Act (CCPA)
 						</div>
 						<div class="text-left">
-							GLOBALTON CONSULTING INC adheres to the requirements in the California
+							IVA Research adheres to the requirements in the California
 							Consumer Privacy Act of 2018. This act gives consumers in
 							California certain rights in regards to how companies use their
 							personal information. These include:
@@ -243,7 +243,7 @@
 							of if they exercise their privacy rights or not.
 						</div>
 						<div class="text-left mt-4">
-							GLOBALTON CONSULTING INC’s systems have been modified with these
+							IVA Research’s systems have been modified with these
 							requirements in mind. Any new modifications will continue to, at a
 							minimum, uphold the requirements set forth in this legislation and
 							uphold the requirements in any new legislation. 
@@ -273,10 +273,10 @@
 							your brand preferences, shopping patterns, and buying behavior.
 						</div>
 						<div class="text-left mt-3">
-							GLOBALTON CONSULTING INC may collect personal information and demographic
+							IVA Research may collect personal information and demographic
 							information from information services bureaus, other research
 							firms and/or sample providers/suppliers, social media platforms,
-							and other data sources. GLOBALTON CONSULTING INC may use your personal or
+							and other data sources. IVA Research may use your personal or
 							demographic information for data validation, data appending, fraud
 							detection and prevention, and/or sending emails to invite you to
 							participate in a survey and/or join another Panel.
@@ -380,11 +380,11 @@
 							limitation, in the United States, and by agreeing to this privacy
 							policy you are agreeing to the processing and exportation of your
 							personal information as set forth in this Section. If you have any
-							questions about this data sharing please contact GLOBALTON CONSULTING INC
+							questions about this data sharing please contact IVA Research
 							by emailing us at contact@ivaresearch.com or you can opt-out through your
-							account page or by emailing GLOBALTON CONSULTING INC at contact@ivaresearch.com.
+							account page or by emailing IVA Research at contact@ivaresearch.com.
 							If you opt-out, it is the responsibility of us to inform the Third
-							Party MR Companies. Please note that GLOBALTON CONSULTING INC is solely
+							Party MR Companies. Please note that IVA Research is solely
 							liable and responsible for managing all opt-out requests. Your
 							participation in such survey opportunities does not entitle you to
 							any benefits offered by, or membership with, the Third Party MR
@@ -397,8 +397,8 @@
 							your personal contact information is protected and private.
 						</div>
 						<div class="text-left ml-3">
-							GLOBALTON CONSULTING INC may disclose or share personal and other
-							information collected through GLOBALTON CONSULTING INC's services with
+							IVA Research may disclose or share personal and other
+							information collected through IVA Research's services with
 							other companies as follows:
 						</div>
 						<div class="text-left ml-3">
@@ -407,20 +407,20 @@
 						</div>
 						<div class="text-left ml-3">
 							To establish, exercise or defend legal claims of an individual or
-							GLOBALTON CONSULTING INC, to protect the safety of an individual or to
-							protect GLOBALTON CONSULTING INC's rights and/or property.
+							IVA Research, to protect the safety of an individual or to
+							protect IVA Research's rights and/or property.
 						</div>
 						<div class="text-left ml-3">
-							Among various GLOBALTON CONSULTING INC Panels if you sign up for more than
+							Among various IVA Research Panels if you sign up for more than
 							one panel.
 						</div>
 						<div class="text-left ml-3">
-							To a parent, subsidiary, or affiliate of GLOBALTON CONSULTING INC in the
+							To a parent, subsidiary, or affiliate of IVA Research in the
 							event of a reorganization or restructuring.
 						</div>
 						<div class="text-left ml-3">
 							To authorized agents, research partners, and/or subcontractors of
-							GLOBALTON CONSULTING INC and/or of GLOBALTON CONSULTING INC's clients, who are
+							IVA Research and/or of IVA Research's clients, who are
 							providing data appending services, data validation services, fraud
 							detection and/or prevention services, database-matching services,
 							coding services, sampling services, data segmentation services,
@@ -436,18 +436,18 @@
 						</div>
 						<div class="text-left ml-3">
 							To a new owner with a change of ownership or control, including a
-							merger or an acquisition of any or all of GLOBALTON CONSULTING INC's
+							merger or an acquisition of any or all of IVA Research's
 							business assets, provided that the party receiving or acquiring
 							the personal information agrees to use, protect and maintain the
 							security, integrity and confidentiality of personal information in
 							accordance with this Privacy Policy.
 						</div>
 						<div class="text-left ml-3">
-							To partners of GLOBALTON CONSULTING INC who offer incentives for use of
-							GLOBALTON CONSULTING INC's services, solely for the partners' use in
+							To partners of IVA Research who offer incentives for use of
+							IVA Research's services, solely for the partners' use in
 							connection with their incentive program and its terms of use,
 							including the crediting of Member Accounts maintained by the
-							partners for individuals who use or participate in GLOBALTON CONSULTING INC's services.
+							partners for individuals who use or participate in IVA Research's services.
 						</div>
 						<div class="text-left ml-3">
 							As otherwise permitted in this Privacy Policy.
@@ -464,39 +464,39 @@
 							the aggregated data insights.
 						</div>
 						<div class="text-left ml-3">
-							GLOBALTON CONSULTING INC will provide survey data and responses to
-							GLOBALTON CONSULTING INC clients with no personal information disclosed by
-							GLOBALTON CONSULTING INC, other than UIDs. If you voluntarily disclose
+							IVA Research will provide survey data and responses to
+							IVA Research clients with no personal information disclosed by
+							IVA Research, other than UIDs. If you voluntarily disclose
 							personal information in connection with your survey responses, and
-							GLOBALTON CONSULTING INC collects the survey responses, GLOBALTON CONSULTING INC
+							IVA Research collects the survey responses, IVA Research
 							will transfer the survey responses, UID and the voluntarily
-							disclosed personal information to GLOBALTON CONSULTING INC's client. In
-							addition, GLOBALTON CONSULTING INC may share geographic and/or demographic
-							data GLOBALTON CONSULTING INC collects from you during registration or
+							disclosed personal information to IVA Research's client. In
+							addition, IVA Research may share geographic and/or demographic
+							data IVA Research collects from you during registration or
 							through surveys. Such data may be shared with third parties on an
 							individual respondent level or as aggregate summaries.
 						</div>
 						<div class="text-left ml-3">
-							GLOBALTON CONSULTING INC's clients may engage GLOBALTON CONSULTING INC to supply
+							IVA Research's clients may engage IVA Research to supply
 							or provide demographic information of or about individuals who
 							have viewed an advertisement or visited a website for the purpose
 							of measuring internet and digital media audiences. The demographic
-							information may be provided or supplied to GLOBALTON CONSULTING INC's
+							information may be provided or supplied to IVA Research's
 							clients. The demographic information and analysis performed by or
-							on behalf of GLOBALTON CONSULTING INC's clients assist with the creation,
+							on behalf of IVA Research's clients assist with the creation,
 							development and implementation of websites, online advertisements
 							and other Internet and digital media features, functionality and
 							campaigns.
 						</div>
 						<div class="text-left ml-3">
-							Generally, disclosures of personal information by GLOBALTON CONSULTING INC
+							Generally, disclosures of personal information by IVA Research
 							to some other company or organization, except for disclosures of
-							UIDs, are controlled by a written agreement between GLOBALTON CONSULTING INC
+							UIDs, are controlled by a written agreement between IVA Research
 							and the other company or organization, which restricts and
-							limits use of the personal information. GLOBALTON CONSULTING INC may allow
+							limits use of the personal information. IVA Research may allow
 							a client to collect personal information directly from panel
 							members. The disclosure is voluntary and, prior to collection, the
-							client is required to enter into a written agreement with GLOBALTON CONSULTING INC
+							client is required to enter into a written agreement with IVA Research
 							, which restricts and limits use of the personal
 							information.
 						</div>
@@ -519,7 +519,7 @@
 						<div class="text-left ml-3">
 							Once you have registered, you may safely update or delete your
 							Member Account (and all of your personal data) at any time. If you
-							would like to contact GLOBALTON CONSULTING INC in regard to your privacy
+							would like to contact IVA Research in regard to your privacy
 							please email us at privacy@ivaresearch.com.
 						</div>
 						<div class="text-left">
@@ -549,7 +549,7 @@
 						<div class="text-left">
 							The IVA Research has multiple security
 							measures in place to ensure the confidentiality and protection of
-							your personal information. The data is stored behind GLOBALTON CONSULTING INC's 
+							your personal information. The data is stored behind IVA Research's 
 							firewall, and the data is encrypted. We have security
 							measures in place to protect against the loss, misuse, or
 							alteration of any information we receive from you. As with any
@@ -584,16 +584,16 @@
 							advertising campaigns. Digital fingerprinting assigns a unique
 							identifier to your computing device (PC, tablet computer,
 							smartphone, etc.) based on its technical settings and IP Address.
-							GLOBALTON CONSULTING INC uses digital fingerprinting technology for
+							IVA Research uses digital fingerprinting technology for
 							quality control, validation purposes and fraud detection and/or
 							prevention, including identifying duplicate or fraudulent
-							respondents. GLOBALTON CONSULTING INC may implement and use digital
+							respondents. IVA Research may implement and use digital
 							fingerprinting directly or through a third party vendor.
 							Watermarking involves placing code or a file on your computing
 							device to identify that it has been used to register with or
-							access GLOBALTON CONSULTING INC's services. Watermarking is used for
+							access IVA Research's services. Watermarking is used for
 							quality control and validation purposes and fraud detection and/or
-							prevention purposes. GLOBALTON CONSULTING INC may engage in watermarking
+							prevention purposes. IVA Research may engage in watermarking
 							activities directly or through a third party vendor.
 						</div>
 						<div class="h4 text-left mt-3">Communications With Members</div>
@@ -616,7 +616,7 @@
 						<div class="text-left">
 							The www.ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
-							take a survey from one of GLOBALTON CONSULTING INC's research
+							take a survey from one of IVA Research's research
 							partners-whose privacy policy may differ from ours. We encourage
 							you to read the privacy statement of each site you visit.
 						</div>
@@ -625,7 +625,7 @@
 						<div class="text-left">
 							The www.ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
-							take a survey from one of GLOBALTON CONSULTING INC's research
+							take a survey from one of IVA Research's research
 							partners-whose privacy policy may differ from ours. We encourage
 							you to read the privacy statement of each site you visit.
 						</div>
@@ -639,9 +639,9 @@
 							Retention of Personal Information
 						</div>
 						<div class="text-left">
-							Your personal information is kept by GLOBALTON CONSULTING INC so long as
+							Your personal information is kept by IVA Research so long as
 							you are an active Member of the IVA Research
-							or some other Member of the GLOBALTON CONSULTING INC. Once you cancel your Member
+							or some other Member of the IVA Research. Once you cancel your Member
 							Account or Opt-Out, your personal data remains encrypted and is
 							stored for a period of 2 years behind our firewall, or if any
 							questions come up about your Member Account or Points in your
@@ -650,7 +650,7 @@
 
 						<div class="h4 text-left mt-3">Enforcement Of Privacy Policy</div>
 						<div class="text-left">
-							If you believe GLOBALTON CONSULTING INC. has violated this Privacy
+							If you believe IVA Research. has violated this Privacy
 							Policy with respect to your personal information, please contact
 							us so that we can investigate and correct any errors or mistakes.
 							If you are a US resident and you are not satisfied with our

@@ -13,7 +13,7 @@
 						<p class="text-left">
 							The <label class="h6">IVA Research</label> is
 							owned and operated by
-							<label class="h6">GLOBALTON CONSULTING INC.</label> (<a
+							<label class="h6">IVA Research.</label> (<a
 								href="www.ivaresearch.com"
 								class="text-decoration-none"
 								>www.ivaresearch.com</a

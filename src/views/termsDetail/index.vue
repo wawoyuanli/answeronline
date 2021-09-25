@@ -348,7 +348,7 @@
 						All Points awarded to you are added to your Member Account
 						maintained by IVA Research. You can access your
 						Member Account by going to www.ivaresearch.com. and clicking on "Login" and
-						logging in with your email address and password. GLOBALTON CONSULTING INC
+						logging in with your email address and password. IVA Research
 						 will hold the Points in your Member Account until
 						Earned, subject to the terms of this Agreement. For a Member Account
 						to be established in your name, you must complete the online
@@ -376,7 +376,7 @@
 					</div>
 					<div class="text-left">
 						<label class="h5">G. Email Communications -</label>
-						All contact and communication between you and GLOBALTON CONSULTING INC
+						All contact and communication between you and IVA Research
 						 will be conducted via email to the email address you
 						provide at registration, or as provided by you every 12 months (or
 						sooner if necessary) when you update your registration information.
@@ -421,7 +421,7 @@
 						response is answered in a reasonable time period and that responses
 						are not invalidated due to "cheater traps" or other deceitful means,
 						as this breaks our member agreement to ensure honest answers. This
-						process could take up to 30 days. Once validated, GLOBALTON CONSULTING INC
+						process could take up to 30 days. Once validated, IVA Research
 						 will process your transaction within 6 to 8 weeks.
 					</div>
 					<div class="text-left mt-2">
@@ -465,7 +465,7 @@
 						receive an email or other electronic notification from us that your
 						Member Account is in danger of becoming Non-Compliant. If you
 						respond to that email notification by following the link provided in
-						the email, you will remain a Compliant Member of GLOBALTON CONSULTING INC
+						the email, you will remain a Compliant Member of IVA Research
 						. If you do not respond to the email or other
 						electronic notification within thirty (30) days, your Member Account
 						will be placed on Non-Compliant status. Once your Member Account is
@@ -634,7 +634,7 @@
 						updates, revisions, supplements, modifications or amendments shall
 						be effective immediately upon its posting on the Site and will only
 						be applicable to disputes arising, or arising out of events
-						occurring, after such posting has been made. GLOBALTON CONSULTING INC
+						occurring, after such posting has been made. IVA Research
 						 will provide you notice of any updates, revisions,
 						supplements, modifications, or amendments to this Agreement by
 						placing a "Notice of Modification" link on the homepage for a 30-day
@@ -714,9 +714,9 @@
 						<label class="h5">A.</label>
 						IVA Research's logos, and other trademarks,
 						service marks, labels, product names and service names
-						(collectively, the Marks) are owned or licensed by GLOBALTON CONSULTING INC,
+						(collectively, the Marks) are owned or licensed by IVA Research,
 						Inc. You agree not to copy, display or otherwise use any of the
-						Marks without the prior written permission of GLOBALTON CONSULTING INC.
+						Marks without the prior written permission of IVA Research.
 						Notwithstanding the foregoing, the Marks may not be used in any
 						manner likely to cause confusion, to disparage or dilute these
 						Marks, and/or to use in connection with any product or service that
@@ -744,9 +744,9 @@
 						html and other mark up languages, screeners, surveys, group
 						discussion questions, videos, new product concepts, ads, and all
 						scripts within the Site associated therewith, are copyright 2021,
-						GLOBALTON CONSULTING INC. All rights reserved. This copyrighted and
-						proprietary property of GLOBALTON CONSULTING INC. may not be duplicated
-						or used without GLOBALTON CONSULTING INC's express prior written consent.
+						IVA Research. All rights reserved. This copyrighted and
+						proprietary property of IVA Research. may not be duplicated
+						or used without IVA Research's express prior written consent.
 					</div>
 					<div class="text-left">
 						<label class="h5">D.</label>
@@ -777,7 +777,7 @@
 					<div class="text-left mt-2 mb-2">
 						In registering at the Site, and participating in Research Projects,
 						Members are acting as independent contractors. Members are not
-						employees of the Site, IVA Research, or GLOBALTON CONSULTING INC.
+						employees of the Site, IVA Research, or IVA Research.
 					</div>
 					<p class="text-left h4 mt-2">19. Digital Millennium Copyright Act</p>
 					<div class="text-left mt-2 mb-2">
@@ -849,7 +849,7 @@
 					<p class="text-left h4 mt-2">22. Governing Law and Venue</p>
 					<div class="text-left mt-2 mb-2">
 						IVA Research's principal office is in the State
-						of New York and this Site is controlled by GLOBALTON CONSULTING INC. from
+						of New York and this Site is controlled by IVA Research. from
 						its offices within the State of New York, United States of America. The
 						IVA Research Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of

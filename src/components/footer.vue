@@ -13,7 +13,7 @@
          <div class="ml-4 h4 text-light">IVA Research</div>
           <p class="mt-4 mb-3 text-light text-left">
             IVA Research is owned and operated by 
-            GLOBALTON CONSULTING INC., a global marketing research and analytical consulting
+            IVA Research., a global marketing research and analytical consulting
             firm headquartered
           </p>
           <!-- <p class="col-md-8 text-light text-left">
@@ -124,7 +124,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-4">
           <p class="text-light text-left">
-            ©2021 GLOBALTON CONSULTING INC. All rights reserved.
+            ©2021 IVA Research. All rights reserved.
           </p>
           <div class="text-light text-left">
             <a href="#/terms" class="text-light text-decoration-none" id="terms"

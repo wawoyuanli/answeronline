@@ -15,7 +15,7 @@
 							<th scope="col" colspan="4" class="text-left">
 								Consumers have the right to freely express their opinions,
 								preferences, and grievances to the companies and governments
-								that provide products and services to them. GLOBALTON CONSULTING INC
+								that provide products and services to them. IVA Research
 								 will always report consumers' viewpoints honestly and
 								accurately to these organizations.
 							</th>
@@ -44,7 +44,7 @@
 							<th scope="col" colspan="4" class="text-left">
 								Consumers are entitled to the benefits of competition, wherein
 								many companies and organizations are striving and competing to
-								satisfy consumer needs and preferences. GLOBALTON CONSULTING INC
+								satisfy consumer needs and preferences. IVA Research
 								 will work to promote competition around the globe.
 							</th>
 						</tr>
@@ -66,7 +66,7 @@
 						</tr>
 						<tr class="table-primary">
 							<th scope="col" colspan="4" class="text-left">
-								Consumers are entitled to a safe environment. GLOBALTON CONSULTING INC
+								Consumers are entitled to a safe environment. IVA Research
 								 will work through its clients, its corporate
 								activities, and its consulting services to promote behaviors,
 								products, and services that help to preserve, protect, and
