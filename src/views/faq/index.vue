@@ -95,7 +95,7 @@
                   >
                     <div class="card-body">
                       <div class="panel">
-                        To be eligible for Genting Consulting, you must meet the
+                        To be eligible for IVA Research, you must meet the
                         following criteria: You must be 18 years old and Account information must be
                         accurate and complete. You must register using your
                         valid e-mail address. Signing up through a proxy server
@@ -263,7 +263,7 @@
                     <div class="card-body">
                       <div class="panel">
                         After you have successfully met all the advertiser’s
-                        requirements you will earn credit from Genting Consulting.
+                        requirements you will earn credit from IVA Research.
                         Credit(s) can be applied upwards of 7 business days
                         after advertiser approval to reach your account
                       </div>
@@ -470,7 +470,7 @@
                         aria-controls="collapseEleven"
                         style="font-weight:600"
                       >
-                        Do members get paid for referring Genting Consulting to
+                        Do members get paid for referring IVA Research to
                         friends?
                       </button>
                     </h2>
@@ -483,12 +483,12 @@
                   >
                     <div class="card-body">
                       <div class="panel">
-                        YES! You can refer your friends to Genting Consulting and
+                        YES! You can refer your friends to IVA Research and
                         earn 10% of their offer earnings for the life of their
-                        account. For example, you refer Bob to Genting Consulting,
+                        account. For example, you refer Bob to IVA Research,
                         Bob becomes a member and completes $30.00 in offers and
-                        $20.00 in Genting Consulting Mails. Once Bob requests payment for
-                        $50.00, Genting Consulting will immediately credit $3.00
+                        $20.00 in IVA Research Mails. Once Bob requests payment for
+                        $50.00, IVA Research will immediately credit $3.00
                         (10% of Offer Earnings) into your account.
                       </div>
                     </div>

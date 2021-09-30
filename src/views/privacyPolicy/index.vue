@@ -17,10 +17,9 @@
 						</p>
 						<div class="text-left h4">Who We Are</div>
 						<div class="text-left">
-							IVA Research owned
-							and operated by IVA Research., a global marketing
+							IVA Research is a global marketing
 							research and analytical consulting firm headquartered in the
-							New York area. IVA Research. subscribes to the
+							China area. IVA Research. subscribes to the
 							privacy, confidentiality, and ethics policies of these
 							organizations:
 						</div>
@@ -209,8 +208,8 @@
 							the future. 
 						</div>
 						<div class="mt-5 text-left">
-							Additional information in regards to these rights and GLOBALTON 
-							CONSULTING INC can be found in the subsequent sections of
+							Additional information in regards to these rights and  
+							IVA Research can be found in the subsequent sections of
 							this privacy policy. More information about GDPR in general can be
 							found at an official website of European Union law, Eur-Lex.
 						</div>

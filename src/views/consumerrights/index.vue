@@ -22,8 +22,8 @@
 						</tr>
 						<tr>
 							<th scope="col" colspan="4" class="text-left">
-								Consumers have an inalienable right to privacy. GLOBALTON CONSULTING 
-								INC protects the privacy and anonymity of its
+								Consumers have an inalienable right to privacy. IVA Research 
+								 protects the privacy and anonymity of its
 								panel members. Private data about these individuals (name, email
 								address, street address, phone number, income, education, family
 								composition, etc.) is never sold or leased to anyone.
@@ -34,8 +34,8 @@
 						</tr>
 						<tr class="table-primary">
 							<th scope="col" colspan="4" class="text-left">
-								Consumers are entitled to free markets and free choice. GLOBALTON 
-								CONSULTING INC will strive to promote free markets and free
+								Consumers are entitled to free markets and free choice.  
+								IVA Research will strive to promote free markets and free
 								choice for consumers, so that they can choose how, when, and
 								where they want to spend their money, energies, and time.
 							</th>

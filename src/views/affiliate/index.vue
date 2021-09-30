@@ -20,7 +20,7 @@
 							get paid to participate in surveys and research projects.
 						</div>
 						<div class="ml-3 mt-3 h6">
-							IVA Research. originally created the IVA Research.Members
+							IVA Research. Members
 							were personally invited to participate in the panel by telephone,
 							and answered the surveys via the mail. Members primarily tested
 							and provided their feedback on new products.
@@ -75,7 +75,7 @@
 						<div class="ml-3 mt-3" style="font-size: 14px; font-weight: 600">
 							High performers with valid sign-ups WILL be eligible for bonuses
 							or a higher pay rate overall. For questions, comments or concerns
-							please contact:
+							please contact: contact@ivaresearch.com
 						</div>
 					</div>
 				</div>

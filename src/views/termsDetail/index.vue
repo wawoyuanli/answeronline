@@ -387,8 +387,8 @@
 						that you do not earn the Points that may accumulate in your Member
 						Account, as explained in 8.J. You further agree that the Site may
 						from time to time attach script to its emails to help ensure that
-						you are receiving and opening emails from the Site. GLOBALTON 
-						CONSULTING INC will not share your personal information
+						you are receiving and opening emails from the Site.  
+						IVA Research will not share your personal information
 						without your prior consent and your information will only be used
 						for marketing research purposes.
 					</div>
@@ -481,11 +481,11 @@
 					<p class="text-left">
 						<label class="h5">K. NOT A FINANCIAL INSTITUTION - </label>
 						BY COMPLETING THE REGISTRATION FORM, BY ACCEPTING THIS AGREEMENT BY
-						CLICKING "I AGREE," BY UTILIZING THE LINK CLOUD SURVEY
+						CLICKING "I AGREE," BY UTILIZING THE IVA Research
 						 INCENTIVE PROGRAM, AND BY PARTICIPATING IN RESEARCH PROJECTS,
 						YOU ACKNOWLEDGE AND AGREE THAT IVA Research IS
 						NOT A BANK OR ANY OTHER KIND OR FORM OF FINANCIAL INSTITUTION AND
-						THAT LINK CLOUD SURVEY DOES NOT MAINTAIN YOUR MEMBER
+						THAT IVA Research DOES NOT MAINTAIN YOUR MEMBER
 						ACCOUNT FOR ANY PURPOSE OTHER THAN THOSE SPECIFIED HEREIN. YOU AGREE
 						THAT THE POINTS ADDED TO YOUR MEMBER ACCOUNT HAVE NO CASH OR
 						MONETARY VALUE UNTIL EARNED, IN ACCORDANCE WITH THE TERMS OF THIS
@@ -519,8 +519,8 @@
 						or other proprietary information (including images, text, page
 						layout, or form) of IVA Research or its
 						affiliates without prior express written consent. You may not use
-						meta tags or any other "hidden text" utilizing GLOBALTON CONSULTING
-						 INC's name or trademarks without the express written
+						meta tags or any other "hidden text" utilizing IVA Research's
+						  name or trademarks without the express written
 						consent of IVA Research.
 					</div>
 					<div class="text-left mt-3 mb-2">
@@ -688,8 +688,8 @@
 						 SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
 						SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES. YOU UNDERSTAND AND
 						ACCEPT THAT YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE YOUR
-						USE OF THE SITE. NOTWITHSTANDING THE FOREGOING, GLOBALTON CONSULTING
-						 INC'S LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
+						USE OF THE SITE. NOTWITHSTANDING THE FOREGOING, IVA Research'S
+						 LIABILITY TO YOU SHALL NOT EXCEED $1,000. YOU
 						FURTHER AGREE NOT TO JOIN IN ANY LAWSUIT WITH ANOTHER PERSON OR
 						SERVE AS A CLASS REPRESENTATIVE OF ANY CLASS ACTION LAWSUIT AGAINST
 						IVA Research ARISING OUT OF THE USE OF THE SITE
@@ -726,8 +726,8 @@
 						<label class="h5">B.</label>
 						All answers and responses to screeners, surveys, group discussion
 						questions or probes, ideation sessions, innovation sessions, or
-						other Research Projects become the exclusive property of GLOBALTON 
-						CONSULTING INC and/or its clients, except that the personal
+						other Research Projects become the exclusive property of  
+						IVA Research and/or its clients, except that the personal
 						identity and anonymity of each Member shall be protected at all
 						times by IVA Research. That is, at no time will
 						any client of IVA Research know how any Member
@@ -854,8 +854,8 @@
 						IVA Research Site can be accessed from all 50
 						states, as well as from other countries around the world. As each of
 						these jurisdictions has laws and regulations that may differ from
-						those of New York, by accessing this Site both you and GLOBALTON 
-						CONSULTING INC agree that the statutes and laws of the
+						those of New York, by accessing this Site both you and  
+						IVA Research agree that the statutes and laws of the
 						State of New York, without regard to conflicts of laws principles
 						thereof, will apply to all matters relating to use of this Site
 						(whether grounded in tort, contract, law, or equity).

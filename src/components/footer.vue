@@ -12,8 +12,7 @@
           /> -->
          <div class="ml-4 h4 text-light">IVA Research</div>
           <p class="mt-4 mb-3 text-light text-left">
-            IVA Research is owned and operated by 
-            IVA Research., a global marketing research and analytical consulting
+            IVA Research is a global marketing research and analytical consulting
             firm headquartered
           </p>
           <!-- <p class="col-md-8 text-light text-left">
