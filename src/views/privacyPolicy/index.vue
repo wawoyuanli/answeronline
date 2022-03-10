@@ -18,8 +18,8 @@
 						<div class="text-left h4">Who We Are</div>
 						<div class="text-left">
 							IVA Research is a global marketing
-							research and analytical consulting firm headquartered in the
-							China area. IVA Research. subscribes to the
+							research and analytical consulting firm. 
+							IVA Research subscribes to the
 							privacy, confidentiality, and ethics policies of these
 							organizations:
 						</div>
