@@ -137,8 +137,8 @@
 						<label style="color: red">*</label>
 					</label>
 					<select id="inputState" class="form-control col-md-12">
-						<option selected>男</option>
-						<option>女</option>
+						<option selected>Male</option>
+						<option>Female</option>
 					</select>
 				</div>
 				<div class="col-lg-3" style="opacity: 0"></div>
