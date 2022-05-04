@@ -613,7 +613,7 @@
 
 						<div class="h4 text-left mt-3">Legal Disclaimer</div>
 						<div class="text-left">
-							The www.ivaresearch.com website contains links to other websites whose
+							The ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of IVA Research's research
 							partners-whose privacy policy may differ from ours. We encourage
@@ -622,7 +622,7 @@
 
 						<div class="h4 text-left mt-3">Links To Outside Sites</div>
 						<div class="text-left">
-							The www.ivaresearch.com website contains links to other websites whose
+							The ivaresearch.com website contains links to other websites whose
 							privacy policies may differ from ours, and occasionally you may
 							take a survey from one of IVA Research's research
 							partners-whose privacy policy may differ from ours. We encourage

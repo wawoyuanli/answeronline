@@ -14,9 +14,9 @@
 							The <label class="h6">IVA Research</label> is
 							owned and operated by
 							<label class="h6">IVA Research.</label> (<a
-								href="www.ivaresearch.com"
+								href="ivaresearch.com"
 								class="text-decoration-none"
-								>www.ivaresearch.com</a
+								>ivaresearch.com</a
 							>).
 						</p>
 						<p class="text-left mt-3">
@@ -37,7 +37,7 @@
 						</div>
 						<div class="text-left mt-3">
 							You must maintain a current and correct email address in your
-							Member Account at www.ivaresearch.com at all times, and you agree that
+							Member Account at ivaresearch.com at all times, and you agree that
 							all transactions will be conducted by email or similar electronic
 							communications. If you fail to maintain a current and correct
 							email address or fail to respond to repeated emails, you will lose

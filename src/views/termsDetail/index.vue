@@ -347,7 +347,7 @@
 						</label>
 						All Points awarded to you are added to your Member Account
 						maintained by IVA Research. You can access your
-						Member Account by going to www.ivaresearch.com. and clicking on "Login" and
+						Member Account by going to ivaresearch.com. and clicking on "Login" and
 						logging in with your email address and password. IVA Research
 						 will hold the Points in your Member Account until
 						Earned, subject to the terms of this Agreement. For a Member Account
@@ -403,7 +403,7 @@
 						have no cash or monetary value. The 1,000-Point minimum may be
 						changed by IVA Research from time to time, but
 						not without posting notification on the Site. You may review your
-						Member Account Points at any time by going to www.ivaresearch.com and
+						Member Account Points at any time by going to ivaresearch.com and
 						clicking on "Login" and logging in with your email address and
 						password. If you choose to redeem Points for cash or money, you will
 						have the choice of payment in U.S. Dollars (USD) or your local
